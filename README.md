@@ -78,10 +78,8 @@ casino-marketing/
 ├── pricing.html
 ├── features/          # generated at build
 ├── css/site.css
-├── js/
-│   ├── features-data.mjs
-│   ├── feature-page.mjs
-│   └── contact-form.mjs
+├── js/                # Vite modules (feature-page.mjs, contact-form.mjs, …)
+├── public/js/         # Static client scripts copied to dist (site, ambient bg)
 ├── public/
 │   ├── robots.txt
 │   └── sitemap.xml    # generated at build
