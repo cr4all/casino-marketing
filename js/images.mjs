@@ -1,0 +1,22 @@
+/** Local marketing site image paths (served from public/assets/images). */
+export const IMAGES = {
+  games: "/assets/images/games.jpg",
+  sports: "/assets/images/sports.jpg",
+  wallet: "/assets/images/wallet.jpg",
+  payments: "/assets/images/payments.jpg",
+  bonus: "/assets/images/bonus.jpg",
+  crm: "/assets/images/crm.jpg",
+  affiliate: "/assets/images/affiliate.jpg",
+  analytics: "/assets/images/analytics.jpg",
+  security: "/assets/images/security.jpg",
+  compliance: "/assets/images/compliance.jpg",
+  backoffice: "/assets/images/backoffice.jpg",
+  dashboard: "/assets/images/dashboard.jpg",
+  player: "/assets/images/player.jpg",
+  platform: "/assets/images/platform.jpg",
+  casinoSports: "/assets/images/casino-sports.jpg",
+  cta: "/assets/images/cta.jpg",
+  turnkey: "/assets/images/turnkey.jpg",
+  whiteLabel: "/assets/images/white-label.jpg",
+  integrations: "/assets/images/integrations.jpg",
+};

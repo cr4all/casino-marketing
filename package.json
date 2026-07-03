@@ -1,0 +1,17 @@
+{
+  "name": "casino-marketing",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Ascendra Platforms — B2B marketing website",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "generate:features": "node scripts/generate-feature-pages.mjs",
+    "prebuild": "node scripts/generate-feature-pages.mjs"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  }
+}

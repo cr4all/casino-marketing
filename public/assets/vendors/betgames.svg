@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 56" role="img" aria-label="BetGames">
+  <rect width="200" height="56" rx="8" fill="#FFFFFF"/>
+  <rect x="0.5" y="0.5" width="199" height="55" rx="7.5" fill="none" stroke="#E2E8F0"/>
+  <circle cx="36" cy="28" r="6" fill="#FFB300"/>
+  <circle cx="164" cy="28" r="6" fill="#FFB300"/>
+  <text x="100" y="34" text-anchor="middle" fill="#111827" font-family="Arial Black, Arial, sans-serif" font-size="14" font-weight="900" letter-spacing="0.04em">BetGames</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 56" role="img" aria-label="NetEnt">
+  <rect width="200" height="56" rx="8" fill="#FFFFFF"/>
+  <rect x="0.5" y="0.5" width="199" height="55" rx="7.5" fill="none" stroke="#E2E8F0"/>
+  <text x="100" y="35" text-anchor="middle" fill="#111827" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.03em">NetEnt</text>
+</svg>

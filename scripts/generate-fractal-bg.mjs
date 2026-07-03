@@ -1,0 +1,73 @@
+import fs from 'fs';
+import path from 'path';
+import { fileURLToPath } from 'url';
+
+/**
+ * Regenerates public/assets/images/fractal-bg.svg using compact SVG <use> recursion.
+ * Run: node scripts/generate-fractal-bg.mjs
+ */
+
+const out = path.join(path.dirname(fileURLToPath(import.meta.url)), '../public/assets/images/fractal-bg.svg');
+
+const svg = `<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920 1080" fill="none" role="img" aria-hidden="true">
+  <rect width="1920" height="1080" fill="#070b14"/>
+
+  <defs>
+    <g id="tree-purple" stroke="#7c6cf0" stroke-linecap="round" fill="none">
+      <line x1="0" y1="0" x2="0" y2="-72" stroke-width="2.2" stroke-opacity="0.34"/>
+      <use href="#tree-purple" transform="translate(0,-72) rotate(-30) scale(0.74)"/>
+      <use href="#tree-purple" transform="translate(0,-72) rotate(30) scale(0.74)"/>
+    </g>
+
+    <g id="tree-gold" stroke="#e8b923" stroke-linecap="round" fill="none">
+      <line x1="0" y1="0" x2="0" y2="-72" stroke-width="2" stroke-opacity="0.28"/>
+      <use href="#tree-gold" transform="translate(0,-72) rotate(-32) scale(0.73)"/>
+      <use href="#tree-gold" transform="translate(0,-72) rotate(32) scale(0.73)"/>
+    </g>
+
+    <g id="sierpinski" fill="#7c6cf0">
+      <polygon points="0,120 120,120 60,0" fill-opacity="0.07"/>
+      <use href="#sierpinski" transform="translate(0,60) scale(0.5)"/>
+      <use href="#sierpinski" transform="translate(60,60) scale(0.5)"/>
+      <use href="#sierpinski" transform="translate(30,0) scale(0.5)"/>
+    </g>
+
+    <g id="sierpinski-gold" fill="#e8b923">
+      <polygon points="0,100 100,100 50,0" fill-opacity="0.06"/>
+      <use href="#sierpinski-gold" transform="translate(0,50) scale(0.5)"/>
+      <use href="#sierpinski-gold" transform="translate(50,50) scale(0.5)"/>
+      <use href="#sierpinski-gold" transform="translate(25,0) scale(0.5)"/>
+    </g>
+
+    <g id="dragon" stroke="#7c6cf0" stroke-width="1.4" stroke-opacity="0.22" stroke-linecap="round" fill="none">
+      <path d="M0 0 L12 0"/>
+      <use href="#dragon" transform="translate(12,0) rotate(90) scale(0.72)"/>
+      <use href="#dragon" transform="translate(12,0) rotate(-90) scale(0.72)"/>
+    </g>
+  </defs>
+
+  <g opacity="0.95">
+    <use href="#sierpinski" transform="translate(1180 120) scale(2.4)"/>
+    <use href="#sierpinski-gold" transform="translate(140 260) scale(1.8)"/>
+    <use href="#sierpinski" transform="translate(760 40) scale(1.5)"/>
+  </g>
+
+  <g opacity="0.9">
+    <use href="#tree-purple" transform="translate(260 1120) scale(1.35)"/>
+    <use href="#tree-gold" transform="translate(1660 1140) scale(1.25)"/>
+    <use href="#tree-purple" transform="translate(980 1150) scale(1.1)"/>
+    <use href="#tree-gold" transform="translate(420 620) scale(0.85)"/>
+    <use href="#tree-purple" transform="translate(1520 540) scale(0.8)"/>
+  </g>
+
+  <g opacity="0.55">
+    <use href="#dragon" transform="translate(860 760) scale(2.2)"/>
+    <use href="#dragon" transform="translate(1180 860) scale(1.6) rotate(18)"/>
+    <use href="#dragon" transform="translate(540 880) scale(1.4) rotate(-12)"/>
+  </g>
+</svg>
+`;
+
+fs.writeFileSync(out, svg);
+console.log('Wrote', out);

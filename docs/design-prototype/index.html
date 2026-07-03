@@ -1,0 +1,1361 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Ascendra Platforms — Turnkey & White Label iGaming</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --bg-base: #070b14;
+      --bg-elevated: #0f1629;
+      --bg-subtle: #161f35;
+      --border: #243049;
+      --text-primary: #f8fafc;
+      --text-secondary: #94a3b8;
+      --text-muted: #64748b;
+      --brand: #7c6cf0;
+      --brand-hover: #6d5ce7;
+      --brand-glow: rgba(124, 108, 240, 0.35);
+      --gold: #e8b923;
+      --gold-soft: rgba(232, 185, 35, 0.15);
+      --secondary: #10b981;
+      --accent: #f59e0b;
+      --max-w: 1280px;
+      --px: 80px;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: Inter, system-ui, sans-serif;
+      background: var(--bg-base);
+      color: var(--text-primary);
+      line-height: 1.6;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+
+    a { color: inherit; text-decoration: none; }
+
+    .container {
+      max-width: var(--max-w);
+      margin: 0 auto;
+      padding: 0 var(--px);
+    }
+
+    .hero-glow {
+      position: absolute;
+      inset: 0;
+      pointer-events: none;
+      overflow: hidden;
+    }
+
+    .hero-glow::before {
+      content: "";
+      position: absolute;
+      top: -20%;
+      right: -10%;
+      width: 60%;
+      height: 80%;
+      background: radial-gradient(ellipse, var(--brand-glow) 0%, transparent 70%);
+    }
+
+    .hero-glow::after {
+      content: "";
+      position: absolute;
+      bottom: 0;
+      left: -10%;
+      width: 40%;
+      height: 50%;
+      background: radial-gradient(ellipse, var(--gold-soft) 0%, transparent 70%);
+    }
+
+    /* Logo */
+    .logo {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .logo-mark {
+      width: 36px;
+      height: 36px;
+      flex-shrink: 0;
+    }
+
+    .logo-text {
+      display: flex;
+      flex-direction: column;
+      line-height: 1.15;
+    }
+
+    .logo-text .brand-name {
+      font-family: "Plus Jakarta Sans", Inter, sans-serif;
+      font-size: 17px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      background: linear-gradient(135deg, #fff 0%, #c4b5fd 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .logo-text .brand-tag {
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+      color: var(--gold);
+    }
+
+    /* Header */
+    .header {
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      height: 76px;
+      background: rgba(7, 11, 20, 0.85);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .header-inner {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 100%;
+    }
+
+    .nav { display: flex; gap: 32px; }
+
+    .nav a {
+      font-size: 14px;
+      font-weight: 500;
+      color: var(--text-secondary);
+      transition: color 0.2s;
+    }
+
+    .nav a:hover { color: var(--text-primary); }
+
+    .header-actions { display: flex; gap: 12px; align-items: center; }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      height: 48px;
+      padding: 0 24px;
+      border-radius: 10px;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      transition: all 0.2s;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--brand), #9d8df7);
+      color: #fff;
+      box-shadow: 0 4px 20px var(--brand-glow);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-1px);
+      box-shadow: 0 8px 28px var(--brand-glow);
+    }
+
+    .btn-secondary {
+      background: rgba(255, 255, 255, 0.04);
+      color: var(--text-primary);
+      border: 1px solid var(--border);
+    }
+
+    .btn-secondary:hover { border-color: var(--text-secondary); background: rgba(255,255,255,0.06); }
+
+    .btn-lg { height: 52px; padding: 0 32px; font-size: 15px; }
+
+    /* Hero */
+    .hero {
+      position: relative;
+      padding: 100px 0 88px;
+    }
+
+    .hero-grid {
+      display: grid;
+      grid-template-columns: 1fr 1.05fr;
+      gap: 56px;
+      align-items: center;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 6px 14px;
+      border-radius: 999px;
+      background: var(--gold-soft);
+      border: 1px solid rgba(232, 185, 35, 0.25);
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--gold);
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+      margin-bottom: 24px;
+    }
+
+    .hero h1 {
+      font-family: "Plus Jakarta Sans", Inter, sans-serif;
+      font-size: 54px;
+      font-weight: 800;
+      line-height: 1.08;
+      letter-spacing: -0.03em;
+      margin-bottom: 24px;
+    }
+
+    .hero h1 span {
+      background: linear-gradient(135deg, var(--brand) 0%, #a78bfa 50%, var(--gold) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .hero-sub {
+      font-size: 18px;
+      color: var(--text-secondary);
+      margin-bottom: 36px;
+      max-width: 520px;
+      line-height: 1.7;
+    }
+
+    .hero-cta { display: flex; gap: 16px; flex-wrap: wrap; }
+
+    .hero-visual {
+      position: relative;
+    }
+
+    .hero-visual::before {
+      content: "";
+      position: absolute;
+      inset: -8%;
+      background: radial-gradient(circle at 50% 50%, var(--brand-glow), transparent 65%);
+      z-index: 0;
+    }
+
+    .mockup-stack {
+      position: relative;
+      z-index: 1;
+    }
+
+    .mockup {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 24px 64px rgba(0, 0, 0, 0.45);
+    }
+
+    .mockup-bar {
+      height: 44px;
+      background: var(--bg-subtle);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      gap: 8px;
+    }
+
+    .dot { width: 10px; height: 10px; border-radius: 50%; }
+    .dot-r { background: #ef4444; }
+    .dot-y { background: #f59e0b; }
+    .dot-g { background: #22c55e; }
+
+    .mockup-url {
+      flex: 1;
+      margin-left: 12px;
+      height: 26px;
+      background: var(--bg-base);
+      border-radius: 6px;
+      font-size: 11px;
+      color: var(--text-muted);
+      display: flex;
+      align-items: center;
+      padding: 0 12px;
+    }
+
+    .mockup-img {
+      width: 100%;
+      height: 280px;
+      object-fit: cover;
+      display: block;
+      opacity: 0.92;
+    }
+
+    .mockup-overlay {
+      position: relative;
+      margin-top: -80px;
+      margin-left: 24px;
+      margin-right: 24px;
+      padding: 20px;
+      background: rgba(15, 22, 41, 0.92);
+      backdrop-filter: blur(12px);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+    }
+
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 12px;
+    }
+
+    .kpi {
+      padding: 12px;
+      background: var(--bg-subtle);
+      border-radius: 8px;
+      border: 1px solid var(--border);
+    }
+
+    .kpi-label { font-size: 10px; color: var(--text-muted); text-transform: uppercase; letter-spacing: 0.06em; }
+    .kpi-value { font-size: 18px; font-weight: 700; margin-top: 4px; }
+    .kpi-value.green { color: var(--secondary); }
+    .kpi-value.gold { color: var(--gold); }
+
+    /* Stats */
+    .stats {
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+      background: linear-gradient(180deg, var(--bg-elevated) 0%, var(--bg-base) 100%);
+      padding: 48px 0;
+    }
+
+    .stats-grid {
+      display: grid;
+      grid-template-columns: repeat(5, 1fr);
+      gap: 24px;
+      text-align: center;
+    }
+
+    .stat-num {
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-size: 42px;
+      font-weight: 800;
+      letter-spacing: -0.03em;
+      color: var(--gold);
+    }
+
+    .stat-num.text { font-size: 34px; color: var(--text-primary); }
+
+    .stat-label {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      margin-top: 8px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    /* Trust */
+    .trust { padding: 40px 0; }
+
+    .trust-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 20px;
+    }
+
+    .trust-card {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 16px 20px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+    }
+
+    .trust-icon-wrap {
+      width: 44px;
+      height: 44px;
+      border-radius: 10px;
+      background: var(--gold-soft);
+      border: 1px solid rgba(232, 185, 35, 0.2);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      flex-shrink: 0;
+    }
+
+    .trust-icon-wrap svg { width: 22px; height: 22px; stroke: var(--gold); fill: none; }
+
+    .trust-label { font-size: 14px; font-weight: 600; color: var(--text-primary); }
+
+    /* Sections */
+    .section { padding: 96px 0; }
+
+    .section-header {
+      text-align: center;
+      max-width: 680px;
+      margin: 0 auto 56px;
+    }
+
+    .section-header h2 {
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-size: 38px;
+      font-weight: 800;
+      letter-spacing: -0.02em;
+      margin-bottom: 16px;
+    }
+
+    .section-header p { color: var(--text-secondary); font-size: 18px; }
+
+    /* Feature cards with images */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+    }
+
+    .feature-card {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: transform 0.25s, border-color 0.25s, box-shadow 0.25s;
+    }
+
+    .feature-card:hover {
+      transform: translateY(-4px);
+      border-color: rgba(124, 108, 240, 0.45);
+      box-shadow: 0 20px 48px rgba(0, 0, 0, 0.35);
+    }
+
+    .feature-visual {
+      position: relative;
+      height: 180px;
+      overflow: hidden;
+    }
+
+    .feature-visual img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.4s;
+    }
+
+    .feature-card:hover .feature-visual img { transform: scale(1.06); }
+
+    .feature-visual::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(180deg, transparent 30%, rgba(7, 11, 20, 0.95) 100%);
+    }
+
+    .feature-visual-badge {
+      position: absolute;
+      bottom: 14px;
+      left: 16px;
+      z-index: 1;
+      padding: 4px 10px;
+      border-radius: 6px;
+      background: rgba(124, 108, 240, 0.85);
+      backdrop-filter: blur(8px);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 0.04em;
+      text-transform: uppercase;
+    }
+
+    .feature-body { padding: 22px 24px 26px; }
+
+    .feature-body h3 {
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 10px;
+      line-height: 1.3;
+    }
+
+    .feature-body p {
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-bottom: 18px;
+      line-height: 1.6;
+    }
+
+    .feature-link {
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--brand);
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .feature-link:hover { color: #a78bfa; }
+
+    /* Flow */
+    .flow {
+      background: var(--bg-elevated);
+      border-top: 1px solid var(--border);
+      border-bottom: 1px solid var(--border);
+    }
+
+    .flow-steps {
+      display: flex;
+      align-items: stretch;
+      justify-content: center;
+      gap: 12px;
+      flex-wrap: wrap;
+    }
+
+    .flow-step {
+      flex: 1;
+      min-width: 180px;
+      max-width: 220px;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      text-align: center;
+    }
+
+    .flow-step img {
+      width: 100%;
+      height: 100px;
+      object-fit: cover;
+      opacity: 0.85;
+    }
+
+    .flow-step-title {
+      padding: 16px;
+      font-weight: 700;
+      font-size: 15px;
+    }
+
+    .flow-arrow {
+      display: flex;
+      align-items: center;
+      color: var(--brand);
+      font-size: 22px;
+      font-weight: 300;
+    }
+
+    /* Marquee */
+    .marquee-section { padding: 56px 0; overflow: hidden; }
+
+    .marquee-label {
+      text-align: center;
+      font-size: 11px;
+      font-weight: 700;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 24px;
+    }
+
+    .marquee-track {
+      display: flex;
+      gap: 16px;
+      animation: scroll 35s linear infinite;
+      width: max-content;
+    }
+
+    @keyframes scroll {
+      0% { transform: translateX(0); }
+      100% { transform: translateX(-50%); }
+    }
+
+    .vendor-pill {
+      flex-shrink: 0;
+      height: 52px;
+      padding: 0 28px;
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 10px;
+      display: flex;
+      align-items: center;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--text-secondary);
+    }
+
+    /* Brands */
+    .brands-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 24px;
+      margin-bottom: 40px;
+    }
+
+    .brand-card {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      height: 180px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 14px;
+      transition: border-color 0.2s, box-shadow 0.2s;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .brand-card-bg {
+      position: absolute;
+      inset: 0;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      opacity: 0.2;
+      transition: opacity 0.3s, transform 0.5s;
+    }
+
+    .brand-card:hover .brand-card-bg { opacity: 0.32; transform: scale(1.05); }
+
+    .brand-card::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, rgba(7,11,20,0.75), rgba(7,11,20,0.45));
+      pointer-events: none;
+      z-index: 1;
+    }
+
+    .brand-card:hover {
+      border-color: rgba(124, 108, 240, 0.4);
+      box-shadow: 0 12px 32px rgba(0,0,0,0.3);
+    }
+
+    .brand-badge {
+      font-size: 11px;
+      font-weight: 600;
+      color: var(--text-secondary);
+      background: rgba(22, 31, 53, 0.85);
+      padding: 5px 12px;
+      border-radius: 999px;
+      border: 1px solid var(--border);
+      position: relative;
+      z-index: 2;
+    }
+
+    .brand-placeholder {
+      font-size: 14px;
+      color: var(--text-muted);
+      font-weight: 600;
+      position: relative;
+      z-index: 2;
+    }
+
+    .brand-card svg { position: relative; z-index: 2; }
+
+    .brands-cta { text-align: center; }
+
+    /* Compare */
+    .compare-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 28px;
+    }
+
+    .compare-col {
+      background: var(--bg-elevated);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 0;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .compare-visual {
+      height: 132px;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .compare-visual img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.5s ease;
+    }
+
+    .compare-col:hover .compare-visual img { transform: scale(1.06); }
+
+    .compare-visual::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(to top, var(--bg-elevated) 0%, transparent 55%);
+    }
+
+    .compare-body {
+      padding: 8px 36px 36px;
+      position: relative;
+    }
+
+    .compare-col::before {
+      content: "";
+      position: absolute;
+      top: 132px;
+      left: 0;
+      right: 0;
+      height: 80px;
+      background: linear-gradient(180deg, rgba(124,108,240,0.1), transparent);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    .compare-col.featured {
+      border-color: var(--brand);
+      box-shadow: 0 0 0 1px rgba(124,108,240,0.2), 0 20px 48px rgba(0,0,0,0.3);
+    }
+
+    .compare-badge {
+      position: absolute;
+      top: 16px;
+      right: 16px;
+      z-index: 2;
+      background: linear-gradient(135deg, var(--brand), #9d8df7);
+      color: #fff;
+      font-size: 10px;
+      font-weight: 700;
+      padding: 5px 12px;
+      border-radius: 999px;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+    }
+
+    .compare-col h3 {
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-size: 26px;
+      font-weight: 800;
+      margin-bottom: 24px;
+      position: relative;
+    }
+
+    .checklist { list-style: none; position: relative; }
+
+    .checklist li {
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+      margin-bottom: 14px;
+      font-size: 15px;
+      color: var(--text-secondary);
+    }
+
+    .check { color: var(--secondary); font-weight: 700; flex-shrink: 0; }
+
+    /* CTA */
+    .cta-banner {
+      margin: 0 auto 96px;
+      max-width: calc(var(--max-w));
+      padding: 0 var(--px);
+    }
+
+    .cta-inner {
+      background: linear-gradient(135deg, #4c3d9e 0%, var(--brand) 40%, #6366f1 100%);
+      border-radius: 20px;
+      padding: 72px 64px;
+      text-align: center;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .cta-inner::before {
+      content: "";
+      position: absolute;
+      inset: 0;
+      background: url("/assets/images/cta.jpg") center/cover;
+      opacity: 0.12;
+    }
+
+    .cta-inner > * { position: relative; z-index: 1; }
+
+    .cta-inner h2 {
+      font-family: "Plus Jakarta Sans", sans-serif;
+      font-size: 38px;
+      font-weight: 800;
+      margin-bottom: 16px;
+    }
+
+    .cta-inner p { font-size: 18px; opacity: 0.92; margin-bottom: 32px; }
+
+    .cta-inner .btn-primary {
+      background: #fff;
+      color: var(--brand);
+      box-shadow: 0 8px 32px rgba(0,0,0,0.2);
+    }
+
+    .cta-inner .btn-primary:hover { background: #f8fafc; }
+
+    /* Footer */
+    .footer {
+      background: var(--bg-elevated);
+      border-top: 1px solid var(--border);
+      padding: 72px 0 32px;
+    }
+
+    .footer-grid {
+      display: grid;
+      grid-template-columns: 2fr repeat(3, 1fr);
+      gap: 48px;
+      margin-bottom: 48px;
+    }
+
+    .footer-brand p {
+      color: var(--text-secondary);
+      font-size: 14px;
+      margin-top: 20px;
+      max-width: 300px;
+      line-height: 1.7;
+    }
+
+    .footer-col h4 {
+      font-size: 13px;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      margin-bottom: 18px;
+      color: var(--text-primary);
+    }
+
+    .footer-col a {
+      display: block;
+      font-size: 14px;
+      color: var(--text-secondary);
+      margin-bottom: 12px;
+    }
+
+    .footer-col a:hover { color: var(--text-primary); }
+
+    .footer-bottom {
+      border-top: 1px solid var(--border);
+      padding-top: 24px;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 13px;
+      color: var(--text-muted);
+    }
+
+    .mobile-cta {
+      display: none;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      padding: 12px 16px;
+      background: rgba(15, 22, 41, 0.95);
+      backdrop-filter: blur(12px);
+      border-top: 1px solid var(--border);
+      z-index: 99;
+    }
+
+    .mobile-cta .btn { width: 100%; }
+
+    .hamburger {
+      display: none;
+      background: none;
+      border: none;
+      color: var(--text-primary);
+      font-size: 24px;
+      cursor: pointer;
+    }
+
+    @media (max-width: 1100px) {
+      .features-grid { grid-template-columns: repeat(2, 1fr); }
+      .trust-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+
+    @media (max-width: 768px) {
+      :root { --px: 24px; }
+
+      .nav, .header-actions .btn-secondary { display: none; }
+      .hamburger { display: block; }
+
+      .hero-grid { grid-template-columns: 1fr; gap: 48px; }
+      .hero h1 { font-size: 36px; }
+      .hero-cta .btn-lg { width: 100%; }
+
+      .features-grid { grid-template-columns: 1fr; }
+      .compare-grid { grid-template-columns: 1fr; }
+      .stats-grid { grid-template-columns: repeat(2, 1fr); }
+      .brands-grid { grid-template-columns: repeat(2, 1fr); }
+      .footer-grid { grid-template-columns: 1fr 1fr; }
+      .flow-arrow { display: none; }
+      .flow-steps { flex-direction: column; align-items: center; }
+      .mobile-cta { display: block; }
+      body { padding-bottom: 72px; }
+      .cta-inner { padding: 48px 28px; }
+      .cta-inner h2 { font-size: 28px; }
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Ascendra logo SVG (reusable) -->
+  <svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
+    <symbol id="logo-mark" viewBox="0 0 36 36">
+      <defs>
+        <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
+          <stop offset="0%" stop-color="#7c6cf0"/>
+          <stop offset="100%" stop-color="#e8b923"/>
+        </linearGradient>
+      </defs>
+      <rect width="36" height="36" rx="10" fill="url(#lg)"/>
+      <path d="M10 24 L18 10 L26 24" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M13 20 L23 20" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+    </symbol>
+  </svg>
+
+  <header class="header">
+    <div class="container header-inner">
+      <a href="index.html" class="logo">
+        <svg class="logo-mark" aria-hidden="true"><use href="#logo-mark"/></svg>
+        <div class="logo-text">
+          <span class="brand-name">Ascendra Platforms</span>
+          <span class="brand-tag">iGaming Infrastructure</span>
+        </div>
+      </a>
+      <nav class="nav">
+        <a href="index.html">Platform</a>
+        <a href="#features">Features</a>
+        <a href="#brands">Solutions</a>
+        <a href="integrations.html">Integrations</a>
+        <a href="contact.html">Resources</a>
+      </nav>
+      <div class="header-actions">
+        <a href="contact.html" class="btn btn-secondary">Contact</a>
+        <a href="contact.html" class="btn btn-primary">Request Demo</a>
+      </div>
+      <button class="hamburger" aria-label="Menu">☰</button>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-glow"></div>
+    <div class="container hero-grid">
+      <div>
+        <div class="hero-badge">Turnkey · White Label</div>
+        <h1>Launch Your iGaming Brand on <span>Ascendra Platforms</span></h1>
+        <p class="hero-sub">Production-ready casino and sportsbook software with 250+ game integrations, 50+ payment gateways, built-in CRM, anti-fraud protection, and a complete bonus engine.</p>
+        <div class="hero-cta">
+          <a href="contact.html" class="btn btn-primary btn-lg">Request Demo</a>
+          <a href="#features" class="btn btn-secondary btn-lg">Explore Features</a>
+        </div>
+      </div>
+      <div class="hero-visual">
+        <div class="mockup-stack">
+          <div class="mockup">
+            <div class="mockup-bar">
+              <span class="dot dot-r"></span><span class="dot dot-y"></span><span class="dot dot-g"></span>
+              <div class="mockup-url">admin.ascendraplatforms.com</div>
+            </div>
+            <img class="mockup-img" src="/assets/images/dashboard.jpg" alt="Ascendra Platforms operator dashboard" loading="eager" />
+            <div class="mockup-overlay">
+              <div class="kpi-grid">
+                <div class="kpi">
+                  <div class="kpi-label">GGR Today</div>
+                  <div class="kpi-value green">$124,580</div>
+                </div>
+                <div class="kpi">
+                  <div class="kpi-label">Deposits</div>
+                  <div class="kpi-value gold">$89,200</div>
+                </div>
+                <div class="kpi">
+                  <div class="kpi-label">Active Players</div>
+                  <div class="kpi-value">2,847</div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="stats">
+    <div class="container stats-grid">
+      <div><div class="stat-num">250+</div><div class="stat-label">Game Integrations</div></div>
+      <div><div class="stat-num">50+</div><div class="stat-label">Payment Gateways</div></div>
+      <div><div class="stat-num">10,000+</div><div class="stat-label">Games Available</div></div>
+      <div><div class="stat-num text">Full</div><div class="stat-label">Sportsbook</div></div>
+      <div><div class="stat-num">8+</div><div class="stat-label">Bonus Types</div></div>
+    </div>
+  </section>
+
+  <section class="trust">
+    <div class="container trust-grid">
+      <div class="trust-card">
+        <div class="trust-icon-wrap">
+          <svg viewBox="0 0 24 24" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+        </div>
+        <span class="trust-label">Audit-ready Wallet</span>
+      </div>
+      <div class="trust-card">
+        <div class="trust-icon-wrap">
+          <svg viewBox="0 0 24 24" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg>
+        </div>
+        <span class="trust-label">Full Sportsbook</span>
+      </div>
+      <div class="trust-card">
+        <div class="trust-icon-wrap">
+          <svg viewBox="0 0 24 24" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="M9 12l2 2 4-4"/></svg>
+        </div>
+        <span class="trust-label">Anti-Fraud System</span>
+      </div>
+      <div class="trust-card">
+        <div class="trust-icon-wrap">
+          <svg viewBox="0 0 24 24" stroke-width="2"><path d="M18 8A6 6 0 0 0 6 8c0 7-3 9-3 9h18s-3-2-3-9"/><path d="M13.73 21a2 2 0 0 1-3.46 0"/></svg>
+        </div>
+        <span class="trust-label">Marketing CRM</span>
+      </div>
+    </div>
+  </section>
+
+  <section class="section" id="features">
+    <div class="container">
+      <div class="section-header">
+        <h2>Everything You Need to Operate</h2>
+        <p>Enterprise-grade modules built into Ascendra Platforms — casino, sportsbook, payments, CRM, and more.</p>
+      </div>
+      <div class="features-grid">
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/games.jpg" alt="Casino game integrations" loading="lazy" />
+            <span class="feature-visual-badge">Games</span>
+          </div>
+          <div class="feature-body">
+            <h3>250+ Game Integrations</h3>
+            <p>Slots, live casino, and table games from Pragmatic Play, Evolution, SA Gaming, and more.</p>
+            <a href="feature.html?slug=game-integrations" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/sports.jpg" alt="Sportsbook live betting" loading="lazy" />
+            <span class="feature-visual-badge">Sports</span>
+          </div>
+          <div class="feature-body">
+            <h3>Complete Sportsbook</h3>
+            <p>Pre-match and live betting with singles, parlays, and unified wallet.</p>
+            <a href="feature.html?slug=sportsbook" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/wallet.jpg" alt="Transparent wallet ledger" loading="lazy" />
+            <span class="feature-visual-badge">Wallet</span>
+          </div>
+          <div class="feature-body">
+            <h3>Transparent Wallet</h3>
+            <p>Every transaction recorded for audit, reconciliation, and peace of mind.</p>
+            <a href="feature.html?slug=wallet" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/payments.jpg" alt="Global payment gateways" loading="lazy" />
+            <span class="feature-visual-badge">Payments</span>
+          </div>
+          <div class="feature-body">
+            <h3>50+ Payment Gateways</h3>
+            <p>Crypto and fiat worldwide with secure withdrawal approval.</p>
+            <a href="feature.html?slug=payments" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/bonus.jpg" alt="Bonus and promotions engine" loading="lazy" />
+            <span class="feature-visual-badge">Bonus</span>
+          </div>
+          <div class="feature-body">
+            <h3>Complete Bonus Engine</h3>
+            <p>Welcome, cashback, free spins, VIP — casino and sports promotions.</p>
+            <a href="feature.html?slug=bonus-engine" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/crm.jpg" alt="Marketing CRM dashboard" loading="lazy" />
+            <span class="feature-visual-badge">CRM</span>
+          </div>
+          <div class="feature-body">
+            <h3>Marketing CRM</h3>
+            <p>Segment players, run campaigns, and measure retention in-platform.</p>
+            <a href="feature.html?slug=marketing-crm" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/affiliate.jpg" alt="Affiliate partner network" loading="lazy" />
+            <span class="feature-visual-badge">Affiliate</span>
+          </div>
+          <div class="feature-body">
+            <h3>Affiliate System</h3>
+            <p>CPA, RevShare, hybrid models with sub-affiliate portal.</p>
+            <a href="feature.html?slug=affiliate-system" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/analytics.jpg" alt="Business intelligence analytics" loading="lazy" />
+            <span class="feature-visual-badge">Analytics</span>
+          </div>
+          <div class="feature-body">
+            <h3>Business Intelligence</h3>
+            <p>GGR, NGR, and daily KPIs your finance team can trust.</p>
+            <a href="feature.html?slug=business-intelligence" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/security.jpg" alt="Anti-fraud security system" loading="lazy" />
+            <span class="feature-visual-badge">Security</span>
+          </div>
+          <div class="feature-body">
+            <h3>Anti-Fraud System</h3>
+            <p>Real-time protection for signup, login, deposits, and withdrawals — AML screening and automated enforcement.</p>
+            <a href="feature.html?slug=anti-fraud" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/compliance.jpg" alt="Risk and compliance" loading="lazy" />
+            <span class="feature-visual-badge">Compliance</span>
+          </div>
+          <div class="feature-body">
+            <h3>Risk & Compliance</h3>
+            <p>Responsible gaming tools, KYC workflow, and regulatory framework support.</p>
+            <a href="feature.html?slug=risk-compliance" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+        <article class="feature-card">
+          <div class="feature-visual">
+            <img src="/assets/images/backoffice.jpg" alt="Operator backoffice" loading="lazy" />
+            <span class="feature-visual-badge">Admin</span>
+          </div>
+          <div class="feature-body">
+            <h3>Operator Backoffice</h3>
+            <p>Manage players, finance, games, sports, bonuses, CRM, fraud alerts, and support in one panel.</p>
+            <a href="feature.html?slug=operator-backoffice" class="feature-link">Learn more →</a>
+          </div>
+        </article>
+
+      </div>
+    </div>
+  </section>
+
+  <section class="section flow">
+    <div class="container">
+      <div class="section-header">
+        <h2>How Ascendra Platforms Works</h2>
+        <p>From player signup to bet settlement — one seamless flow.</p>
+      </div>
+      <div class="flow-steps">
+        <div class="flow-step">
+          <img src="/assets/images/player.jpg" alt="Player" loading="lazy" />
+          <div class="flow-step-title">Player</div>
+        </div>
+        <span class="flow-arrow">→</span>
+        <div class="flow-step">
+          <img src="/assets/images/platform.jpg" alt="Platform" loading="lazy" />
+          <div class="flow-step-title">Ascendra Platform</div>
+        </div>
+        <span class="flow-arrow">→</span>
+        <div class="flow-step">
+          <img src="/assets/images/wallet.jpg" alt="Wallet" loading="lazy" />
+          <div class="flow-step-title">Wallet</div>
+        </div>
+        <span class="flow-arrow">→</span>
+        <div class="flow-step">
+          <img src="/assets/images/casino-sports.jpg" alt="Casino and sports" loading="lazy" />
+          <div class="flow-step-title">Casino & Sports</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="marquee-section">
+    <div class="marquee-label">Trusted Game Vendors</div>
+    <div style="overflow:hidden">
+      <div class="marquee-track">
+        <span class="vendor-pill">Pragmatic Play</span>
+        <span class="vendor-pill">Evolution</span>
+        <span class="vendor-pill">SA Gaming</span>
+        <span class="vendor-pill">PG Soft</span>
+        <span class="vendor-pill">Spribe</span>
+        <span class="vendor-pill">Hacksaw Gaming</span>
+        <span class="vendor-pill">NetEnt</span>
+        <span class="vendor-pill">Play'n GO</span>
+        <span class="vendor-pill">Pragmatic Play</span>
+        <span class="vendor-pill">Evolution</span>
+        <span class="vendor-pill">SA Gaming</span>
+        <span class="vendor-pill">PG Soft</span>
+        <span class="vendor-pill">Spribe</span>
+        <span class="vendor-pill">Hacksaw Gaming</span>
+        <span class="vendor-pill">NetEnt</span>
+        <span class="vendor-pill">Play'n GO</span>
+      </div>
+    </div>
+    <div class="marquee-label" style="margin-top:36px">50+ Payment Gateways — Crypto · Fiat · Bank · E-wallet</div>
+  </section>
+
+  <section class="section" id="brands">
+    <div class="container">
+      <div class="section-header">
+        <h2>Brands Powered by Ascendra Platforms</h2>
+        <p>See how operators launch and scale on our turnkey and white-label solution.</p>
+      </div>
+      <div class="brands-grid">
+        <div class="brand-card">
+          <img class="brand-card-bg" src="/assets/images/casino-sports.jpg" alt="" aria-hidden="true" loading="lazy" />
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 162 52" fill="none" role="img" aria-label="IBETS24" width="140">
+            <defs>
+              <linearGradient id="ibets24-gold" x1="0" y1="0" x2="0" y2="1">
+                <stop offset="0%" stop-color="#FFD54F"/>
+                <stop offset="45%" stop-color="#FFB300"/>
+                <stop offset="100%" stop-color="#F57C00"/>
+              </linearGradient>
+            </defs>
+            <text x="0" y="40" font-family="Montserrat, Arial Black, Arial, sans-serif" font-size="36" font-weight="800" font-style="italic" letter-spacing="-0.08em">
+              <tspan fill="#FFFFFF">IBETS</tspan><tspan fill="url(#ibets24-gold)">24</tspan>
+            </text>
+          </svg>
+          <span class="brand-badge">Casino + Sportsbook</span>
+        </div>
+        <div class="brand-card">
+          <img class="brand-card-bg" src="/assets/images/sports.jpg" alt="" aria-hidden="true" loading="lazy" />
+          <span class="brand-placeholder">Brand B</span><span class="brand-badge">Coming soon</span>
+        </div>
+        <div class="brand-card">
+          <img class="brand-card-bg" src="/assets/images/games.jpg" alt="" aria-hidden="true" loading="lazy" />
+          <span class="brand-placeholder">Brand C</span><span class="brand-badge">Coming soon</span>
+        </div>
+        <div class="brand-card">
+          <img class="brand-card-bg" src="/assets/images/crm.jpg" alt="" aria-hidden="true" loading="lazy" />
+          <span class="brand-placeholder">Brand D</span><span class="brand-badge">Coming soon</span>
+        </div>
+      </div>
+      <div class="brands-cta">
+        <a href="contact.html" class="btn btn-primary btn-lg">Become Our Next Success Story</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2>Choose Your Solution</h2>
+        <p>Turnkey launch or full white-label customization on Ascendra Platforms.</p>
+      </div>
+      <div class="compare-grid">
+        <div class="compare-col featured">
+          <div class="compare-visual">
+            <img src="/assets/images/turnkey.jpg" alt="Turnkey launch" loading="lazy" />
+          </div>
+          <div class="compare-body">
+          <span class="compare-badge">Popular</span>
+          <h3>Turnkey</h3>
+          <ul class="checklist">
+            <li><span class="check">✓</span> Full stack — casino + sportsbook</li>
+            <li><span class="check">✓</span> 250+ game integrations</li>
+            <li><span class="check">✓</span> 50+ payment gateways</li>
+            <li><span class="check">✓</span> Bonus engine, CRM & Anti-Fraud System</li>
+            <li><span class="check">✓</span> Launch support (4–8 weeks)</li>
+          </ul>
+          </div>
+        </div>
+        <div class="compare-col">
+          <div class="compare-visual">
+            <img src="/assets/images/white-label.jpg" alt="White label branding" loading="lazy" />
+          </div>
+          <div class="compare-body">
+          <h3>White Label</h3>
+          <ul class="checklist">
+            <li><span class="check">✓</span> Everything in Turnkey</li>
+            <li><span class="check">✓</span> Custom domain, logo & theme</li>
+            <li><span class="check">✓</span> Branded legal pages</li>
+            <li><span class="check">✓</span> Multi-brand operation</li>
+            <li><span class="check">✓</span> Enterprise SLA</li>
+          </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <div class="cta-banner">
+    <div class="cta-inner">
+      <h2>Ready to Launch on Ascendra Platforms?</h2>
+      <p>Get a personalized demo and see the full platform in action.</p>
+      <a href="contact.html" class="btn btn-primary btn-lg">Request Demo</a>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="index.html" class="logo">
+            <svg class="logo-mark" aria-hidden="true"><use href="#logo-mark"/></svg>
+            <div class="logo-text">
+              <span class="brand-name">Ascendra Platforms</span>
+              <span class="brand-tag">iGaming Infrastructure</span>
+            </div>
+          </a>
+          <p>Turnkey and white-label iGaming platform for casino and sportsbook operators worldwide.</p>
+        </div>
+        <div class="footer-col">
+          <h4>Platform</h4>
+          <a href="index.html#features">Features</a>
+          <a href="integrations.html">Integrations</a>
+          <a href="feature.html?slug=operator-backoffice">Operator Backoffice</a>
+        </div>
+        <div class="footer-col">
+          <h4>Solutions</h4>
+          <a href="index.html">Turnkey</a>
+          <a href="index.html">White Label</a>
+          <a href="pricing.html">Pricing</a>
+        </div>
+        <div class="footer-col">
+          <h4>Legal</h4>
+          <a href="contact.html">Contact</a>
+          <a href="privacy.html">Privacy</a>
+          <a href="terms.html">Terms</a>
+          <a href="aml-policy.html">AML Policy</a>
+          <a href="responsible-gaming.html">Responsible Gaming</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <span>© 2026 Ascendra Platforms. All rights reserved.</span>
+        
+      </div>
+    </div>
+  </footer>
+
+  <div class="mobile-cta">
+    <a href="contact.html" class="btn btn-primary">Request Demo</a>
+  </div>
+
+</body>
+</html>

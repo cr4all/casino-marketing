@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 56" role="img" aria-label="Playtech Live">
+  <rect width="200" height="56" rx="8" fill="#FFFFFF"/>
+  <rect x="0.5" y="0.5" width="199" height="55" rx="7.5" fill="none" stroke="#E2E8F0"/>
+  <text x="100" y="24" text-anchor="middle" fill="#0D47A1" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700">Playtech</text>
+  <text x="100" y="39" text-anchor="middle" fill="#1976D2" font-family="Arial, Helvetica, sans-serif" font-size="10" font-weight="700" letter-spacing="0.16em">LIVE</text>
+</svg>

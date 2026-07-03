@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 46" fill="none" role="img" aria-label="Local cards">
+  <rect x="10" y="16" width="24" height="16" rx="2.5" stroke="#94A3B8" stroke-width="1.6"/>
+  <line x1="10" y1="21" x2="34" y2="21" stroke="#94A3B8" stroke-width="1.6"/>
+  <rect x="14" y="26" width="8" height="2" rx="1" fill="#94A3B8"/>
+  <text x="42" y="28" text-anchor="start" fill="#94A3B8" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="700">Local cards</text>
+</svg>
