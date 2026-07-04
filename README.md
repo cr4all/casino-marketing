@@ -33,22 +33,29 @@ npm run dev
 
 Opens at http://localhost:4321 (Vite) with the API on http://localhost:3001. Contact form submissions are proxied to `/api/contact`.
 
-## Admin platform (demo requests)
+## Contact form (email)
 
-Contact form submissions are stored in SQLite (`data/leads.db`) and viewable in the admin UI.
+Submissions POST to `/api/contact` and are emailed via [Twilio SendGrid](https://sendgrid.com/) — they are **not** stored for the admin inbox.
+
+| Variable | Description |
+|----------|-------------|
+| `SENDGRID_API_KEY` | SendGrid API key with Mail Send permission (required) |
+| `SENDGRID_FROM` | Verified sender address (default: `noreply@ascendraplatforms.com`) |
+| `SENDGRID_FROM_NAME` | Display name for outgoing mail (default: `Ascendra Platforms`) |
+| `CONTACT_NOTIFY_TO` | Recipient inbox (default: `sales@ascendraplatforms.com`) |
+
+Before going live, complete **Domain Authentication** for `ascendraplatforms.com` in the SendGrid console so `noreply@ascendraplatforms.com` can send.
+
+## Admin platform (legacy)
+
+The admin UI (`/admin/`) remains for viewing older SQLite leads only. New contact submissions go to email.
 
 | URL | Purpose |
 |-----|---------|
 | `/admin/login.html` | Admin sign-in |
-| `/admin/index.html` | Request list and detail |
+| `/admin/index.html` | Legacy request list |
 
-Configure `ADMIN_PASSWORD` and `ADMIN_SESSION_SECRET` in `.env`. The admin area is not linked from the public navigation.
-
-```bash
-# After editing .env
-npm run dev
-# Submit a test request at /contact.html, then open /admin/login.html
-```
+Configure `ADMIN_PASSWORD` and `ADMIN_SESSION_SECRET` in `.env` if you still use the admin area.
 
 ## Production (site + API)
 
@@ -81,6 +88,9 @@ The `prebuild` script generates:
 |----------|-------------|
 | `VITE_CONTACT_ENDPOINT` | POST URL for contact form (default: `/api/contact`) |
 | `VITE_SITE_URL` | Canonical site URL for sitemap (default: `https://ascendraplatforms.com`) |
+| `SENDGRID_API_KEY` | SendGrid API key (required for contact email) |
+| `SENDGRID_FROM` | Verified sender (default: `noreply@ascendraplatforms.com`) |
+| `CONTACT_NOTIFY_TO` | Notification recipient (default: `sales@ascendraplatforms.com`) |
 | `ADMIN_PASSWORD` | Password for `/admin/login.html` |
 | `ADMIN_SESSION_SECRET` | Secret for signing admin session cookies |
 | `API_PORT` | API server port (default: `3001`) |
@@ -101,7 +111,7 @@ See [docs/14-white-label-marketing-site-plan.md](./docs/14-white-label-marketing
 ```
 casino-marketing/
 ├── admin/             # Admin login + demo request dashboard
-├── server/            # Express API + SQLite
+├── server/            # Express API + email
 ├── data/              # SQLite DB (gitignored)
 ├── docs/                  # planning docs, Figma specs, HTML design prototype
 ├── index.html

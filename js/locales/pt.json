@@ -247,9 +247,12 @@
     },
     "messages": {
       "sending": "A enviar…",
+      "successTitle": "Pedido recebido",
       "success": "Obrigado! Entraremos em contacto em 24 horas.",
       "successDemo": "Obrigado! (Modo demo — defina VITE_CONTACT_ENDPOINT para ativar o envio.)",
-      "error": "Algo correu mal. Por favor, envie email para sales@ascendraplatforms.com"
+      "errorTitle": "Algo correu mal",
+      "error": "Algo correu mal. Por favor, envie email para sales@ascendraplatforms.com",
+      "close": "Fechar"
     }
   },
   "pricing": {

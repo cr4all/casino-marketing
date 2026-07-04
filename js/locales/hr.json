@@ -247,9 +247,12 @@
     },
     "messages": {
       "sending": "Slanje…",
+      "successTitle": "Zahtjev primljen",
       "success": "Hvala! Javit ćemo vam se unutar 24 sata.",
       "successDemo": "Thank you! (Demo mode — set VITE_CONTACT_ENDPOINT to enable delivery.)",
-      "error": "Nešto je pošlo po zlu. Molimo pošaljite e-mail na sales@ascendraplatforms.com"
+      "errorTitle": "Nešto je pošlo po krivu",
+      "error": "Nešto je pošlo po zlu. Molimo pošaljite e-mail na sales@ascendraplatforms.com",
+      "close": "Zatvori"
     }
   },
   "pricing": {

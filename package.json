@@ -19,6 +19,7 @@
     "prebuild": "node scripts/generate-locales.mjs && node scripts/generate-feature-pages.mjs"
   },
   "dependencies": {
+    "@sendgrid/mail": "^8.1.4",
     "cookie-parser": "^1.4.7",
     "express": "^4.21.2",
     "express-rate-limit": "^7.5.0",

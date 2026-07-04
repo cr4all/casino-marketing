@@ -42,7 +42,7 @@ function buildEnglish() {
     lang: "en",
     dir: "ltr",
     common: {
-      brandTag: "iGaming Infrastructure",
+      brandTag: "Turnkey · White Label Platform",
       nav: {
         home: "Platform",
         features: "Features",

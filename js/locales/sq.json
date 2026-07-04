@@ -247,9 +247,12 @@
     },
     "messages": {
       "sending": "Duke dërguar…",
+      "successTitle": "Kërkesa u mor",
       "success": "Faleminderit! Do të jemi në kontakt brenda 24 orëve.",
       "successDemo": "Faleminderit! (Modalitet demo — vendos VITE_CONTACT_ENDPOINT për të aktivizuar dërgesën.)",
-      "error": "Diçka shkoi keq. Ju lutem dërgoni email në sales@ascendraplatforms.com"
+      "errorTitle": "Diçka shkoi keq",
+      "error": "Diçka shkoi keq. Ju lutem dërgoni email në sales@ascendraplatforms.com",
+      "close": "Mbyll"
     }
   },
   "pricing": {

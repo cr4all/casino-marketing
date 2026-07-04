@@ -4,7 +4,9 @@ import rateLimit from "express-rate-limit";
 import { existsSync, readFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 import { fileURLToPath } from "node:url";
-import { createLead, getLead, listLeads, updateLeadStatus } from "./db.mjs";
+import { validateContact, validateStatus } from "./validate.mjs";
+import { sendContactNotification, isEmailConfigured } from "./email.mjs";
+import { getLead, listLeads, updateLeadStatus } from "./db.mjs";
 import {
   createSession,
   destroySession,
@@ -13,7 +15,6 @@ import {
   requireAuth,
   verifyPassword,
 } from "./auth.mjs";
-import { validateContact, validateStatus } from "./validate.mjs";
 
 const root = join(dirname(fileURLToPath(import.meta.url)), "..");
 
@@ -43,6 +44,10 @@ const sessionSecret = process.env.ADMIN_SESSION_SECRET || "dev-change-me";
 
 if (isProduction && (!getAdminPassword() || sessionSecret === "dev-change-me")) {
   console.warn("[api] Set ADMIN_PASSWORD and ADMIN_SESSION_SECRET in production.");
+}
+
+if (!isEmailConfigured()) {
+  console.warn("[api] SENDGRID_API_KEY is not set — contact form email delivery is disabled.");
 }
 
 const app = express();
@@ -77,18 +82,26 @@ function sessionCookieOptions() {
   };
 }
 
-app.post("/api/contact", contactLimiter, (req, res) => {
+app.post("/api/contact", contactLimiter, async (req, res) => {
   const validated = validateContact(req.body);
   if (!validated.ok) {
     return res.status(400).json({ error: "Invalid submission", details: validated.errors });
   }
 
-  const id = createLead(validated.data, {
-    ip: req.ip,
-    userAgent: req.get("user-agent") || "",
-  });
+  if (!isEmailConfigured()) {
+    return res.status(503).json({ error: "Email delivery is not configured" });
+  }
 
-  res.status(201).json({ ok: true, id });
+  try {
+    await sendContactNotification(validated.data, {
+      ip: req.ip,
+      userAgent: req.get("user-agent") || "",
+    });
+    res.status(201).json({ ok: true });
+  } catch (err) {
+    console.error("[contact] email failed:", err.message);
+    res.status(503).json({ error: "Unable to send message" });
+  }
 });
 
 app.post("/api/admin/login", loginLimiter, (req, res) => {

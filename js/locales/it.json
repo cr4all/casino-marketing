@@ -2,7 +2,7 @@
   "lang": "it",
   "dir": "ltr",
   "common": {
-    "brandTag": "Infrastruttura iGaming",
+    "brandTag": "Chiavi in mano · White Label",
     "nav": {
       "home": "Piattaforma",
       "features": "Funzionalità",
@@ -247,9 +247,12 @@
     },
     "messages": {
       "sending": "Invio in corso…",
+      "successTitle": "Richiesta ricevuta",
       "success": "Grazie! Ti contatteremo entro 24 ore.",
       "successDemo": "Grazie! (Modalità demo — imposta VITE_CONTACT_ENDPOINT per abilitare l'invio.)",
-      "error": "Qualcosa è andato storto. Scrivi a sales@ascendraplatforms.com"
+      "errorTitle": "Qualcosa è andato storto",
+      "error": "Qualcosa è andato storto. Scrivi a sales@ascendraplatforms.com",
+      "close": "Chiudi"
     }
   },
   "pricing": {

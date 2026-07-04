@@ -2,7 +2,7 @@
   "lang": "es",
   "dir": "ltr",
   "common": {
-    "brandTag": "Infraestructura iGaming",
+    "brandTag": "Llave en mano · Marca blanca",
     "nav": {
       "home": "Plataforma",
       "features": "Funciones",
@@ -247,9 +247,12 @@
     },
     "messages": {
       "sending": "Enviando…",
+      "successTitle": "Solicitud recibida",
       "success": "¡Gracias! Nos pondremos en contacto en 24 horas.",
       "successDemo": "¡Gracias! (Modo demo — configure VITE_CONTACT_ENDPOINT para habilitar el envío.)",
-      "error": "Algo salió mal. Por favor, escriba a sales@ascendraplatforms.com"
+      "errorTitle": "Algo salió mal",
+      "error": "Algo salió mal. Por favor, escriba a sales@ascendraplatforms.com",
+      "close": "Cerrar"
     }
   },
   "pricing": {

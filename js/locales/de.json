@@ -2,7 +2,7 @@
   "lang": "de",
   "dir": "ltr",
   "common": {
-    "brandTag": "iGaming-Infrastruktur",
+    "brandTag": "Turnkey · White-Label-Plattform",
     "nav": {
       "home": "Plattform",
       "features": "Funktionen",
@@ -247,9 +247,12 @@
     },
     "messages": {
       "sending": "Wird gesendet…",
+      "successTitle": "Anfrage erhalten",
       "success": "Vielen Dank! Wir melden uns innerhalb von 24 Stunden bei Ihnen.",
       "successDemo": "Vielen Dank! (Demo-Modus — setzen Sie VITE_CONTACT_ENDPOINT für den Versand.)",
-      "error": "Etwas ist schiefgelaufen. Bitte schreiben Sie an sales@ascendraplatforms.com"
+      "errorTitle": "Etwas ist schiefgelaufen",
+      "error": "Etwas ist schiefgelaufen. Bitte schreiben Sie an sales@ascendraplatforms.com",
+      "close": "Schließen"
     }
   },
   "pricing": {

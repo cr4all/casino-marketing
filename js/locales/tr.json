@@ -2,7 +2,7 @@
   "lang": "tr",
   "dir": "ltr",
   "common": {
-    "brandTag": "iGaming Altyapısı",
+    "brandTag": "Anahtar teslim · White Label",
     "nav": {
       "home": "Platform",
       "features": "Özellikler",
@@ -247,9 +247,12 @@
     },
     "messages": {
       "sending": "Gönderiliyor…",
+      "successTitle": "Talep alındı",
       "success": "Teşekkürler! 24 saat içinde sizinle iletişime geçeceğiz.",
       "successDemo": "Teşekkürler! (Demo modu — teslimatı etkinleştirmek için VITE_CONTACT_ENDPOINT ayarlayın.)",
-      "error": "Bir şeyler ters gitti. Lütfen sales@ascendraplatforms.com adresine e-posta gönderin"
+      "errorTitle": "Bir şeyler ters gitti",
+      "error": "Bir şeyler ters gitti. Lütfen sales@ascendraplatforms.com adresine e-posta gönderin",
+      "close": "Kapat"
     }
   },
   "pricing": {

@@ -2,7 +2,7 @@
   "lang": "ar",
   "dir": "rtl",
   "common": {
-    "brandTag": "بنية iGaming التحتية",
+    "brandTag": "جاهز للتشغيل · علامة بيضاء",
     "nav": {
       "home": "المنصة",
       "features": "الميزات",
@@ -247,9 +247,12 @@
     },
     "messages": {
       "sending": "جارٍ الإرسال…",
+      "successTitle": "تم استلام الطلب",
       "success": "شكراً لك! سنتواصل معك خلال 24 ساعة.",
       "successDemo": "شكراً لك! (وضع العرض التوضيحي — عيّن VITE_CONTACT_ENDPOINT لتفعيل التسليم.)",
-      "error": "حدث خطأ ما. يرجى مراسلة sales@ascendraplatforms.com"
+      "errorTitle": "حدث خطأ ما",
+      "error": "حدث خطأ ما. يرجى مراسلة sales@ascendraplatforms.com",
+      "close": "إغلاق"
     }
   },
   "pricing": {

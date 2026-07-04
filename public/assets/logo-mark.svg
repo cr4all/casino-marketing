@@ -1,11 +1,24 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" role="img" aria-label="Ascendra">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 36" fill="none" role="img" aria-label="Ascendra Platforms">
   <defs>
-    <linearGradient id="ascendra-logo-grad" x1="0" y1="0" x2="36" y2="36" gradientUnits="userSpaceOnUse">
-      <stop offset="0%" stop-color="#22a559"/>
-      <stop offset="100%" stop-color="#4ade80"/>
+    <linearGradient id="ap-bg" x1="5" y1="3" x2="31" y2="33" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#157a42"/>
+      <stop offset="1" stop-color="#34c471"/>
+    </linearGradient>
+    <linearGradient id="ap-shine" x1="18" y1="8" x2="18" y2="18" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.88"/>
     </linearGradient>
   </defs>
-  <rect width="36" height="36" rx="10" fill="url(#ascendra-logo-grad)"/>
-  <path d="M10 24 L18 10 L26 24" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M13 20 L23 20" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
+  <rect width="36" height="36" rx="10" fill="url(#ap-bg)"/>
+  <!-- White-label platform layers -->
+  <rect x="8" y="25.5" width="20" height="2" rx="1" fill="#fff" fill-opacity="0.28"/>
+  <rect x="8" y="28.5" width="20" height="2" rx="1" fill="#fff" fill-opacity="0.46"/>
+  <rect x="8" y="31.5" width="20" height="2" rx="1" fill="#fff" fill-opacity="0.66"/>
+  <!-- Platform core with module nodes (casino · sports · payments) -->
+  <rect x="9.5" y="17" width="17" height="6.5" rx="2" fill="#fff" fill-opacity="0.14" stroke="#fff" stroke-opacity="0.22" stroke-width="0.75"/>
+  <circle cx="13.5" cy="20.25" r="1.15" fill="#fff" fill-opacity="0.92"/>
+  <circle cx="18" cy="20.25" r="1.15" fill="#fff" fill-opacity="0.72"/>
+  <circle cx="22.5" cy="20.25" r="1.15" fill="#e8c547"/>
+  <!-- Launch peak / Ascendra mark -->
+  <path d="M18 7.25L25.75 16.75H22.35L18 10.85L13.65 16.75H10.25L18 7.25Z" fill="url(#ap-shine)"/>
 </svg>
