@@ -243,9 +243,12 @@ function buildEnglish() {
       },
       messages: {
         sending: "Sending…",
+        successTitle: "Request received",
         success: "Thank you! We'll be in touch within 24 hours.",
         successDemo: "Thank you! (Demo mode — set VITE_CONTACT_ENDPOINT to enable delivery.)",
+        errorTitle: "Something went wrong",
         error: "Something went wrong. Please email sales@ascendraplatforms.com",
+        close: "Close",
       },
     },
     pricing: {
