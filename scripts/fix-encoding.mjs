@@ -5,9 +5,25 @@ import { fileURLToPath } from "node:url";
 const root = join(fileURLToPath(import.meta.url), "..", "..");
 
 const replacements = [
+  [/Learn more \?\?\?/g, "Learn more →"],
   [/Learn more \?<\/a>/g, "Learn more →</a>"],
+  [/<span class="flow-arrow">\?\?\?<\/span>/g, '<span class="flow-arrow">→</span>'],
   [/<span class="flow-arrow">\?<\/span>/g, '<span class="flow-arrow">→</span>'],
+  [/<span class="check">\?\?\?<\/span>/g, '<span class="check">✓</span>'],
   [/<span class="check">\?<\/span>/g, '<span class="check">✓</span>'],
+  [/Launch support \(4\?\?\?8 weeks\)/g, "Launch support (4–8 weeks)"],
+  [/Launch support \(4\?8 weeks\)/g, "Launch support (4–8 weeks)"],
+  [/Gates of Olympus \?\?\? Pragmatic Play slot Play slot/g, "Gates of Olympus — Pragmatic Play slot"],
+  [/Ascendra Platforms \?\?\? Turnkey/g, "Ascendra Platforms — Turnkey"],
+  [/Ascendra Platforms \?\?\? casino/g, "Ascendra Platforms — casino"],
+  [/Platforms \?\?\? casino/g, "Platforms — casino"],
+  [/bet settlement \?\?\? one/g, "bet settlement — one"],
+  [/withdrawals \?\?\? AML/g, "withdrawals — AML"],
+  [/VIP \?\?\? casino/g, "VIP — casino"],
+  [/Full stack \?\?\? casino \+ sportsbook/g, "Full stack — casino + sportsbook"],
+  [/50\+ Payment Gateways \?\?\? Crypto/g, "50+ Payment Gateways — Crypto"],
+  [/\?\?\? /g, "— "],
+  [/\?\?\?/g, "—"],
   [/<div class="response-badge">\? Typical/g, '<div class="response-badge">✓ Typical'],
   [/Turnkey \? White Label/g, "Turnkey · White Label"],
   [

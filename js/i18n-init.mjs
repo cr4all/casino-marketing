@@ -79,6 +79,9 @@ function applyStats(containerSel) {
 }
 
 function applyHome() {
+  const pageTitle = t("home.meta.title");
+  if (pageTitle && typeof pageTitle === "string") document.title = pageTitle;
+
   const badge = q(".hero-badge");
   if (badge) badge.textContent = t("home.hero.badge");
 

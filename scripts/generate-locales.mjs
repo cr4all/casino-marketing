@@ -104,6 +104,9 @@ function buildEnglish() {
       },
     },
     home: {
+      meta: {
+        title: "Ascendra Platforms — Turnkey & White Label iGaming",
+      },
       hero: {
         badge: "Turnkey · White Label",
         title: "Launch Your iGaming Brand on Ascendra Platforms",

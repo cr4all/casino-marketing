@@ -2,165 +2,165 @@
   "lang": "de",
   "dir": "ltr",
   "common": {
-    "brandTag": "iGaming-Infrastruktur",
+    "brandTag": "iGaming Infrastructure",
     "nav": {
-      "home": "Plattform",
-      "features": "Funktionen",
-      "solutions": "Lösungen",
-      "integrations": "Integrationen",
-      "pricing": "Preise",
-      "contact": "Ressourcen"
+      "home": "Platform",
+      "features": "Features",
+      "solutions": "Solutions",
+      "integrations": "Integrations",
+      "pricing": "Prices",
+      "contact": "Resources"
     },
     "actions": {
-      "contact": "Kontakt",
-      "requestDemo": "Demo anfordern",
-      "exploreFeatures": "Funktionen entdecken",
-      "learnMore": "Mehr erfahren →",
-      "contactSales": "Vertrieb kontaktieren",
-      "contactUs": "Kontaktieren Sie uns",
-      "contactForQuote": "Angebot anfordern",
-      "submitRequest": "Anfrage senden",
-      "becomeSuccess": "Werden Sie unsere nächste Erfolgsgeschichte"
+      "contact": "Contact",
+      "requestDemo": "Request Demo",
+      "exploreFeatures": "Explore Features",
+      "learnMore": "Learn more →",
+      "contactSales": "Contact Sales",
+      "contactUs": "Contact Us",
+      "contactForQuote": "Contact for Quote",
+      "submitRequest": "Submit Request",
+      "becomeSuccess": "Become Our Next Success Story"
     },
     "footer": {
-      "tagline": "Turnkey- und White-Label-iGaming-Plattform für Casino- und Sportwettenbetreiber weltweit.",
-      "platform": "Plattform",
-      "solutions": "Lösungen",
-      "legal": "Rechtliches",
-      "features": "Funktionen",
-      "integrations": "Integrationen",
-      "operatorBackoffice": "Betreiber-Backoffice",
+      "tagline": "Turnkey and white-label iGaming platform for casino and sportsbook operators worldwide.",
+      "platform": "Platform",
+      "solutions": "Solutions",
+      "legal": "Legal",
+      "features": "Features",
+      "integrations": "Integrations",
+      "operatorBackoffice": "Operator Backoffice",
       "turnkey": "Turnkey",
       "whiteLabel": "White Label",
-      "prices": "Preise",
-      "contact": "Kontakt",
-      "privacy": "Datenschutz",
-      "terms": "AGB",
-      "amlPolicy": "AML-Richtlinie",
-      "responsibleGaming": "Verantwortungsvolles Spielen",
-      "copyright": "© 2026 Ascendra Platforms. Alle Rechte vorbehalten."
+      "prices": "Prices",
+      "contact": "Contact",
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "amlPolicy": "AML Policy",
+      "responsibleGaming": "Responsible Gaming",
+      "copyright": "© 2026 Ascendra Platforms. All rights reserved."
     },
     "aria": {
-      "openMenu": "Menü öffnen",
-      "mobileNav": "Mobile Navigation",
-      "selectLanguage": "Sprache wählen"
+      "openMenu": "Open menu",
+      "mobileNav": "Mobile navigation",
+      "selectLanguage": "Select language"
     },
     "stats": {
-      "gameIntegrations": "Spielintegrationen",
-      "paymentGateways": "Zahlungsgateways",
-      "gamesAvailable": "Verfügbare Spiele",
-      "sportsbook": "Sportwetten",
-      "bonusTypes": "Bonustypen",
-      "full": "Vollständig"
+      "gameIntegrations": "Game Integrations",
+      "paymentGateways": "Payment Gateways",
+      "gamesAvailable": "Games Available",
+      "sportsbook": "Sportsbook",
+      "bonusTypes": "Bonus Types",
+      "full": "Full"
     },
     "cta": {
-      "readyTitle": "Bereit für den Start mit Ascendra Platforms?",
-      "readySub": "Erhalten Sie eine personalisierte Demo und sehen Sie die gesamte Plattform in Aktion."
+      "readyTitle": "Ready to Launch on Ascendra Platforms?",
+      "readySub": "Get a personalized demo and see the full platform in action."
     },
     "badges": {
-      "popular": "Beliebt",
-      "comingSoon": "Demnächst",
-      "casinoSportsbook": "Casino + Sportwetten"
+      "popular": "Popular",
+      "comingSoon": "Coming soon",
+      "casinoSportsbook": "Casino + Sportsbook"
     }
   },
   "home": {
     "hero": {
       "badge": "Turnkey · White Label",
-      "title": "Starten Sie Ihre iGaming-Marke auf Ascendra Platforms",
+      "title": "Launch Your iGaming Brand on Ascendra Platforms",
       "titleHighlight": "Ascendra Platforms",
-      "sub": "Produktionsreife Casino- und Sportwetten-Software mit 250+ Spielintegrationen, 50+ Zahlungsgateways, integriertem CRM, Betrugsschutz und vollständiger Bonus-Engine."
+      "sub": "Production-ready casino and sportsbook software with 250+ game integrations, 50+ payment gateways, built-in CRM, anti-fraud protection, and a complete bonus engine."
     },
     "kpi": {
-      "ggrToday": "GGR heute",
-      "deposits": "Einzahlungen",
-      "activePlayers": "Aktive Spieler"
+      "ggrToday": "GGR Today",
+      "deposits": "Deposits",
+      "activePlayers": "Active Players"
     },
     "trust": {
-      "auditWallet": "Audit-fähige Wallet",
-      "fullSportsbook": "Vollständige Sportwetten",
-      "antiFraud": "Betrugsschutz-System",
-      "marketingCrm": "Marketing-CRM"
+      "auditWallet": "Audit-ready Wallet",
+      "fullSportsbook": "Full Sportsbook",
+      "antiFraud": "Anti-Fraud System",
+      "marketingCrm": "Marketing CRM"
     },
     "featuresSection": {
-      "title": "Alles, was Sie zum Betrieb brauchen",
-      "sub": "Enterprise-Module in Ascendra Platforms — Casino, Sportwetten, Zahlungen, CRM und mehr."
+      "title": "Everything You Need to Operate",
+      "sub": "Enterprise-grade modules built into Ascendra Platforms — casino, sportsbook, payments, CRM, and more."
     },
     "featureCards": [
       {
-        "badge": "Spiele",
-        "title": "250+ Spielintegrationen",
+        "badge": "Games",
+        "title": "250+ Game Integrations",
         "desc": "Slots, live casino, and table games from Pragmatic Play, Evolution, SA Gaming, and more."
       },
       {
-        "badge": "Sport",
-        "title": "Vollständige Sportwetten",
+        "badge": "Sports",
+        "title": "Complete Sportsbook",
         "desc": "Pre-match and live betting with singles, parlays, and unified wallet."
       },
       {
         "badge": "Wallet",
-        "title": "Transparente Wallet",
+        "title": "Transparent Wallet",
         "desc": "Every transaction recorded for audit, reconciliation, and peace of mind."
       },
       {
         "badge": "Payments",
-        "title": "50+ Zahlungsgateways",
+        "title": "50+ Payment Gateways",
         "desc": "Crypto and fiat worldwide with secure withdrawal approval."
       },
       {
         "badge": "Bonus",
-        "title": "Vollständige Bonus-Engine",
+        "title": "Complete Bonus Engine",
         "desc": "Welcome, cashback, free spins, VIP — casino and sports promotions."
       },
       {
         "badge": "CRM",
-        "title": "Marketing-CRM",
+        "title": "Marketing CRM",
         "desc": "Segment players, run campaigns, and measure retention in-platform."
       },
       {
         "badge": "Affiliate",
-        "title": "Affiliate-System",
+        "title": "Affiliate System",
         "desc": "CPA, RevShare, hybrid models with sub-affiliate portal."
       },
       {
-        "badge": "Analytik",
+        "badge": "Analytics",
         "title": "Business Intelligence",
         "desc": "GGR, NGR, and daily KPIs your finance team can trust."
       },
       {
-        "badge": "Sicherheit",
-        "title": "Betrugsschutz-System",
+        "badge": "Security",
+        "title": "Anti-Fraud System",
         "desc": "Real-time protection for signup, login, deposits, and withdrawals — AML screening and automated enforcement."
       },
       {
         "badge": "Compliance",
-        "title": "Risiko & Compliance",
+        "title": "Risk & Compliance",
         "desc": "Responsible gaming tools, KYC workflow, and regulatory framework support."
       },
       {
         "badge": "Admin",
-        "title": "Betreiber-Backoffice",
+        "title": "Operator Backoffice",
         "desc": "Manage players, finance, games, sports, bonuses, CRM, fraud alerts, and support in one panel."
       }
     ],
     "flow": {
-      "title": "So funktioniert Ascendra Platforms",
-      "sub": "Von der Spielerregistrierung bis zur Wettabrechnung — ein nahtloser Ablauf.",
-      "player": "Spieler",
-      "platform": "Ascendra-Plattform",
+      "title": "How Ascendra Platforms Works",
+      "sub": "From player signup to bet settlement — one seamless flow.",
+      "player": "Player",
+      "platform": "Ascendra Platform",
       "wallet": "Wallet",
-      "casinoSports": "Casino & Sport"
+      "casinoSports": "Casino & Sports"
     },
     "marquee": {
-      "vendors": "Vertrauenswürdige Spieleanbieter",
-      "payments": "50+ Zahlungsgateways — Krypto · Fiat · Bank · E-Wallet"
+      "vendors": "Trusted Game Vendors",
+      "payments": "50+ Payment Gateways — Crypto · Fiat · Bank · E-wallet"
     },
     "brands": {
-      "title": "Marken powered by Ascendra Platforms",
-      "sub": "Sehen Sie, wie Betreiber mit unserer Turnkey- und White-Label-Lösung starten und skalieren."
+      "title": "Brands Powered by Ascendra Platforms",
+      "sub": "See how operators launch and scale on our turnkey and white-label solution."
     },
     "compare": {
-      "title": "Wählen Sie Ihre Lösung",
-      "sub": "Turnkey-Start oder vollständige White-Label-Anpassung auf Ascendra Platforms.",
+      "title": "Choose Your Solution",
+      "sub": "Turnkey launch or full white-label customization on Ascendra Platforms.",
       "turnkey": {
         "title": "Turnkey",
         "items": [
@@ -181,23 +181,26 @@
           "Enterprise SLA"
         ]
       }
+    },
+    "meta": {
+      "title": "Ascendra Platforms — Turnkey & White Label iGaming"
     }
   },
   "contact": {
     "hero": {
-      "badge": "Loslegen",
-      "title": "Demo anfordern",
+      "badge": "Get Started",
+      "title": "Request a Demo",
       "sub": "Tell us about your project and our team will schedule a personalized walkthrough of Ascendra Platforms — casino, sportsbook, payments, CRM, and more."
     },
     "form": {
-      "company": "Firmenname",
-      "firstName": "Vorname",
-      "lastName": "Nachname",
-      "email": "Geschäftliche E-Mail",
-      "country": "Land / Region",
-      "solution": "Lösungstyp",
-      "launch": "Geplanter Start",
-      "message": "Nachricht",
+      "company": "Company Name",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "email": "Work Email",
+      "country": "Country / Region",
+      "solution": "Solution Type",
+      "launch": "Expected Launch",
+      "message": "Message",
       "placeholders": {
         "company": "Your company or brand name",
         "firstName": "John",
@@ -207,25 +210,25 @@
       },
       "countries": {
         "placeholder": "Select your region",
-        "na": "Nordamerika",
-        "eu": "Europa",
-        "latam": "Lateinamerika",
-        "asia": "Asien-Pazifik",
-        "mea": "Naher Osten & Afrika",
-        "other": "Sonstige"
+        "na": "North America",
+        "eu": "Europe",
+        "latam": "Latin America",
+        "asia": "Asia Pacific",
+        "mea": "Middle East & Africa",
+        "other": "Other"
       },
       "solutions": {
         "placeholder": "Select solution",
         "turnkey": "Turnkey",
         "whiteLabel": "White Label",
-        "integration": "Nur Integration"
+        "integration": "Integration Only"
       },
       "launchOptions": {
-        "notSure": "Noch unsicher",
-        "m1_3": "1–3 Monate",
-        "m3_6": "3–6 Monate",
-        "m6_12": "6–12 Monate",
-        "m12plus": "12+ Monate"
+        "notSure": "Not sure yet",
+        "m1_3": "1–3 months",
+        "m3_6": "3–6 months",
+        "m6_12": "6–12 months",
+        "m12plus": "12+ months"
       },
       "consent": "I agree to Ascendra Platforms processing my data to respond to this inquiry. See our <a href=\"privacy.html\">Privacy Policy</a>."
     },
@@ -243,24 +246,24 @@
       ]
     },
     "messages": {
-      "sending": "Wird gesendet…",
-      "success": "Danke! Wir melden uns innerhalb von 24 Stunden.",
+      "sending": "Sending…",
+      "success": "Thank you! We'll be in touch within 24 hours.",
       "successDemo": "Thank you! (Demo mode — set VITE_CONTACT_ENDPOINT to enable delivery.)",
       "error": "Something went wrong. Please email sales@ascendraplatforms.com"
     }
   },
   "pricing": {
     "hero": {
-      "badge": "Flexible Pläne",
-      "title": "Pläne für jede Phase",
+      "badge": "Flexible Plans",
+      "title": "Plans Built for Every Stage",
       "sub": "From first launch to multi-brand enterprise — choose the Ascendra Platforms package that fits your operation. Custom quotes for every tier."
     },
     "tiers": {
       "starter": {
         "tier": "Starter",
-        "name": "Start",
+        "name": "Launch",
         "target": "Single-brand operators entering the market",
-        "price": "Angebot anfordern",
+        "price": "Contact for quote",
         "items": [
           "Core platform — casino + sportsbook",
           "250+ game integrations",
@@ -272,15 +275,15 @@
       },
       "growth": {
         "tier": "Professional",
-        "name": "Wachstum",
+        "name": "Growth",
         "target": "Growing brands scaling player acquisition",
-        "price": "Angebot anfordern",
+        "price": "Contact for quote",
         "items": [
           "Everything in Starter",
           "Marketing CRM & campaigns",
           "Full bonus engine suite",
           "Affiliate system & partner portal",
-          "Betrugsschutz-System",
+          "Anti-Fraud System",
           "Business intelligence dashboards",
           "Priority support"
         ]
@@ -289,7 +292,7 @@
         "tier": "Enterprise",
         "name": "White Label",
         "target": "Multi-brand operators & white-label partners",
-        "price": "Angebot anfordern",
+        "price": "Contact for quote",
         "items": [
           "Everything in Professional",
           "Custom domain, logo & theme",
@@ -325,30 +328,30 @@
       }
     },
     "cta": {
-      "title": "Personalisiertes Angebot erhalten",
+      "title": "Get a Personalized Quote",
       "sub": "Tell us about your target market and we'll recommend the right plan."
     }
   },
   "integrations": {
     "hero": {
-      "badge": "Alles verbinden",
+      "badge": "Connect Everything",
       "title": "250+ Game Integrations · 50+ Payment Gateways",
       "sub": "Leading game studios and global payment methods — connected on one platform. Launch with the vendors and payment types your players expect."
     },
     "vendors": {
-      "title": "Vertrauenswürdige Spieleanbieter",
+      "title": "Trusted Game Vendors",
       "sub": "Studio logos from slots, live casino, and table games — no aggregator brands, only the vendors your players know.",
       "tabs": {
-        "slots": "Spielautomaten",
-        "live": "Live-Casino",
-        "table": "Tischspiele"
+        "slots": "Slots",
+        "live": "Live Casino",
+        "table": "Table Games"
       }
     },
     "payments": {
-      "title": "Zahlungsarten",
+      "title": "Payment Types",
       "sub": "50+ gateways across crypto, fiat, bank, and e-wallet — configured per brand and region.",
       "crypto": {
-        "title": "Krypto",
+        "title": "Crypto",
         "desc": "Instant deposits and fast withdrawals for crypto-native players worldwide."
       },
       "fiat": {
@@ -356,48 +359,48 @@
         "desc": "Cards and regional payment methods for local market coverage."
       },
       "bank": {
-        "title": "Banküberweisung",
+        "title": "Bank Transfer",
         "desc": "Direct bank deposits and operator-approved withdrawal workflows."
       },
       "ewallet": {
-        "title": "E-Wallet",
+        "title": "E-wallet",
         "desc": "Popular digital wallets for frictionless deposits across regions."
       }
     },
     "cta": {
-      "title": "Bestimmten Anbieter oder Zahlungsmethode benötigt?",
+      "title": "Need a Specific Vendor or Payment Method?",
       "sub": "Tell us your target market — we'll confirm availability and integration timeline."
     }
   },
   "feature": {
     "breadcrumb": {
-      "home": "Startseite",
-      "features": "Funktionen"
+      "home": "Home",
+      "features": "Features"
     },
     "shell": {
-      "problemDefault": "Die Herausforderung",
-      "solutionDefault": "Die Ascendra-Lösung",
-      "capabilitiesTitle": "Hauptfunktionen",
+      "problemDefault": "The Challenge",
+      "solutionDefault": "The Ascendra Solution",
+      "capabilitiesTitle": "Key Capabilities",
       "capabilitiesSub": "Everything included in Ascendra Platforms — ready for your launch.",
-      "howTitle": "So funktioniert es",
+      "howTitle": "How It Works",
       "howSub": "A seamless flow from player action to operator insight.",
-      "seeTitle": "In Aktion sehen",
+      "seeTitle": "See It in Action",
       "seeSub": "Player experience and operator control — side by side.",
-      "playerExperience": "Spielererlebnis",
-      "operatorAdmin": "Betreiber-Admin",
-      "relatedTitle": "Verwandte Funktionen",
+      "playerExperience": "Player Experience",
+      "operatorAdmin": "Operator Admin",
+      "relatedTitle": "Related Features",
       "relatedSub": "Explore more modules built into Ascendra Platforms."
     }
   },
   "legal": {
     "nav": {
-      "privacy": "Datenschutzerklärung",
-      "terms": "Nutzungsbedingungen",
-      "aml": "AML-Richtlinie",
-      "responsible": "Verantwortungsvolles Spielen"
+      "privacy": "Privacy Policy",
+      "terms": "Terms of Service",
+      "aml": "AML Policy",
+      "responsible": "Responsible Gaming"
     },
     "privacy": {
-      "title": "Datenschutzerklärung",
+      "title": "Privacy Policy",
       "sub": "How Ascendra Platforms collects, uses, and protects information on this website and through demo requests.",
       "updated": "Last updated: July 3, 2026",
       "sections": [
@@ -458,7 +461,7 @@
       ]
     },
     "terms": {
-      "title": "Nutzungsbedingungen",
+      "title": "Terms of Service",
       "sub": "Terms governing use of the Ascendra Platforms marketing website and demo request services.",
       "updated": "Last updated: July 3, 2026",
       "sections": [
@@ -529,7 +532,7 @@
       ]
     },
     "aml": {
-      "title": "AML-Richtlinie",
+      "title": "AML Policy",
       "sub": "Anti-money laundering principles and compliance approach for Ascendra Platforms B2B services.",
       "updated": "Last updated: July 3, 2026",
       "sections": [
@@ -575,7 +578,7 @@
       ]
     },
     "responsible": {
-      "title": "Verantwortungsvolles Spielen",
+      "title": "Responsible Gaming",
       "sub": "Our commitment to responsible gaming tools and operator compliance support.",
       "updated": "Last updated: July 3, 2026",
       "sections": [
@@ -619,14 +622,14 @@
   "features": {
     "game-integrations": {
       "slug": "game-integrations",
-      "badge": "Spiele",
-      "title": "250+ Spielintegrationen",
-      "heroH1": "Eine Plattform, 250+ Integrationen",
+      "badge": "Games",
+      "title": "250+ Game Integrations",
+      "heroH1": "One Platform, 250+ Integrations",
       "heroSub": "Connect with leading game studios — slots, live casino, and table games from Pragmatic Play, Evolution, SA Gaming, and more on Ascendra Platforms.",
       "heroImage": "/assets/images/gates-of-olympus.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Operators waste months negotiating individual vendor contracts and managing fragmented game catalogs across multiple systems.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms delivers a unified game catalog with 250+ integrations — one wallet, one backoffice, and seamless play across every major category.",
       "capabilities": [
         "Major vendor titles from Pragmatic Play, Evolution, SA Gaming, PG Soft, and more",
@@ -638,19 +641,19 @@
       ],
       "steps": [
         {
-          "title": "Katalog durchsuchen",
+          "title": "Browse Catalog",
           "desc": "Operator selects games and categories in Admin"
         },
         {
-          "title": "Spieler startet",
+          "title": "Player Launches",
           "desc": "Game opens in-player with unified wallet"
         },
         {
-          "title": "Wette & Abrechnung",
+          "title": "Bet & Settle",
           "desc": "Every round recorded in transparent ledger"
         },
         {
-          "title": "Bericht & Abgleich",
+          "title": "Report & Reconcile",
           "desc": "GGR and vendor stats in real-time dashboards"
         }
       ],
@@ -664,14 +667,14 @@
     },
     "sportsbook": {
       "slug": "sportsbook",
-      "badge": "Sport",
-      "title": "Vollständige Sportwetten",
-      "heroH1": "Vollständige Sportwetten, integriert",
+      "badge": "Sports",
+      "title": "Complete Sportsbook",
+      "heroH1": "Complete Sportsbook, Built In",
       "heroSub": "Pre-match and live betting across major sports — singles, parlays, and system bets on one unified wallet with your casino.",
       "heroImage": "/assets/images/sports.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Running casino and sports on separate platforms splits your wallet, doubles integration work, and frustrates players who want one account.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms includes a full sportsbook — pre-match, live, and in-play — natively integrated with your casino wallet and bonus engine.",
       "capabilities": [
         "Pre-match and live in-play betting with real-time odds",
@@ -683,19 +686,19 @@
       ],
       "steps": [
         {
-          "title": "Event wählen",
+          "title": "Select Event",
           "desc": "Player browses pre-match or live markets"
         },
         {
-          "title": "Wettschein erstellen",
+          "title": "Build Bet Slip",
           "desc": "Singles, parlays, or system bets"
         },
         {
-          "title": "Platzieren & Abrechnen",
+          "title": "Place & Settle",
           "desc": "Wallet debited; winnings credited instantly"
         },
         {
-          "title": "Verfolgen & Berichten",
+          "title": "Track & Report",
           "desc": "Operator monitors exposure and GGR in Admin"
         }
       ],
@@ -710,13 +713,13 @@
     "wallet": {
       "slug": "wallet",
       "badge": "Wallet",
-      "title": "Transparente Wallet",
-      "heroH1": "Jede Transaktion erfasst",
+      "title": "Transparent Wallet",
+      "heroH1": "Every Transaction Accounted For",
       "heroSub": "Every deposit, bet, win, and withdrawal is fully recorded — built for audit, reconciliation, and peace of mind.",
       "heroImage": "/assets/images/wallet.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Opaque balance handling creates disputes with players, auditors, and finance teams — especially when casino and sports share one account.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms maintains a complete, immutable transaction ledger — every credit and debit traceable from signup to withdrawal.",
       "capabilities": [
         "Full transaction history for every player action",
@@ -728,15 +731,15 @@
       ],
       "steps": [
         {
-          "title": "Spieleraktion",
+          "title": "Player Action",
           "desc": "Deposit, bet, win, bonus, or withdrawal"
         },
         {
-          "title": "Ledger-Eintrag",
+          "title": "Ledger Entry",
           "desc": "Every movement recorded with timestamp and type"
         },
         {
-          "title": "Saldo-Update",
+          "title": "Balance Update",
           "desc": "Real-time cash and bonus balances refreshed"
         },
         {
@@ -755,13 +758,13 @@
     "payments": {
       "slug": "payments",
       "badge": "Payments",
-      "title": "50+ Zahlungsgateways",
-      "heroH1": "50+ Gateways, globale Reichweite",
+      "title": "50+ Payment Gateways",
+      "heroH1": "50+ Gateways, Global Reach",
       "heroSub": "Accept crypto and fiat worldwide with automated deposits and a secure withdrawal approval process.",
       "heroImage": "/assets/images/payments.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Limited payment options mean lost deposits, while manual withdrawal processing creates delays and operational risk.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms connects 50+ payment gateways — crypto, fiat, bank transfer, and e-wallets — with automated deposits and operator-controlled withdrawal approval.",
       "capabilities": [
         "Crypto and fiat payment methods for global player bases",
@@ -773,19 +776,19 @@
       ],
       "steps": [
         {
-          "title": "Spielereinzahlungen",
+          "title": "Player Deposits",
           "desc": "Select method and complete payment"
         },
         {
-          "title": "Auto-Gutschrift",
+          "title": "Auto Credit",
           "desc": "Wallet updated on confirmed deposit"
         },
         {
-          "title": "Auszahlungsanfrage",
+          "title": "Withdrawal Request",
           "desc": "Player submits payout; risk evaluated"
         },
         {
-          "title": "Betreiberfreigabe",
+          "title": "Operator Approval",
           "desc": "Approved withdrawals processed securely"
         }
       ],
@@ -800,13 +803,13 @@
     "bonus-engine": {
       "slug": "bonus-engine",
       "badge": "Bonus",
-      "title": "Vollständige Bonus-Engine",
-      "heroH1": "Jeder Promotionstyp, den Sie brauchen",
+      "title": "Complete Bonus Engine",
+      "heroH1": "Every Promotion Type You Need",
       "heroSub": "Welcome, deposit match, cashback, free spins, VIP rewards, and wagering tracking — for casino and sports, out of the box.",
       "heroImage": "/assets/images/bonus.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Patchwork promotion tools lead to bonus abuse, unclear wagering rules, and campaigns that cannot span casino and sports.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms includes a full bonus engine — configure policies in Admin, let players claim in-app, and track rollover progress in real time.",
       "capabilities": [
         "Welcome, first deposit, reload, and daily/weekly bonuses",
@@ -818,19 +821,19 @@
       ],
       "steps": [
         {
-          "title": "Richtlinie konfigurieren",
+          "title": "Configure Policy",
           "desc": "Operator sets bonus rules in Admin"
         },
         {
-          "title": "Spieler qualifiziert",
+          "title": "Player Qualifies",
           "desc": "Deposit, signup, or campaign trigger"
         },
         {
-          "title": "Einlösen & Spielen",
+          "title": "Claim & Play",
           "desc": "Bonus credited; wagering tracked live"
         },
         {
-          "title": "Umwandeln oder Verfallen",
+          "title": "Convert or Expire",
           "desc": "Rollover complete → cash balance"
         }
       ],
@@ -845,13 +848,13 @@
     "marketing-crm": {
       "slug": "marketing-crm",
       "badge": "CRM",
-      "title": "Marketing-CRM",
-      "heroH1": "Spieler gewinnen und binden",
+      "title": "Marketing CRM",
+      "heroH1": "Grow and Retain Your Players",
       "heroSub": "Segment players, run campaigns, automate lifecycle messages, and measure retention — without third-party tools.",
       "heroImage": "/assets/images/crm.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Exporting player data to external CRMs breaks compliance, adds cost, and delays campaigns when timing matters most.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms includes a built-in marketing CRM — segment, target, and measure campaigns where your player data already lives.",
       "capabilities": [
         "Player segmentation — VIP, new, dormant, high-value, and custom",
@@ -863,19 +866,19 @@
       ],
       "steps": [
         {
-          "title": "Segment definieren",
+          "title": "Define Segment",
           "desc": "Filter players by behavior and value"
         },
         {
-          "title": "Kampagne erstellen",
+          "title": "Build Campaign",
           "desc": "Message, offer, and schedule"
         },
         {
-          "title": "Starten & Zielen",
+          "title": "Launch & Target",
           "desc": "Reach the right players at the right time"
         },
         {
-          "title": "Ergebnisse messen",
+          "title": "Measure Results",
           "desc": "Track conversions and retention impact"
         }
       ],
@@ -890,13 +893,13 @@
     "affiliate-system": {
       "slug": "affiliate-system",
       "badge": "Affiliate",
-      "title": "Affiliate-System",
-      "heroH1": "Wachstum durch Partner",
+      "title": "Affiliate System",
+      "heroH1": "Grow Through Partners",
       "heroSub": "CPA, revenue share, or hybrid models with sub-affiliate support and a dedicated partner portal.",
       "heroImage": "/assets/images/affiliate.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Spreadsheet-based affiliate tracking leads to payment disputes, missed conversions, and partners who cannot self-serve.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms includes a full affiliate module — track referrals, calculate commissions automatically, and give partners a branded portal.",
       "capabilities": [
         "CPA, RevShare, and hybrid commission models",
@@ -908,19 +911,19 @@
       ],
       "steps": [
         {
-          "title": "Partner onboardet",
+          "title": "Partner Onboards",
           "desc": "Affiliate receives tracking links and codes"
         },
         {
-          "title": "Spieler registriert",
+          "title": "Player Registers",
           "desc": "Referral attributed to partner account"
         },
         {
-          "title": "Aktivität verfolgt",
+          "title": "Activity Tracked",
           "desc": "Deposits, bets, and GGR linked to partner"
         },
         {
-          "title": "Provision gezahlt",
+          "title": "Commission Paid",
           "desc": "Automated calculation and payout cycle"
         }
       ],
@@ -934,14 +937,14 @@
     },
     "business-intelligence": {
       "slug": "business-intelligence",
-      "badge": "Analytik",
+      "badge": "Analytics",
       "title": "Business Intelligence",
-      "heroH1": "Kennen Sie Ihre Zahlen",
+      "heroH1": "Know Your Numbers",
       "heroSub": "GGR, NGR, and daily KPIs on dashboards your finance team can trust.",
       "heroImage": "/assets/images/analytics.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Delayed or inconsistent reporting makes it impossible to react to trends, optimize campaigns, or report accurately to stakeholders.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms delivers real-time business intelligence — GGR, NGR, deposits, withdrawals, and affiliate performance in one dashboard.",
       "capabilities": [
         "GGR and NGR reporting with daily and period breakdowns",
@@ -953,19 +956,19 @@
       ],
       "steps": [
         {
-          "title": "Daten erfasst",
+          "title": "Data Captured",
           "desc": "Every bet, deposit, and bonus logged"
         },
         {
-          "title": "Aggregiert",
+          "title": "Aggregated",
           "desc": "Real-time rollups by player, game, and period"
         },
         {
-          "title": "Visualisiert",
+          "title": "Visualized",
           "desc": "Dashboards and reports in Admin"
         },
         {
-          "title": "Gehandelt",
+          "title": "Acted On",
           "desc": "Operators optimize based on live insights"
         }
       ],
@@ -979,14 +982,14 @@
     },
     "anti-fraud": {
       "slug": "anti-fraud",
-      "badge": "Sicherheit",
-      "title": "Betrugsschutz-System",
-      "heroH1": "Betrug stoppen, bevor er Sie kostet",
+      "badge": "Security",
+      "title": "Anti-Fraud System",
+      "heroH1": "Stop Fraud Before It Costs You",
       "heroSub": "Built-in anti-fraud and risk scoring for signup, login, payments, and betting — with AML screening and automated enforcement.",
       "heroImage": "/assets/images/security.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Bonus abuse, multi-accounting, and suspicious withdrawals erode operator margins and create regulatory exposure.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Anti-Fraud System evaluates every critical action before it completes — and monitors bets and bonuses continuously with Allow, Challenge, or Block outcomes.",
       "capabilities": [
         "Signup and login protection against bad actors",
@@ -998,19 +1001,19 @@
       ],
       "steps": [
         {
-          "title": "Spieleraktion",
+          "title": "Player Action",
           "desc": "Signup, login, deposit, bet, or withdrawal"
         },
         {
-          "title": "Risikobewertung",
+          "title": "Risk Evaluation",
           "desc": "Real-time scoring against operator policies"
         },
         {
-          "title": "Entscheidung",
+          "title": "Decision",
           "desc": "Allow, Challenge (MFA), or Block"
         },
         {
-          "title": "Audit-Protokoll",
+          "title": "Audit Log",
           "desc": "Every outcome recorded in Admin"
         }
       ],
@@ -1025,13 +1028,13 @@
     "risk-compliance": {
       "slug": "risk-compliance",
       "badge": "Compliance",
-      "title": "Risiko & Compliance",
-      "heroH1": "Mit Vertrauen operieren",
+      "title": "Risk & Compliance",
+      "heroH1": "Operate with Confidence",
       "heroSub": "Responsible gaming tools, KYC workflow, and regulatory framework support built into Ascendra Platforms.",
       "heroImage": "/assets/images/compliance.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Regulatory requirements vary by market — without integrated tools, operators bolt on KYC and responsible gaming as afterthoughts.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms includes responsible gaming limits, KYC verification workflows, and branded legal pages — configurable per brand and jurisdiction.",
       "capabilities": [
         "Responsible gaming — deposit, loss, and session limits",
@@ -1043,19 +1046,19 @@
       ],
       "steps": [
         {
-          "title": "Spieler onboardet",
+          "title": "Player Onboards",
           "desc": "Identity verification triggered by policy"
         },
         {
-          "title": "Dokumente geprüft",
+          "title": "Documents Reviewed",
           "desc": "Operator approves or requests resubmission"
         },
         {
-          "title": "Limits angewendet",
+          "title": "Limits Applied",
           "desc": "Responsible gaming settings enforced"
         },
         {
-          "title": "Laufende Überwachung",
+          "title": "Ongoing Monitor",
           "desc": "Compliance status tracked in Admin"
         }
       ],
@@ -1070,13 +1073,13 @@
     "operator-backoffice": {
       "slug": "operator-backoffice",
       "badge": "Admin",
-      "title": "Betreiber-Backoffice",
-      "heroH1": "Ein Control Panel für alles",
+      "title": "Operator Backoffice",
+      "heroH1": "One Control Panel for Everything",
       "heroSub": "Manage players, finance, games, sports, bonuses, CRM, fraud alerts, and support from one secure control panel.",
       "heroImage": "/assets/images/backoffice.jpg",
-      "problemTitle": "Die Herausforderung",
+      "problemTitle": "The Challenge",
       "problem": "Juggling multiple admin tools for players, payments, games, and support slows operators down and increases error rates.",
-      "solutionTitle": "Die Ascendra-Lösung",
+      "solutionTitle": "The Ascendra Solution",
       "solution": "Ascendra Platforms Admin is a unified backoffice — role-based access, real-time dashboards, and every module in one panel.",
       "capabilities": [
         "Player management — profiles, limits, KYC, and history",
@@ -1088,19 +1091,19 @@
       ],
       "steps": [
         {
-          "title": "Rollen-Login",
+          "title": "Role Login",
           "desc": "RBAC-controlled access per team member"
         },
         {
-          "title": "Dashboard überwachen",
+          "title": "Monitor Dashboard",
           "desc": "KPIs, alerts, and pending actions"
         },
         {
-          "title": "Maßnahme ergreifen",
+          "title": "Take Action",
           "desc": "Approve, configure, or respond in one place"
         },
         {
-          "title": "Audit-Trail",
+          "title": "Audit Trail",
           "desc": "Every admin action logged for compliance"
         }
       ],
