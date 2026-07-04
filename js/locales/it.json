@@ -2,619 +2,619 @@
   "lang": "it",
   "dir": "ltr",
   "common": {
-    "brandTag": "iGaming Infrastructure",
+    "brandTag": "Infrastruttura iGaming",
     "nav": {
-      "home": "Platform",
-      "features": "Features",
-      "solutions": "Solutions",
-      "integrations": "Integrations",
-      "pricing": "Prices",
-      "contact": "Resources"
+      "home": "Piattaforma",
+      "features": "Funzionalità",
+      "solutions": "Soluzioni",
+      "integrations": "Integrazioni",
+      "pricing": "Prezzi",
+      "contact": "Risorse"
     },
     "actions": {
-      "contact": "Contact",
-      "requestDemo": "Request Demo",
-      "exploreFeatures": "Explore Features",
-      "learnMore": "Learn more →",
-      "contactSales": "Contact Sales",
-      "contactUs": "Contact Us",
-      "contactForQuote": "Contact for Quote",
-      "submitRequest": "Submit Request",
-      "becomeSuccess": "Become Our Next Success Story"
+      "contact": "Contatto",
+      "requestDemo": "Richiedi demo",
+      "exploreFeatures": "Esplora funzionalità",
+      "learnMore": "Scopri di più →",
+      "contactSales": "Contatta vendite",
+      "contactUs": "Contattaci",
+      "contactForQuote": "Richiedi preventivo",
+      "submitRequest": "Invia richiesta",
+      "becomeSuccess": "Diventa la nostra prossima storia di successo"
     },
     "footer": {
-      "tagline": "Turnkey and white-label iGaming platform for casino and sportsbook operators worldwide.",
-      "platform": "Platform",
-      "solutions": "Solutions",
-      "legal": "Legal",
-      "features": "Features",
-      "integrations": "Integrations",
-      "operatorBackoffice": "Operator Backoffice",
-      "turnkey": "Turnkey",
+      "tagline": "Piattaforma iGaming chiavi in mano e white-label per operatori di casino e sportsbook in tutto il mondo.",
+      "platform": "Piattaforma",
+      "solutions": "Soluzioni",
+      "legal": "Legale",
+      "features": "Funzionalità",
+      "integrations": "Integrazioni",
+      "operatorBackoffice": "Backoffice operatore",
+      "turnkey": "Chiavi in mano",
       "whiteLabel": "White Label",
-      "prices": "Prices",
-      "contact": "Contact",
+      "prices": "Prezzi",
+      "contact": "Contatto",
       "privacy": "Privacy",
-      "terms": "Terms",
-      "amlPolicy": "AML Policy",
-      "responsibleGaming": "Responsible Gaming",
-      "copyright": "© 2026 Ascendra Platforms. All rights reserved."
+      "terms": "Termini",
+      "amlPolicy": "Politica AML",
+      "responsibleGaming": "Gioco responsabile",
+      "copyright": "© 2026 Ascendra Platforms. Tutti i diritti riservati."
     },
     "aria": {
-      "openMenu": "Open menu",
-      "mobileNav": "Mobile navigation",
-      "selectLanguage": "Select language"
+      "openMenu": "Apri menu",
+      "mobileNav": "Navigazione mobile",
+      "selectLanguage": "Seleziona lingua"
     },
     "stats": {
-      "gameIntegrations": "Game Integrations",
-      "paymentGateways": "Payment Gateways",
-      "gamesAvailable": "Games Available",
+      "gameIntegrations": "Integrazioni giochi",
+      "paymentGateways": "Gateway di pagamento",
+      "gamesAvailable": "Giochi disponibili",
       "sportsbook": "Sportsbook",
-      "bonusTypes": "Bonus Types",
-      "full": "Full"
+      "bonusTypes": "Tipi di bonus",
+      "full": "Completo"
     },
     "cta": {
-      "readyTitle": "Ready to Launch on Ascendra Platforms?",
-      "readySub": "Get a personalized demo and see the full platform in action."
+      "readyTitle": "Pronto a lanciare su Ascendra Platforms?",
+      "readySub": "Ottieni una demo personalizzata e scopri l'intera piattaforma in azione."
     },
     "badges": {
-      "popular": "Popular",
-      "comingSoon": "Coming soon",
-      "casinoSportsbook": "Casino + Sportsbook"
+      "popular": "Popolare",
+      "comingSoon": "In arrivo",
+      "casinoSportsbook": "Casino + Scommesse sportive"
     }
   },
   "home": {
+    "meta": {
+      "title": "Ascendra Platforms — Chiavi in mano & White Label iGaming"
+    },
     "hero": {
-      "badge": "Turnkey · White Label",
-      "title": "Launch Your iGaming Brand on Ascendra Platforms",
+      "badge": "Chiavi in mano · White Label",
+      "title": "Lancia il tuo brand iGaming su Ascendra Platforms",
       "titleHighlight": "Ascendra Platforms",
-      "sub": "Production-ready casino and sportsbook software with 250+ game integrations, 50+ payment gateways, built-in CRM, anti-fraud protection, and a complete bonus engine."
+      "sub": "Software di casino e sportsbook pronto per la produzione con oltre 250 integrazioni di giochi, oltre 50 gateway di pagamento, CRM integrato, protezione antifraude e un motore bonus completo."
     },
     "kpi": {
-      "ggrToday": "GGR Today",
-      "deposits": "Deposits",
-      "activePlayers": "Active Players"
+      "ggrToday": "GGR oggi",
+      "deposits": "Depositi",
+      "activePlayers": "Giocatori attivi"
     },
     "trust": {
-      "auditWallet": "Audit-ready Wallet",
-      "fullSportsbook": "Full Sportsbook",
-      "antiFraud": "Anti-Fraud System",
-      "marketingCrm": "Marketing CRM"
+      "auditWallet": "Portafoglio pronto per l'audit",
+      "fullSportsbook": "Sportsbook completo",
+      "antiFraud": "Sistema antifraude",
+      "marketingCrm": "CRM marketing"
     },
     "featuresSection": {
-      "title": "Everything You Need to Operate",
-      "sub": "Enterprise-grade modules built into Ascendra Platforms — casino, sportsbook, payments, CRM, and more."
+      "title": "Tutto ciò che serve per operare",
+      "sub": "Moduli enterprise integrati in Ascendra Platforms — casino, sportsbook, pagamenti, CRM e altro."
     },
     "featureCards": [
       {
-        "badge": "Games",
-        "title": "250+ Game Integrations",
-        "desc": "Slots, live casino, and table games from Pragmatic Play, Evolution, SA Gaming, and more."
+        "badge": "Giochi",
+        "title": "Oltre 250 integrazioni di giochi",
+        "desc": "Slot, casino live e giochi da tavolo di Pragmatic Play, Evolution, SA Gaming e altri."
       },
       {
-        "badge": "Sports",
-        "title": "Complete Sportsbook",
-        "desc": "Pre-match and live betting with singles, parlays, and unified wallet."
+        "badge": "Sport",
+        "title": "Sportsbook completo",
+        "desc": "Scommesse pre-match e live con singole, multiple e portafoglio unificato."
       },
       {
-        "badge": "Wallet",
-        "title": "Transparent Wallet",
-        "desc": "Every transaction recorded for audit, reconciliation, and peace of mind."
+        "badge": "Portafoglio",
+        "title": "Portafoglio trasparente",
+        "desc": "Ogni transazione registrata per audit, riconciliazione e tranquillità."
       },
       {
-        "badge": "Payments",
-        "title": "50+ Payment Gateways",
-        "desc": "Crypto and fiat worldwide with secure withdrawal approval."
+        "badge": "Pagamenti",
+        "title": "Oltre 50 gateway di pagamento",
+        "desc": "Crypto e fiat in tutto il mondo con approvazione sicura dei prelievi."
       },
       {
         "badge": "Bonus",
-        "title": "Complete Bonus Engine",
-        "desc": "Welcome, cashback, free spins, VIP — casino and sports promotions."
+        "title": "Motore bonus completo",
+        "desc": "Benvenuto, cashback, giri gratis, VIP — promozioni casino e sport."
       },
       {
         "badge": "CRM",
-        "title": "Marketing CRM",
-        "desc": "Segment players, run campaigns, and measure retention in-platform."
+        "title": "CRM marketing",
+        "desc": "Segmenta i giocatori, gestisci campagne e misura la retention in piattaforma."
       },
       {
-        "badge": "Affiliate",
-        "title": "Affiliate System",
-        "desc": "CPA, RevShare, hybrid models with sub-affiliate portal."
+        "badge": "Affiliati",
+        "title": "Sistema affiliati",
+        "desc": "Modelli CPA, RevShare e ibridi con portale sub-affiliati."
       },
       {
-        "badge": "Analytics",
-        "title": "Business Intelligence",
-        "desc": "GGR, NGR, and daily KPIs your finance team can trust."
+        "badge": "Analitica",
+        "title": "Intelligence aziendale",
+        "desc": "GGR, NGR e KPI giornalieri su cui il team finanziario può fare affidamento."
       },
       {
-        "badge": "Security",
-        "title": "Anti-Fraud System",
-        "desc": "Real-time protection for signup, login, deposits, and withdrawals — AML screening and automated enforcement."
+        "badge": "Sicurezza",
+        "title": "Sistema antifraude",
+        "desc": "Protezione in tempo reale per registrazione, login, depositi e prelievi — screening AML e applicazione automatizzata."
       },
       {
         "badge": "Compliance",
-        "title": "Risk & Compliance",
-        "desc": "Responsible gaming tools, KYC workflow, and regulatory framework support."
+        "title": "Rischio e compliance",
+        "desc": "Strumenti di gioco responsabile, flusso KYC e supporto al framework normativo."
       },
       {
         "badge": "Admin",
-        "title": "Operator Backoffice",
-        "desc": "Manage players, finance, games, sports, bonuses, CRM, fraud alerts, and support in one panel."
+        "title": "Backoffice operatore",
+        "desc": "Gestisci giocatori, finanze, giochi, sport, bonus, CRM, alert frodi e supporto in un unico pannello."
       }
     ],
     "flow": {
-      "title": "How Ascendra Platforms Works",
-      "sub": "From player signup to bet settlement — one seamless flow.",
-      "player": "Player",
+      "title": "Come funziona Ascendra Platforms",
+      "sub": "Dalla registrazione del giocatore alla liquidazione delle scommesse — un flusso continuo.",
+      "player": "Giocatore",
       "platform": "Ascendra Platform",
-      "wallet": "Wallet",
-      "casinoSports": "Casino & Sports"
+      "wallet": "Portafoglio",
+      "casinoSports": "Casino e sport"
     },
     "marquee": {
-      "vendors": "Trusted Game Vendors",
-      "payments": "50+ Payment Gateways — Crypto · Fiat · Bank · E-wallet"
+      "vendors": "Fornitori di giochi affidabili",
+      "payments": "Oltre 50 gateway di pagamento — Crypto · Fiat · Banca · E-wallet"
     },
     "brands": {
-      "title": "Brands Powered by Ascendra Platforms",
-      "sub": "See how operators launch and scale on our turnkey and white-label solution."
+      "title": "Brand alimentati da Ascendra Platforms",
+      "sub": "Scopri come gli operatori lanciano e scalano con la nostra soluzione chiavi in mano e white-label."
     },
     "compare": {
-      "title": "Choose Your Solution",
-      "sub": "Turnkey launch or full white-label customization on Ascendra Platforms.",
+      "title": "Scegli la tua soluzione",
+      "sub": "Lancio chiavi in mano o personalizzazione white-label completa su Ascendra Platforms.",
       "turnkey": {
-        "title": "Turnkey",
+        "title": "Chiavi in mano",
         "items": [
-          "Full stack — casino + sportsbook",
-          "250+ game integrations",
-          "50+ payment gateways",
-          "Bonus engine, CRM & Anti-Fraud System",
-          "Launch support (4–8 weeks)"
+          "Stack completo — casino + sportsbook",
+          "Oltre 250 integrazioni di giochi",
+          "Oltre 50 gateway di pagamento",
+          "Motore bonus, CRM e Sistema antifraude",
+          "Supporto al lancio (4–8 settimane)"
         ]
       },
       "whiteLabel": {
         "title": "White Label",
         "items": [
-          "Everything in Turnkey",
-          "Custom domain, logo & theme",
-          "Branded legal pages",
-          "Multi-brand operation",
-          "Enterprise SLA"
+          "Tutto ciò incluso in Chiavi in mano",
+          "Dominio, logo e tema personalizzati",
+          "Pagine legali brandizzate",
+          "Operazione multi-brand",
+          "SLA Enterprise"
         ]
       }
-    },
-    "meta": {
-      "title": "Ascendra Platforms — Chiavi in mano & White Label iGaming"
     }
   },
   "contact": {
     "hero": {
-      "badge": "Get Started",
-      "title": "Request a Demo",
-      "sub": "Tell us about your project and our team will schedule a personalized walkthrough of Ascendra Platforms — casino, sportsbook, payments, CRM, and more."
+      "badge": "Inizia",
+      "title": "Richiedi una demo",
+      "sub": "Raccontaci il tuo progetto e il nostro team programmerà una presentazione personalizzata di Ascendra Platforms — casino, sportsbook, pagamenti, CRM e altro."
     },
     "form": {
-      "company": "Company Name",
-      "firstName": "First Name",
-      "lastName": "Last Name",
-      "email": "Work Email",
-      "country": "Country / Region",
-      "solution": "Solution Type",
-      "launch": "Expected Launch",
-      "message": "Message",
+      "company": "Nome azienda",
+      "firstName": "Nome",
+      "lastName": "Cognome",
+      "email": "Email aziendale",
+      "country": "Paese / Regione",
+      "solution": "Tipo di soluzione",
+      "launch": "Lancio previsto",
+      "message": "Messaggio",
       "placeholders": {
-        "company": "Your company or brand name",
+        "company": "Nome della tua azienda o brand",
         "firstName": "John",
         "lastName": "Smith",
         "email": "you@company.com",
-        "message": "Tell us about your target market, expected player volume, or specific requirements…"
+        "message": "Raccontaci del tuo mercato di riferimento, volume di giocatori previsto o requisiti specifici…"
       },
       "countries": {
-        "placeholder": "Select your region",
-        "na": "North America",
-        "eu": "Europe",
-        "latam": "Latin America",
-        "asia": "Asia Pacific",
-        "mea": "Middle East & Africa",
-        "other": "Other"
+        "placeholder": "Seleziona la tua regione",
+        "na": "Nord America",
+        "eu": "Europa",
+        "latam": "America Latina",
+        "asia": "Asia Pacifico",
+        "mea": "Medio Oriente e Africa",
+        "other": "Altro"
       },
       "solutions": {
-        "placeholder": "Select solution",
-        "turnkey": "Turnkey",
+        "placeholder": "Seleziona soluzione",
+        "turnkey": "Chiavi in mano",
         "whiteLabel": "White Label",
-        "integration": "Integration Only"
+        "integration": "Solo integrazione"
       },
       "launchOptions": {
-        "notSure": "Not sure yet",
-        "m1_3": "1–3 months",
-        "m3_6": "3–6 months",
-        "m6_12": "6–12 months",
-        "m12plus": "12+ months"
+        "notSure": "Non ancora deciso",
+        "m1_3": "1–3 mesi",
+        "m3_6": "3–6 mesi",
+        "m6_12": "6–12 mesi",
+        "m12plus": "Oltre 12 mesi"
       },
-      "consent": "I agree to Ascendra Platforms processing my data to respond to this inquiry. See our <a href=\"privacy.html\">Privacy Policy</a>."
+      "consent": "Accetto che Ascendra Platforms tratti i miei dati per rispondere a questa richiesta. Consulta la nostra <a href=\"privacy.html\">Informativa sulla privacy</a>."
     },
     "sidebar": {
-      "responseBadge": "✓ Typical response within 24 hours",
-      "talkTitle": "Talk to Our Team",
-      "talkSub": "Whether you're launching a new brand or migrating from another platform, we'll tailor the demo to your use case.",
-      "seeTitle": "What You'll See",
+      "responseBadge": "✓ Risposta tipica entro 24 ore",
+      "talkTitle": "Parla con il nostro team",
+      "talkSub": "Che tu stia lanciando un nuovo brand o migrando da un'altra piattaforma, adatteremo la demo al tuo caso d'uso.",
+      "seeTitle": "Cosa vedrai",
       "seeItems": [
-        "250+ game integrations and vendor catalog",
-        "Full sportsbook — pre-match and live",
-        "50+ payment gateways and wallet ledger",
-        "Bonus engine, CRM, and Anti-Fraud System",
-        "Operator backoffice walkthrough"
+        "Oltre 250 integrazioni di giochi e catalogo fornitori",
+        "Sportsbook completo — pre-match e live",
+        "Oltre 50 gateway di pagamento e registro portafoglio",
+        "Motore bonus, CRM e Sistema antifraude",
+        "Presentazione del backoffice operatore"
       ]
     },
     "messages": {
-      "sending": "Sending…",
-      "success": "Thank you! We'll be in touch within 24 hours.",
-      "successDemo": "Thank you! (Demo mode — set VITE_CONTACT_ENDPOINT to enable delivery.)",
-      "error": "Something went wrong. Please email sales@ascendraplatforms.com"
+      "sending": "Invio in corso…",
+      "success": "Grazie! Ti contatteremo entro 24 ore.",
+      "successDemo": "Grazie! (Modalità demo — imposta VITE_CONTACT_ENDPOINT per abilitare l'invio.)",
+      "error": "Qualcosa è andato storto. Scrivi a sales@ascendraplatforms.com"
     }
   },
   "pricing": {
     "hero": {
-      "badge": "Flexible Plans",
-      "title": "Plans Built for Every Stage",
-      "sub": "From first launch to multi-brand enterprise — choose the Ascendra Platforms package that fits your operation. Custom quotes for every tier."
+      "badge": "Piani flessibili",
+      "title": "Piani per ogni fase",
+      "sub": "Dal primo lancio all'enterprise multi-brand — scegli il pacchetto Ascendra Platforms adatto alla tua operazione. Preventivi personalizzati per ogni livello."
     },
     "tiers": {
       "starter": {
         "tier": "Starter",
-        "name": "Launch",
-        "target": "Single-brand operators entering the market",
-        "price": "Contact for quote",
+        "name": "Lancio",
+        "target": "Operatori mono-brand che entrano nel mercato",
+        "price": "Richiedi preventivo",
         "items": [
-          "Core platform — casino + sportsbook",
-          "250+ game integrations",
-          "Transparent wallet & payments",
-          "Basic bonus engine",
-          "Operator backoffice",
-          "Standard support"
+          "Piattaforma core — casino + sportsbook",
+          "Oltre 250 integrazioni di giochi",
+          "Portafoglio e pagamenti trasparenti",
+          "Motore bonus base",
+          "Backoffice operatore",
+          "Supporto standard"
         ]
       },
       "growth": {
         "tier": "Professional",
-        "name": "Growth",
-        "target": "Growing brands scaling player acquisition",
-        "price": "Contact for quote",
+        "name": "Crescita",
+        "target": "Brand in crescita che scalano l'acquisizione giocatori",
+        "price": "Richiedi preventivo",
         "items": [
-          "Everything in Starter",
-          "Marketing CRM & campaigns",
-          "Full bonus engine suite",
-          "Affiliate system & partner portal",
-          "Anti-Fraud System",
-          "Business intelligence dashboards",
-          "Priority support"
+          "Tutto ciò incluso in Starter",
+          "CRM marketing e campagne",
+          "Suite completa del motore bonus",
+          "Sistema affiliati e portale partner",
+          "Sistema antifraude",
+          "Dashboard di business intelligence",
+          "Supporto prioritario"
         ]
       },
       "enterprise": {
         "tier": "Enterprise",
         "name": "White Label",
-        "target": "Multi-brand operators & white-label partners",
-        "price": "Contact for quote",
+        "target": "Operatori multi-brand e partner white-label",
+        "price": "Richiedi preventivo",
         "items": [
-          "Everything in Professional",
-          "Custom domain, logo & theme",
-          "Branded legal pages",
-          "Multi-brand operation",
-          "Dedicated operator accounts",
-          "Enterprise SLA",
-          "Dedicated account manager"
+          "Tutto ciò incluso in Professional",
+          "Dominio, logo e tema personalizzati",
+          "Pagine legali brandizzate",
+          "Operazione multi-brand",
+          "Account operatore dedicati",
+          "SLA Enterprise",
+          "Account manager dedicato"
         ]
       }
     },
-    "note": "All plans include 50+ payment gateways, risk & compliance tools, and launch support. Pricing is tailored to your market, volume, and integration requirements — no hidden fees on the public site.",
+    "note": "Tutti i piani includono oltre 50 gateway di pagamento, strumenti di rischio e compliance e supporto al lancio. I prezzi sono personalizzati in base al mercato, al volume e ai requisiti di integrazione — nessun costo nascosto sul sito pubblico.",
     "compare": {
-      "title": "Turnkey vs White Label",
-      "sub": "Not sure which package fits? Here's a quick comparison.",
+      "title": "Chiavi in mano vs White Label",
+      "sub": "Non sai quale pacchetto fa al caso tuo? Ecco un confronto rapido.",
       "turnkey": {
-        "title": "Turnkey",
-        "desc": "Launch fast with Ascendra Platforms infrastructure — full casino, sportsbook, payments, and backoffice. Ideal when you need to go live in weeks with proven technology.",
+        "title": "Chiavi in mano",
+        "desc": "Lancia rapidamente con l'infrastruttura Ascendra Platforms — casino completo, sportsbook, pagamenti e backoffice. Ideale quando devi andare live in settimane con tecnologia collaudata.",
         "items": [
-          "4–8 week launch support",
-          "Full module stack included",
-          "Operator training"
+          "Supporto al lancio 4–8 settimane",
+          "Stack completo di moduli incluso",
+          "Formazione operatore"
         ]
       },
       "whiteLabel": {
         "title": "White Label",
-        "desc": "Everything in Turnkey plus full brand customization — your logo, domain, theme, and legal pages. Run multiple brands from one platform with enterprise SLA.",
+        "desc": "Tutto ciò incluso in Chiavi in mano più personalizzazione completa del brand — logo, dominio, tema e pagine legali. Gestisci più brand da un'unica piattaforma con SLA enterprise.",
         "items": [
-          "Custom branding & domain",
-          "Multi-brand Admin",
-          "Enterprise SLA options"
+          "Branding e dominio personalizzati",
+          "Admin multi-brand",
+          "Opzioni SLA Enterprise"
         ]
       }
     },
     "cta": {
-      "title": "Get a Personalized Quote",
-      "sub": "Tell us about your target market and we'll recommend the right plan."
+      "title": "Ottieni un preventivo personalizzato",
+      "sub": "Raccontaci del tuo mercato di riferimento e ti consiglieremo il piano giusto."
     }
   },
   "integrations": {
     "hero": {
-      "badge": "Connect Everything",
-      "title": "250+ Game Integrations · 50+ Payment Gateways",
-      "sub": "Leading game studios and global payment methods — connected on one platform. Launch with the vendors and payment types your players expect."
+      "badge": "Connetti tutto",
+      "title": "Oltre 250 integrazioni di giochi · Oltre 50 gateway di pagamento",
+      "sub": "Studi di giochi leader e metodi di pagamento globali — connessi su un'unica piattaforma. Lancia con i fornitori e i tipi di pagamento che i tuoi giocatori si aspettano."
     },
     "vendors": {
-      "title": "Trusted Game Vendors",
-      "sub": "Studio logos from slots, live casino, and table games — no aggregator brands, only the vendors your players know.",
+      "title": "Fornitori di giochi affidabili",
+      "sub": "Loghi degli studi di slot, casino live e giochi da tavolo — nessun brand aggregatore, solo i fornitori che i tuoi giocatori conoscono.",
       "tabs": {
-        "slots": "Slots",
-        "live": "Live Casino",
-        "table": "Table Games"
+        "slots": "Slot",
+        "live": "Casino live",
+        "table": "Giochi da tavolo"
       }
     },
     "payments": {
-      "title": "Payment Types",
-      "sub": "50+ gateways across crypto, fiat, bank, and e-wallet — configured per brand and region.",
+      "title": "Tipi di pagamento",
+      "sub": "Oltre 50 gateway tra crypto, fiat, banca ed e-wallet — configurati per brand e regione.",
       "crypto": {
         "title": "Crypto",
-        "desc": "Instant deposits and fast withdrawals for crypto-native players worldwide."
+        "desc": "Depositi istantanei e prelievi rapidi per giocatori crypto-native in tutto il mondo."
       },
       "fiat": {
-        "title": "Fiat & Regional",
-        "desc": "Cards and regional payment methods for local market coverage."
+        "title": "Fiat e regionale",
+        "desc": "Carte e metodi di pagamento regionali per copertura del mercato locale."
       },
       "bank": {
-        "title": "Bank Transfer",
-        "desc": "Direct bank deposits and operator-approved withdrawal workflows."
+        "title": "Bonifico bancario",
+        "desc": "Depositi bancari diretti e flussi di prelievo approvati dall'operatore."
       },
       "ewallet": {
         "title": "E-wallet",
-        "desc": "Popular digital wallets for frictionless deposits across regions."
+        "desc": "Portafogli digitali popolari per depositi senza attrito in tutte le regioni."
       }
     },
     "cta": {
-      "title": "Need a Specific Vendor or Payment Method?",
-      "sub": "Tell us your target market — we'll confirm availability and integration timeline."
+      "title": "Hai bisogno di un fornitore o metodo di pagamento specifico?",
+      "sub": "Indicaci il tuo mercato di riferimento — confermeremo disponibilità e tempi di integrazione."
     }
   },
   "feature": {
     "breadcrumb": {
       "home": "Home",
-      "features": "Features"
+      "features": "Funzionalità"
     },
     "shell": {
-      "problemDefault": "The Challenge",
-      "solutionDefault": "The Ascendra Solution",
-      "capabilitiesTitle": "Key Capabilities",
-      "capabilitiesSub": "Everything included in Ascendra Platforms — ready for your launch.",
-      "howTitle": "How It Works",
-      "howSub": "A seamless flow from player action to operator insight.",
-      "seeTitle": "See It in Action",
-      "seeSub": "Player experience and operator control — side by side.",
-      "playerExperience": "Player Experience",
-      "operatorAdmin": "Operator Admin",
-      "relatedTitle": "Related Features",
-      "relatedSub": "Explore more modules built into Ascendra Platforms."
+      "problemDefault": "La sfida",
+      "solutionDefault": "La soluzione Ascendra",
+      "capabilitiesTitle": "Capacità chiave",
+      "capabilitiesSub": "Tutto ciò incluso in Ascendra Platforms — pronto per il tuo lancio.",
+      "howTitle": "Come funziona",
+      "howSub": "Un flusso continuo dall'azione del giocatore all'insight dell'operatore.",
+      "seeTitle": "Guardalo in azione",
+      "seeSub": "Esperienza del giocatore e controllo dell'operatore — affiancati.",
+      "playerExperience": "Esperienza giocatore",
+      "operatorAdmin": "Admin operatore",
+      "relatedTitle": "Funzionalità correlate",
+      "relatedSub": "Esplora altri moduli integrati in Ascendra Platforms."
     }
   },
   "legal": {
     "nav": {
-      "privacy": "Privacy Policy",
-      "terms": "Terms of Service",
-      "aml": "AML Policy",
-      "responsible": "Responsible Gaming"
+      "privacy": "Informativa sulla privacy",
+      "terms": "Termini di servizio",
+      "aml": "Politica AML",
+      "responsible": "Gioco responsabile"
     },
     "privacy": {
-      "title": "Privacy Policy",
-      "sub": "How Ascendra Platforms collects, uses, and protects information on this website and through demo requests.",
-      "updated": "Last updated: July 3, 2026",
+      "title": "Informativa sulla privacy",
+      "sub": "Come Ascendra Platforms raccoglie, utilizza e protegge le informazioni su questo sito web e tramite le richieste di demo.",
+      "updated": "Ultimo aggiornamento: 3 luglio 2026",
       "sections": [
         {
           "type": "updated",
-          "html": "Last updated: July 3, 2026"
+          "html": "Ultimo aggiornamento: 3 luglio 2026"
         },
         {
           "type": "section",
-          "heading": "1. Introduction",
-          "html": "<p>Ascendra Platforms (\"we\", \"us\", \"our\") operates this B2B marketing website to provide information about our turnkey and white-label iGaming platform. This Privacy Policy explains how we handle personal data when you visit our site or submit a demo or contact request.</p>\r\n      <p>This policy applies to <strong>ascendraplatforms.com</strong> and related marketing properties. It does not govern player-facing operator websites powered by our platform — those are controlled by each operator's own privacy policies.</p>"
+          "heading": "1. Introduzione",
+          "html": "<p>Ascendra Platforms (\"noi\", \"ci\", \"nostro\") gestisce questo sito web di marketing B2B per fornire informazioni sulla nostra piattaforma iGaming chiavi in mano e white-label. La presente Informativa sulla privacy spiega come trattiamo i dati personali quando visiti il nostro sito o invii una richiesta di demo o contatto.</p>\r\n      <p>Questa informativa si applica a <strong>ascendraplatforms.com</strong> e alle proprietà di marketing correlate. Non disciplina i siti web degli operatori rivolti ai giocatori alimentati dalla nostra piattaforma — quelli sono controllati dalle informative sulla privacy di ciascun operatore.</p>"
         },
         {
           "type": "section",
-          "heading": "2. Information We Collect",
-          "html": "<p>We may collect the following when you interact with our website:</p>\r\n      <ul>\r\n        <li><strong>Contact and business details</strong> — company name, contact name, work email, country or region, and message content when you submit a demo or inquiry form.</li>\r\n        <li><strong>Solution preferences</strong> — solution type (Turnkey, White Label, Integration), and expected launch timeline if provided.</li>\r\n        <li><strong>Technical data</strong> — IP address, browser type, device information, pages visited, and referral source collected through standard analytics and server logs.</li>\r\n        <li><strong>Communications</strong> — records of email or meeting correspondence following your inquiry.</li>\r\n      </ul>"
+          "heading": "2. Informazioni che raccogliamo",
+          "html": "<p>Possiamo raccogliere quanto segue quando interagisci con il nostro sito web:</p>\r\n      <ul>\r\n        <li><strong>Dati di contatto e aziendali</strong> — nome azienda, nome del referente, email aziendale, paese o regione e contenuto del messaggio quando invii un modulo di demo o richiesta.</li>\r\n        <li><strong>Preferenze di soluzione</strong> — tipo di soluzione (Chiavi in mano, White Label, Integrazione) e tempistiche di lancio previste, se fornite.</li>\r\n        <li><strong>Dati tecnici</strong> — indirizzo IP, tipo di browser, informazioni sul dispositivo, pagine visitate e fonte di referral raccolti tramite analitica standard e log del server.</li>\r\n        <li><strong>Comunicazioni</strong> — registrazioni di corrispondenza email o riunioni a seguito della tua richiesta.</li>\r\n      </ul>"
         },
         {
           "type": "section",
-          "heading": "3. How We Use Your Information",
-          "html": "<p>We use collected information to:</p>\r\n      <ul>\r\n        <li>Respond to demo requests, sales inquiries, and support questions.</li>\r\n        <li>Provide product information relevant to your business needs.</li>\r\n        <li>Improve our website, content, and user experience.</li>\r\n        <li>Comply with legal obligations and protect against fraud or misuse.</li>\r\n        <li>Send follow-up communications related to your inquiry, where permitted.</li>\r\n      </ul>\r\n      <p>We do not sell your personal data to third parties.</p>"
+          "heading": "3. Come utilizziamo le tue informazioni",
+          "html": "<p>Utilizziamo le informazioni raccolte per:</p>\r\n      <ul>\r\n        <li>Rispondere a richieste di demo, consultazioni commerciali e domande di supporto.</li>\r\n        <li>Fornire informazioni sul prodotto rilevanti per le tue esigenze aziendali.</li>\r\n        <li>Migliorare il nostro sito web, i contenuti e l'esperienza utente.</li>\r\n        <li>Adempiere agli obblighi legali e proteggere da frodi o uso improprio.</li>\r\n        <li>Inviare comunicazioni di follow-up relative alla tua richiesta, ove consentito.</li>\r\n      </ul>\r\n      <p>Non vendiamo i tuoi dati personali a terze parti.</p>"
         },
         {
           "type": "section",
-          "heading": "4. Legal Basis (GDPR)",
-          "html": "<p>Where applicable under the General Data Protection Regulation (GDPR), we process personal data based on:</p>\r\n      <ul>\r\n        <li><strong>Consent</strong> — when you submit a form and agree to this policy.</li>\r\n        <li><strong>Legitimate interests</strong> — to respond to B2B inquiries and operate our marketing website.</li>\r\n        <li><strong>Contractual necessity</strong> — when processing is required to evaluate or deliver services you request.</li>\r\n      </ul>"
+          "heading": "4. Base giuridica (GDPR)",
+          "html": "<p>Ove applicabile ai sensi del Regolamento generale sulla protezione dei dati (GDPR), trattiamo i dati personali sulla base di:</p>\r\n      <ul>\r\n        <li><strong>Consenso</strong> — quando invii un modulo e accetti la presente informativa.</li>\r\n        <li><strong>Interessi legittimi</strong> — per rispondere a richieste B2B e gestire il nostro sito web di marketing.</li>\r\n        <li><strong>Necessità contrattuale</strong> — quando il trattamento è necessario per valutare o erogare i servizi richiesti.</li>\r\n      </ul>"
         },
         {
           "type": "section",
-          "heading": "5. Data Sharing",
-          "html": "<p>We may share information with trusted service providers who assist with hosting, analytics, email delivery, or CRM — solely to operate our business and under appropriate confidentiality obligations. We may also disclose information if required by law or to protect our rights and safety.</p>"
+          "heading": "5. Condivisione dei dati",
+          "html": "<p>Possiamo condividere informazioni con fornitori di servizi affidabili che assistono con hosting, analitica, consegna email o CRM — esclusivamente per gestire la nostra attività e con adeguate obbligazioni di riservatezza. Possiamo anche divulgare informazioni se richiesto dalla legge o per proteggere i nostri diritti e la nostra sicurezza.</p>"
         },
         {
           "type": "section",
-          "heading": "6. Data Retention",
-          "html": "<p>We retain inquiry and contact records for as long as necessary to fulfill the purposes described in this policy, manage ongoing business relationships, and meet legal retention requirements… You may request deletion where applicable law allows.</p>"
+          "heading": "6. Conservazione dei dati",
+          "html": "<p>Conserviamo i registri di richieste e contatti per il tempo necessario a perseguire le finalità descritte in questa informativa, gestire rapporti commerciali in corso e soddisfare i requisiti legali di conservazione… Puoi richiedere la cancellazione ove la legge applicabile lo consenta.</p>"
         },
         {
           "type": "section",
-          "heading": "7. Your Rights",
-          "html": "<p>Depending on your location, you may have rights to access, correct, delete, restrict, or object to processing of your personal data, and to data portability. To exercise these rights, contact us at <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a>.</p>"
+          "heading": "7. I tuoi diritti",
+          "html": "<p>A seconda della tua ubicazione, potresti avere il diritto di accedere, correggere, cancellare, limitare o opporti al trattamento dei tuoi dati personali, nonché alla portabilità dei dati. Per esercitare questi diritti, contattaci a <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a>.</p>"
         },
         {
           "type": "section",
-          "heading": "8. Cookies and Analytics",
-          "html": "<p>We may use cookies and similar technologies to analyze site traffic and improve performance. You can control cookies through your browser settings. Essential cookies required for site functionality may not be disabled.</p>"
+          "heading": "8. Cookie e analitica",
+          "html": "<p>Possiamo utilizzare cookie e tecnologie simili per analizzare il traffico del sito e migliorare le prestazioni. Puoi controllare i cookie tramite le impostazioni del browser. I cookie essenziali necessari per il funzionamento del sito potrebbero non essere disabilitabili.</p>"
         },
         {
           "type": "section",
-          "heading": "9. International Transfers",
-          "html": "<p>Your information may be processed in countries other than your own. Where required, we implement appropriate safeguards for cross-border data transfers.</p>"
+          "heading": "9. Trasferimenti internazionali",
+          "html": "<p>Le tue informazioni possono essere trattate in paesi diversi dal tuo. Ove richiesto, implementiamo adeguate garanzie per i trasferimenti transfrontalieri di dati.</p>"
         },
         {
           "type": "section",
-          "heading": "10. Contact",
-          "html": "<p>For privacy-related questions or requests, contact: <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a></p>"
+          "heading": "10. Contatto",
+          "html": "<p>Per domande o richieste relative alla privacy, contatta: <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a></p>"
         }
       ]
     },
     "terms": {
-      "title": "Terms of Service",
-      "sub": "Terms governing use of the Ascendra Platforms marketing website and demo request services.",
-      "updated": "Last updated: July 3, 2026",
+      "title": "Termini di servizio",
+      "sub": "Termini che regolano l'uso del sito web di marketing di Ascendra Platforms e dei servizi di richiesta demo.",
+      "updated": "Ultimo aggiornamento: 3 luglio 2026",
       "sections": [
         {
           "type": "updated",
-          "html": "Last updated: July 3, 2026"
+          "html": "Ultimo aggiornamento: 3 luglio 2026"
         },
         {
           "type": "section",
-          "heading": "1. Acceptance of Terms",
-          "html": "<p>By accessing or using the Ascendra Platforms marketing website (\"Site\"), you agree to these Terms of Service. If you do not agree, please do not use the Site.</p>"
+          "heading": "1. Accettazione dei termini",
+          "html": "<p>Accedendo o utilizzando il sito web di marketing di Ascendra Platforms (\"Sito\"), accetti i presenti Termini di servizio. Se non sei d'accordo, ti preghiamo di non utilizzare il Sito.</p>"
         },
         {
           "type": "section",
-          "heading": "2. About Our Services",
-          "html": "<p>Ascendra Platforms provides B2B turnkey and white-label iGaming software for casino and sportsbook operators. Content on this Site is for informational and commercial inquiry purposes only. Nothing on the Site constitutes a binding offer, license, or service agreement.</p>\r\n      <p>Formal platform agreements, SLAs, and commercial terms are executed separately in writing between Ascendra Platforms and licensed operators.</p>"
+          "heading": "2. Informazioni sui nostri servizi",
+          "html": "<p>Ascendra Platforms fornisce software iGaming B2B chiavi in mano e white-label per operatori di casino e sportsbook. I contenuti di questo Sito sono esclusivamente a scopo informativo e di consultazione commerciale. Nulla sul Sito costituisce un'offerta vincolante, licenza o accordo di servizio.</p>\r\n      <p>Gli accordi formali di piattaforma, gli SLA e i termini commerciali sono stipulati separatamente per iscritto tra Ascendra Platforms e operatori con licenza.</p>"
         },
         {
           "type": "section",
-          "heading": "3. Permitted Use",
-          "html": "<p>You may use the Site to learn about our platform, request demos, and contact our sales team. You agree not to:</p>\r\n      <ul>\r\n        <li>Use the Site for any unlawful purpose or in violation of applicable regulations.</li>\r\n        <li>Attempt to gain unauthorized access to our systems, data, or networks.</li>\r\n        <li>Scrape, copy, or redistribute Site content without written permission.</li>\r\n        <li>Misrepresent your identity, affiliation, or licensing status when submitting inquiries.</li>\r\n        <li>Introduce malware or interfere with Site availability or security.</li>\r\n      </ul>"
+          "heading": "3. Uso consentito",
+          "html": "<p>Puoi utilizzare il Sito per conoscere la nostra piattaforma, richiedere demo e contattare il nostro team commerciale. Accetti di non:</p>\r\n      <ul>\r\n        <li>Utilizzare il Sito per scopi illeciti o in violazione delle normative applicabili.</li>\r\n        <li>Tentare di ottenere accesso non autorizzato ai nostri sistemi, dati o reti.</li>\r\n        <li>Estrarre, copiare o ridistribuire i contenuti del Sito senza autorizzazione scritta.</li>\r\n        <li>Trasmettere informazioni false sulla tua identità, affiliazione o stato di licenza quando invii richieste.</li>\r\n        <li>Introdurre malware o interferire con la disponibilità o la sicurezza del Sito.</li>\r\n      </ul>"
         },
         {
           "type": "section",
-          "heading": "4. Intellectual Property",
-          "html": "<p>All content on this Site — including text, graphics, logos, product descriptions, and design — is owned text, graphics, logos, product descriptions, and design — is owned by Ascendra Platforms or its licensors and protected by intellectual property laws. You may not reproduce, distribute, or create derivative works without prior written consent.</p>\r\n      <p>Third-party game vendor names and logos displayed for illustration are trademarks of their respective owners.</p>"
+          "heading": "4. Proprietà intellettuale",
+          "html": "<p>Tutti i contenuti di questo Sito — inclusi testi, grafica, loghi, descrizioni di prodotti e design — sono di proprietà di Ascendra Platforms o dei suoi licenzianti e protetti dalle leggi sulla proprietà intellettuale. Non puoi riprodurre, distribuire o creare opere derivate senza consenso scritto preventivo.</p>\r\n      <p>I nomi e i loghi dei fornitori di giochi di terze parti mostrati a titolo illustrativo sono marchi dei rispettivi proprietari.</p>"
         },
         {
           "type": "section",
-          "heading": "5. Demo and Sales Inquiries",
-          "html": "<p>Demo requests and contact submissions do not guarantee product availability, pricing, or contractual engagement. We reserve the right to decline inquiries that do not meet our commercial, regulatory, or compliance criteria.</p>"
+          "heading": "5. Richieste demo e commerciali",
+          "html": "<p>Le richieste di demo e i moduli di contatto non garantiscono disponibilità del prodotto, prezzi o impegno contrattuale. Ci riserviamo il diritto di rifiutare richieste che non soddisfino i nostri criteri commerciali, normativi o di compliance.</p>"
         },
         {
           "type": "section",
-          "heading": "6. Disclaimer of Warranties",
-          "html": "<p>The Site and its content are provided \"as is\" without warranties of any kind, express or implied. We do not warrant that the Site will be uninterrupted, error-free, or free of harmful components. Product capabilities described on the Site may vary by deployment and jurisdiction.</p>"
+          "heading": "6. Esclusione di garanzie",
+          "html": "<p>Il Sito e i suoi contenuti sono forniti \"così come sono\" senza garanzie di alcun tipo, espresse o implicite. Non garantiamo che il Sito sia ininterrotto, privo di errori o di componenti dannosi. Le capacità del prodotto descritte sul Sito possono variare in base al deployment e alla giurisdizione.</p>"
         },
         {
           "type": "section",
-          "heading": "7. Limitation of Liability",
-          "html": "<p>To the fullest extent permitted by law, Ascendra Platforms shall not be liable for any indirect, incidental, special, or consequential damages arising from your use of the Site. Our total liability for claims related to the Site shall not exceed one hundred USD (USD 100).</p>"
+          "heading": "7. Limitazione di responsabilità",
+          "html": "<p>Nella misura massima consentita dalla legge, Ascendra Platforms non sarà responsabile per danni indiretti, incidentali, speciali o consequenziali derivanti dall'uso del Sito. La nostra responsabilità totale per reclami relativi al Sito non supererà cento dollari USA (USD 100).</p>"
         },
         {
           "type": "section",
-          "heading": "8. Regulatory Notice",
-          "html": "<p>iGaming operations are subject to licensing and regulation in each jurisdiction. Operators using Ascendra Platforms are solely responsible for obtaining and maintaining valid licenses and complying with local laws. We do not provide legal advice regarding market entry or licensing.</p>"
+          "heading": "8. Avviso normativo",
+          "html": "<p>Le operazioni iGaming sono soggette a licenze e regolamentazione in ciascuna giurisdizione. Gli operatori che utilizzano Ascendra Platforms sono gli unici responsabili dell'ottenimento e del mantenimento di licenze valide e del rispetto delle leggi locali. Non forniamo consulenza legale in materia di ingresso nel mercato o licenze.</p>"
         },
         {
           "type": "section",
-          "heading": "9. Links to Third Parties",
-          "html": "<p>The Site may contain links to third-party websites. We are not responsible for the content, privacy practices, or policies of external sites.</p>"
+          "heading": "9. Link a terze parti",
+          "html": "<p>Il Sito può contenere link a siti web di terze parti. Non siamo responsabili dei contenuti, delle pratiche sulla privacy o delle policy dei siti esterni.</p>"
         },
         {
           "type": "section",
-          "heading": "10. Changes to Terms",
-          "html": "<p>We may update these Terms at any time. Continued use of the Site after changes are posted constitutes acceptance of the revised Terms. The \"Last updated\" date at the top indicates the most recent revision.</p>"
+          "heading": "10. Modifiche ai termini",
+          "html": "<p>Possiamo aggiornare questi Termini in qualsiasi momento. L'uso continuato del Sito dopo la pubblicazione delle modifiche costituisce accettazione dei Termini rivisti. La data di \"Ultimo aggiornamento\" in alto indica la revisione più recente.</p>"
         },
         {
           "type": "section",
-          "heading": "11. Governing Law",
-          "html": "<p>These Terms are governed by the laws specified in your master service agreement, or otherwise as agreed in writing. For website-only disputes absent a separate agreement, disputes shall be resolved in accordance with applicable law at our principal place of business.</p>"
+          "heading": "11. Legge applicabile",
+          "html": "<p>Questi Termini sono regolati dalle leggi specificate nel tuo accordo quadro di servizio, o altrimenti come concordato per iscritto. Per controversie esclusivamente relative al sito web in assenza di un accordo separato, le controversie saranno risolte conformemente alla legge applicabile presso la nostra sede principale.</p>"
         },
         {
           "type": "section",
-          "heading": "12. Contact",
-          "html": "<p>Questions about these Terms: <a href=\"mailto:legal@ascendraplatforms.com\">legal@ascendraplatforms.com</a></p>"
+          "heading": "12. Contatto",
+          "html": "<p>Domande su questi Termini: <a href=\"mailto:legal@ascendraplatforms.com\">legal@ascendraplatforms.com</a></p>"
         }
       ]
     },
     "aml": {
-      "title": "AML Policy",
-      "sub": "Anti-money laundering principles and compliance approach for Ascendra Platforms B2B services.",
-      "updated": "Last updated: July 3, 2026",
+      "title": "Politica AML",
+      "sub": "Principi antiriciclaggio e approccio di compliance per i servizi B2B di Ascendra Platforms.",
+      "updated": "Ultimo aggiornamento: 3 luglio 2026",
       "sections": [
         {
           "type": "updated",
-          "html": "Last updated: July 3, 2026"
+          "html": "Ultimo aggiornamento: 3 luglio 2026"
         },
         {
           "type": "section",
-          "heading": "1. Policy Statement",
-          "html": "<p>Ascendra Platforms is committed to preventing money laundering, terrorist financing, and other financial crimes. We design our platform with tools that help licensed operators meet their AML obligations, and we apply due diligence in our own B2B commercial relationships.</p>"
+          "heading": "1. Dichiarazione di policy",
+          "html": "<p>Ascendra Platforms è impegnata nella prevenzione del riciclaggio di denaro, del finanziamento del terrorismo e di altri reati finanziari. Progettiamo la nostra piattaforma con strumenti che aiutano gli operatori con licenza a soddisfare i propri obblighi AML, e applichiamo la due diligence nelle nostre relazioni commerciali B2B.</p>"
         },
         {
           "type": "section",
-          "heading": "2. Platform AML Capabilities",
-          "html": "<p>Operators deploying Ascendra Platforms have access to built-in compliance features, including:</p>\r\n      <ul>\r\n        <li>Know Your Customer (KYC) document collection and verification workflows.</li>\r\n        <li>Anti-Fraud System with AML blocklist screening on signup and transactions.</li>\r\n        <li>Pre-withdrawal risk gates and automated hold for high-risk payouts.</li>\r\n        <li>Audit trails for risk decisions, player verification status, and admin actions.</li>\r\n        <li>Configurable deposit, withdrawal, and betting limits.</li>\r\n        <li>Player transaction history and reporting for suspicious activity review.</li>\r\n      </ul>"
+          "heading": "2. Capacità AML della piattaforma",
+          "html": "<p>Gli operatori che implementano Ascendra Platforms hanno accesso a funzionalità di compliance integrate, tra cui:</p>\r\n      <ul>\r\n        <li>Flussi di raccolta e verifica documenti Know Your Customer (KYC).</li>\r\n        <li>Sistema antifraude con screening delle liste di blocco AML in registrazione e transazioni.</li>\r\n        <li>Controlli di rischio pre-prelievo e blocco automatizzato per pagamenti ad alto rischio.</li>\r\n        <li>Audit trail per decisioni di rischio, stato di verifica del giocatore e azioni admin.</li>\r\n        <li>Limiti configurabili di deposito, prelievo e scommessa.</li>\r\n        <li>Cronologia transazioni del giocatore e reportistica per la revisione di attività sospette.</li>\r\n      </ul>"
         },
         {
           "type": "section",
-          "heading": "3. Operator Responsibilities",
-          "html": "<p>Licensed operators remain ultimately responsible for AML compliance in their jurisdictions. Operators must:</p>\r\n      <ul>\r\n        <li>Maintain valid gaming and financial services licenses where required.</li>\r\n        <li>Implement and enforce KYC and enhanced due diligence policies appropriate to their market.</li>\r\n        <li>File suspicious activity reports (SARs) or equivalent disclosures with relevant authorities.</li>\r\n        <li>Train staff on AML procedures and platform tooling.</li>\r\n        <li>Keep branded AML policy pages current for their player-facing websites.</li>\r\n      </ul>"
+          "heading": "3. Responsabilità dell'operatore",
+          "html": "<p>Gli operatori con licenza restano in ultima istanza responsabili della compliance AML nelle proprie giurisdizioni. Gli operatori devono:</p>\r\n      <ul>\r\n        <li>Mantenere licenze valide di gioco e servizi finanziari ove richiesto.</li>\r\n        <li>Implementare e applicare policy KYC e di due diligence rafforzata adeguate al proprio mercato.</li>\r\n        <li>Presentare segnalazioni di attività sospette (SAR) o comunicazioni equivalenti alle autorità competenti.</li>\r\n        <li>Formare il personale sulle procedure AML e sugli strumenti della piattaforma.</li>\r\n        <li>Mantenere aggiornate le pagine di policy AML brandizzate sui propri siti rivolti ai giocatori.</li>\r\n      </ul>"
         },
         {
           "type": "section",
-          "heading": "4. B2B Due Diligence",
-          "html": "<p>Before entering commercial agreements, Ascendra Platforms may conduct due diligence on prospective operator partners, including identity verification, licensing status, beneficial ownership, and jurisdiction risk assessment. We reserve the right to decline or terminate relationships that present unacceptable AML or regulatory risk.</p>"
+          "heading": "4. Due diligence B2B",
+          "html": "<p>Prima di stipulare accordi commerciali, Ascendra Platforms può condurre due diligence sui potenziali partner operatori, inclusa verifica dell'identità, stato delle licenze, titolarità effettiva e valutazione del rischio giurisdizionale. Ci riserviamo il diritto di rifiutare o terminare relazioni che presentino un rischio AML o normativo inaccettabile.</p>"
         },
         {
           "type": "section",
-          "heading": "5. Sanctions and Blocklists",
-          "html": "<p>Our Anti-Fraud System supports screening against applicable sanctions and blocklists. Operators configure enforcement policies aligned with their regulatory requirements… Screening outcomes may result in account blocks, transaction holds, or enhanced verification requirements…</p>"
+          "heading": "5. Sanzioni e liste di blocco",
+          "html": "<p>Il nostro Sistema antifraude supporta lo screening contro sanzioni e liste di blocco applicabili. Gli operatori configurano policy di enforcement allineate ai propri requisiti normativi… I risultati dello screening possono comportare blocchi dell'account, sospensioni delle transazioni o requisiti di verifica rafforzati…</p>"
         },
         {
           "type": "section",
-          "heading": "6. Record Keeping",
-          "html": "<p>The platform maintains transaction and audit records to support operator compliance programs. Retention periods should be configured by operators in accordance with applicable law.</p>"
+          "heading": "6. Conservazione dei registri",
+          "html": "<p>La piattaforma mantiene registri di transazioni e audit per supportare i programmi di compliance degli operatori. I periodi di conservazione devono essere configurati dagli operatori conformemente alla legge applicabile.</p>"
         },
         {
           "type": "section",
-          "heading": "7. Reporting Concerns",
-          "html": "<p>To report AML-related concerns regarding Ascendra Platforms B2B operations, contact: <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a></p>"
+          "heading": "7. Segnalazione di problematiche",
+          "html": "<p>Per segnalare problematiche relative all'AML riguardo alle operazioni B2B di Ascendra Platforms, contatta: <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a></p>"
         }
       ]
     },
     "responsible": {
-      "title": "Responsible Gaming",
-      "sub": "Our commitment to responsible gaming tools and operator compliance support.",
-      "updated": "Last updated: July 3, 2026",
+      "title": "Gioco responsabile",
+      "sub": "Il nostro impegno per strumenti di gioco responsabile e supporto alla compliance degli operatori.",
+      "updated": "Ultimo aggiornamento: 3 luglio 2026",
       "sections": [
         {
           "type": "updated",
-          "html": "Last updated: July 3, 2026"
+          "html": "Ultimo aggiornamento: 3 luglio 2026"
         },
         {
           "type": "section",
-          "heading": "1. Our Commitment",
-          "html": "<p>Ascendra Platforms believes iGaming operators have a duty to protect players. Our platform includes responsible gaming (RG) tools that operators can configure and enforce across casino and sportsbook products.</p>\r\n      <p>This page describes platform capabilities. Player-facing responsible gaming policies are published by each licensed operator on their own branded websites.</p>"
+          "heading": "1. Il nostro impegno",
+          "html": "<p>Ascendra Platforms ritiene che gli operatori iGaming abbiano il dovere di proteggere i giocatori. La nostra piattaforma include strumenti di gioco responsabile (RG) che gli operatori possono configurare e applicare su prodotti casino e sportsbook.</p>\r\n      <p>Questa pagina descrive le capacità della piattaforma. Le policy di gioco responsabile rivolte ai giocatori sono pubblicate da ciascun operatore con licenza sui propri siti web brandizzati.</p>"
         },
         {
           "type": "section",
-          "heading": "2. Platform Tools for Operators",
-          "html": "<p>Ascendra Platforms provides operators with the following player protection features:</p>\r\n      <ul>\r\n        <li><strong>Deposit limits</strong> — daily, weekly, and monthly caps set by players or enforced by operators.</li>\r\n        <li><strong>Loss and wagering limits</strong> — controls on maximum losses or bet amounts over defined periods.</li>\r\n        <li><strong>Session limits</strong> — reminders and automatic logouts after configured play duration.</li>\r\n        <li><strong>Cooling-off periods</strong> — temporary account restrictions chosen by the player.</li>\r\n        <li><strong>Self-exclusion</strong> — extended account closure for players who need a break from gambling.</li>\r\n        <li><strong>Reality checks</strong> — periodic notifications showing time spent and net position.</li>\r\n        <li><strong>Underage prevention</strong> — age verification integrated with KYC workflows.</li>\r\n        <li><strong>Sportsbook limits</strong> — market-level and player-level betting caps.</li>\r\n      </ul>"
+          "heading": "2. Strumenti della piattaforma per gli operatori",
+          "html": "<p>Ascendra Platforms fornisce agli operatori le seguenti funzionalità di protezione del giocatore:</p>\r\n      <ul>\r\n        <li><strong>Limiti di deposito</strong> — massimali giornalieri, settimanali e mensili impostati dai giocatori o applicati dagli operatori.</li>\r\n        <li><strong>Limiti di perdita e puntata</strong> — controlli sulle perdite massime o sugli importi delle scommesse in periodi definiti.</li>\r\n        <li><strong>Limiti di sessione</strong> — promemoria e logout automatici dopo la durata di gioco configurata.</li>\r\n        <li><strong>Periodi di pausa</strong> — restrizioni temporanee dell'account scelte dal giocatore.</li>\r\n        <li><strong>Auto-esclusione</strong> — chiusura prolungata dell'account per giocatori che necessitano di una pausa dal gioco.</li>\r\n        <li><strong>Reality check</strong> — notifiche periodiche che mostrano tempo trascorso e posizione netta.</li>\r\n        <li><strong>Prevenzione minori</strong> — verifica dell'età integrata con i flussi KYC.</li>\r\n        <li><strong>Limiti sportsbook</strong> — massimali di scommessa a livello di mercato e di giocatore.</li>\r\n      </ul>"
         },
         {
           "type": "section",
-          "heading": "3. Operator Admin Controls",
-          "html": "<p>Operators manage responsible gaming settings through the Ascendra Platforms backoffice — applying limits per player, segment, or jurisdiction, and reviewing accounts flagged for problematic behavior through integrated risk and fraud monitoring. limits per player, segment, or jurisdiction, and reviewing accounts flagged for problematic behavior through integrated risk and fraud monitoring.</p>"
+          "heading": "3. Controlli admin dell'operatore",
+          "html": "<p>Gli operatori gestiscono le impostazioni di gioco responsabile tramite il backoffice di Ascendra Platforms — applicando limiti per giocatore, segmento o giurisdizione, e revisionando account segnalati per comportamenti problematici tramite monitoraggio integrato di rischio e frodi.</p>"
         },
         {
           "type": "section",
-          "heading": "4. Player Support",
-          "html": "<p>Operators can deliver in-platform support via live chat and ticketing, directing players to professional help organizations where appropriate. Ascendra Platforms enables operators to display responsible gaming information and helpline links on player-facing sites.</p>"
+          "heading": "4. Supporto ai giocatori",
+          "html": "<p>Gli operatori possono offrire supporto in piattaforma tramite live chat e ticketing, indirizzando i giocatori verso organizzazioni di aiuto professionale ove appropriato. Ascendra Platforms consente agli operatori di mostrare informazioni sul gioco responsabile e link alle linee di assistenza sui siti rivolti ai giocatori.</p>"
         },
         {
           "type": "section",
-          "heading": "5. Training and Best Practices",
-          "html": "<p>We recommend operators train support and compliance teams on responsible gaming procedures, monitor player behavior indicators, and align RG policies with requirements…in each licensed market.</p>"
+          "heading": "5. Formazione e best practice",
+          "html": "<p>Raccomandiamo agli operatori di formare i team di supporto e compliance sulle procedure di gioco responsabile, monitorare gli indicatori di comportamento dei giocatori e allineare le policy RG ai requisiti… in ciascun mercato con licenza.</p>"
         },
         {
           "type": "section",
-          "heading": "6. Get Help",
-          "html": "<p>If you are a player seeking support, please contact the operator of the website where you play. If you are an operator evaluating Ascendra Platforms responsible gaming capabilities, <a href=\"contact.html\">request a demo</a> or email <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a>.</p>"
+          "heading": "6. Ottieni aiuto",
+          "html": "<p>Se sei un giocatore in cerca di supporto, contatta l'operatore del sito web dove giochi. Se sei un operatore che valuta le capacità di gioco responsabile di Ascendra Platforms, <a href=\"contact.html\">richiedi una demo</a> o scrivi a <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a>.</p>"
         }
       ]
     }
@@ -622,39 +622,39 @@
   "features": {
     "game-integrations": {
       "slug": "game-integrations",
-      "badge": "Games",
-      "title": "250+ Game Integrations",
-      "heroH1": "One Platform, 250+ Integrations",
-      "heroSub": "Connect with leading game studios — slots, live casino, and table games from Pragmatic Play, Evolution, SA Gaming, and more on Ascendra Platforms.",
+      "badge": "Giochi",
+      "title": "Oltre 250 integrazioni di giochi",
+      "heroH1": "Una piattaforma, oltre 250 integrazioni",
+      "heroSub": "Connettiti con i principali studi di giochi — slot, casino live e giochi da tavolo di Pragmatic Play, Evolution, SA Gaming e altri su Ascendra Platforms.",
       "heroImage": "/assets/images/gates-of-olympus.jpg",
-      "problemTitle": "The Challenge",
-      "problem": "Operators waste months negotiating individual vendor contracts and managing fragmented game catalogs across multiple systems.",
-      "solutionTitle": "The Ascendra Solution",
-      "solution": "Ascendra Platforms delivers a unified game catalog with 250+ integrations — one wallet, one backoffice, and seamless play across every major category.",
+      "problemTitle": "La sfida",
+      "problem": "Gli operatori perdono mesi a negoziare contratti individuali con i fornitori e a gestire cataloghi di giochi frammentati su più sistemi.",
+      "solutionTitle": "La soluzione Ascendra",
+      "solution": "Ascendra Platforms offre un catalogo giochi unificato con oltre 250 integrazioni — un portafoglio, un backoffice e gioco fluido in ogni categoria principale.",
       "capabilities": [
-        "Major vendor titles from Pragmatic Play, Evolution, SA Gaming, PG Soft, and more",
-        "Full catalog management — enable, disable, and organize games from Admin",
-        "Seamless play with instant balance updates across casino and sportsbook",
-        "Live casino, slots, table games, and crash games in one integration layer",
-        "10,000+ games available without rebuilding your player experience",
-        "New vendor onboarding without disrupting live operations"
+        "Titoli principali di Pragmatic Play, Evolution, SA Gaming, PG Soft e altri",
+        "Gestione completa del catalogo — abilita, disabilita e organizza i giochi da Admin",
+        "Gioco fluido con aggiornamenti istantanei del saldo su casino e sportsbook",
+        "Casino live, slot, giochi da tavolo e crash games in un unico layer di integrazione",
+        "Oltre 10.000 giochi disponibili senza ricostruire l'esperienza del giocatore",
+        "Onboarding di nuovi fornitori senza interrompere le operazioni live"
       ],
       "steps": [
         {
-          "title": "Browse Catalog",
-          "desc": "Operator selects games and categories in Admin"
+          "title": "Esplora catalogo",
+          "desc": "L'operatore seleziona giochi e categorie in Admin"
         },
         {
-          "title": "Player Launches",
-          "desc": "Game opens in-player with unified wallet"
+          "title": "Il giocatore avvia",
+          "desc": "Il gioco si apre in-player con portafoglio unificato"
         },
         {
-          "title": "Bet & Settle",
-          "desc": "Every round recorded in transparent ledger"
+          "title": "Scommetti e liquida",
+          "desc": "Ogni round registrato in un registro trasparente"
         },
         {
-          "title": "Report & Reconcile",
-          "desc": "GGR and vendor stats in real-time dashboards"
+          "title": "Report e riconcilia",
+          "desc": "Statistiche GGR e fornitori in dashboard in tempo reale"
         }
       ],
       "screenshotPlayer": "/assets/images/casino-sports.jpg",
@@ -667,39 +667,39 @@
     },
     "sportsbook": {
       "slug": "sportsbook",
-      "badge": "Sports",
-      "title": "Complete Sportsbook",
-      "heroH1": "Complete Sportsbook, Built In",
-      "heroSub": "Pre-match and live betting across major sports — singles, parlays, and system bets on one unified wallet with your casino.",
+      "badge": "Sport",
+      "title": "Sportsbook completo",
+      "heroH1": "Sportsbook completo, integrato",
+      "heroSub": "Scommesse pre-match e live sui principali sport — singole, multiple e di sistema su un portafoglio unificato con il tuo casino.",
       "heroImage": "/assets/images/sports.jpg",
-      "problemTitle": "The Challenge",
-      "problem": "Running casino and sports on separate platforms splits your wallet, doubles integration work, and frustrates players who want one account.",
-      "solutionTitle": "The Ascendra Solution",
-      "solution": "Ascendra Platforms includes a full sportsbook — pre-match, live, and in-play — natively integrated with your casino wallet and bonus engine.",
+      "problemTitle": "La sfida",
+      "problem": "Gestire casino e sport su piattaforme separate divide il portafoglio, raddoppia il lavoro di integrazione e frustra i giocatori che vogliono un unico account.",
+      "solutionTitle": "La soluzione Ascendra",
+      "solution": "Ascendra Platforms include uno sportsbook completo — pre-match, live e in-play — integrato nativamente con il portafoglio casino e il motore bonus.",
       "capabilities": [
-        "Pre-match and live in-play betting with real-time odds",
-        "Multi-sport coverage — football, basketball, tennis, eSports, and more",
-        "Singles, parlays, accumulators, and system bets",
-        "Unified wallet shared with casino — one balance, one history",
-        "Sports-specific bonuses, free bets, and odds boosts",
-        "Full bet history, settlement, and responsible betting limits"
+        "Scommesse pre-match e live in-play con quote in tempo reale",
+        "Copertura multi-sport — calcio, basket, tennis, eSports e altro",
+        "Singole, multiple, accumulatori e scommesse di sistema",
+        "Portafoglio unificato condiviso con il casino — un saldo, una cronologia",
+        "Bonus sport-specifici, scommesse gratuite e quote potenziate",
+        "Cronologia completa delle scommesse, liquidazione e limiti di gioco responsabile"
       ],
       "steps": [
         {
-          "title": "Select Event",
-          "desc": "Player browses pre-match or live markets"
+          "title": "Seleziona evento",
+          "desc": "Il giocatore esplora mercati pre-match o live"
         },
         {
-          "title": "Build Bet Slip",
-          "desc": "Singles, parlays, or system bets"
+          "title": "Crea schedina",
+          "desc": "Singole, multiple o scommesse di sistema"
         },
         {
-          "title": "Place & Settle",
-          "desc": "Wallet debited; winnings credited instantly"
+          "title": "Piazza e liquida",
+          "desc": "Portafoglio addebitato; vincite accreditate istantaneamente"
         },
         {
-          "title": "Track & Report",
-          "desc": "Operator monitors exposure and GGR in Admin"
+          "title": "Monitora e report",
+          "desc": "L'operatore monitora esposizione e GGR in Admin"
         }
       ],
       "screenshotPlayer": "/assets/images/sports.jpg",
@@ -712,22 +712,22 @@
     },
     "wallet": {
       "slug": "wallet",
-      "badge": "Wallet",
-      "title": "Transparent Wallet",
-      "heroH1": "Every Transaction Accounted For",
-      "heroSub": "Every deposit, bet, win, and withdrawal is fully recorded — built for audit, reconciliation, and peace of mind.",
+      "badge": "Portafoglio",
+      "title": "Portafoglio trasparente",
+      "heroH1": "Ogni transazione contabilizzata",
+      "heroSub": "Ogni deposito, scommessa, vincita e prelievo è completamente registrato — progettato per audit, riconciliazione e tranquillità.",
       "heroImage": "/assets/images/wallet.jpg",
-      "problemTitle": "The Challenge",
-      "problem": "Opaque balance handling creates disputes with players, auditors, and finance teams — especially when casino and sports share one account.",
-      "solutionTitle": "The Ascendra Solution",
-      "solution": "Ascendra Platforms maintains a complete, immutable transaction ledger — every credit and debit traceable from signup to withdrawal.",
+      "problemTitle": "La sfida",
+      "problem": "Una gestione opaca dei saldi crea dispute con giocatori, auditor e team finanziari — soprattutto quando casino e sport condividono un unico account.",
+      "solutionTitle": "La soluzione Ascendra",
+      "solution": "Ascendra Platforms mantiene un registro transazioni completo e immutabile — ogni accredito e addebito tracciabile dalla registrazione al prelievo.",
       "capabilities": [
         "Cronologia completa delle transazioni per ogni azione del giocatore",
-        "Registrazioni pronte per l'audit per i team finanziari e di conformità",
-        "Aggiornamenti istantanei del saldo tra casinò, sport e bonus",
-        "Separa il monitoraggio del saldo in contanti e bonus con i progressi delle scommesse",
-        "Rapporti di riconciliazione allineati con la contabilità dell'operatore",
-        "Supporto multi-valuta con USD come display predefinito"
+        "Registri pronti per l'audit per team finanziari e compliance",
+        "Aggiornamenti istantanei del saldo su casino, sport e bonus",
+        "Tracciamento separato di saldo cash e bonus con progresso wagering",
+        "Report di riconciliazione allineati alla contabilità dell'operatore",
+        "Supporto multi-valuta con USD come visualizzazione predefinita"
       ],
       "steps": [
         {
@@ -735,16 +735,16 @@
           "desc": "Deposito, scommessa, vincita, bonus o prelievo"
         },
         {
-          "title": "Voce di contabilità generale",
-          "desc": "Ogni movimento registrato con marca temporale e tipo"
+          "title": "Voce nel registro",
+          "desc": "Ogni movimento registrato con timestamp e tipo"
         },
         {
-          "title": "Aggiornamento al bilanciamento delle carte",
-          "desc": "Saldi in contanti e bonus in tempo reale aggiornati"
+          "title": "Aggiornamento saldo",
+          "desc": "Saldi cash e bonus aggiornati in tempo reale"
         },
         {
           "title": "Audit ed esportazione",
-          "desc": "Esportazioni e riconciliazioni del team finanziario in Admin"
+          "desc": "Il team finanziario esporta e riconcilia in Admin"
         }
       ],
       "screenshotPlayer": "/assets/images/wallet.jpg",
@@ -758,37 +758,37 @@
     "payments": {
       "slug": "payments",
       "badge": "Pagamenti",
-      "title": "Gateway di Pagamento",
+      "title": "Oltre 50 gateway di pagamento",
       "heroH1": "Oltre 50 gateway, portata globale",
-      "heroSub": "Accetta criptovalute e fiat in tutto il mondo con depositi automatizzati e un processo di approvazione del prelievo sicuro.",
+      "heroSub": "Accetta crypto e fiat in tutto il mondo con depositi automatizzati e un processo sicuro di approvazione prelievi.",
       "heroImage": "/assets/images/payments.jpg",
       "problemTitle": "La sfida",
       "problem": "Opzioni di pagamento limitate significano depositi persi, mentre l'elaborazione manuale dei prelievi crea ritardi e rischi operativi.",
       "solutionTitle": "La soluzione Ascendra",
-      "solution": "Le piattaforme Ascendra collegano oltre 50 gateway di pagamento — criptovalute, fiat, bonifici bancari ed e-wallet — con depositi automatizzati e approvazione di prelievo controllata dall'operatore.",
+      "solution": "Ascendra Platforms collega oltre 50 gateway di pagamento — crypto, fiat, bonifico bancario ed e-wallet — con depositi automatizzati e approvazione prelievi controllata dall'operatore.",
       "capabilities": [
-        "Metodi di pagamento crittografici e fiat per le basi di giocatori globali",
-        "Conferma automatica del deposito e accredito del portafoglio",
-        "Flusso di lavoro sicuro per l'approvazione dei prelievi con cancelli anti",
-        "Opzioni di pagamento manuali e semiautomatiche per gli operatori",
-        "Configurazione del metodo di pagamento per brand e regione",
-        "Integrato con il sistema antifrode per la protezione dei pagamenti"
+        "Metodi di pagamento crypto e fiat per basi giocatori globali",
+        "Conferma automatica depositi e accredito al portafoglio",
+        "Flusso sicuro di approvazione prelievi con controlli antifraude",
+        "Opzioni di payout manuali e semi-automatiche per operatori",
+        "Configurazione metodi di pagamento per brand e regione",
+        "Integrato con il Sistema antifraude per protezione payout"
       ],
       "steps": [
         {
-          "title": "Depositi dei giocatori",
-          "desc": "Seleziona il metodo e completa il pagamento"
+          "title": "Depositi giocatore",
+          "desc": "Seleziona metodo e completa il pagamento"
         },
         {
           "title": "Accredito automatico",
           "desc": "Portafoglio aggiornato al deposito confermato"
         },
         {
-          "title": "Richiesta di prelievo",
-          "desc": "Il giocatore invia il pagamento; rischio valutato"
+          "title": "Richiesta prelievo",
+          "desc": "Il giocatore invia payout; rischio valutato"
         },
         {
-          "title": "VISTÂOPÎRATORE",
+          "title": "Approvazione operatore",
           "desc": "Prelievi approvati elaborati in modo sicuro"
         }
       ],
@@ -805,36 +805,36 @@
       "badge": "Bonus",
       "title": "Motore bonus completo",
       "heroH1": "Ogni tipo di promozione di cui hai bisogno",
-      "heroSub": "Benvenuto, partita di deposito, cashback, giri gratuiti, premi VIP e tracciamento delle scommesse — per casinò e sport, pronti all'uso.",
+      "heroSub": "Benvenuto, deposito abbinato, cashback, giri gratis, premi VIP e tracciamento requisiti di puntata — per casino e sport, pronti all'uso.",
       "heroImage": "/assets/images/bonus.jpg",
       "problemTitle": "La sfida",
-      "problem": "Gli strumenti di promozione patchwork portano ad abusi di bonus, regole di scommessa poco chiare e campagne che non possono estendersi al casinò e allo sport.",
+      "problem": "Strumenti promozionali frammentati portano ad abusi bonus, regole di wagering poco chiare e campagne che non coprono casino e sport.",
       "solutionTitle": "La soluzione Ascendra",
-      "solution": "Ascendra Platforms include un motore bonus completo: configura le politiche in Admin, consenti ai giocatori di richiedere in-app e monitora i progressi di rollover in tempo reale.",
+      "solution": "Ascendra Platforms include un motore bonus completo — configura le policy in Admin, lascia che i giocatori reclamino in-app e traccia il progresso di rollover in tempo reale.",
       "capabilities": [
-        "Benvenuto, primo deposito, ricarica e bonus giornalieri/settimanali",
-        "Cashback, Giri Gratuiti e ricompense di livello VIP",
-        "Scommesse sportive gratuite, aumenti di quota e bonus accumulatori",
-        "Scommesse in tempo reale e progressi di rollover per i giocatori",
-        "Regole della polizza flessibili: importi, giochi, sport e scadenza",
-        "Flusso dei reclami self-service del giocatore con termini trasparenti"
+        "Benvenuto, primo deposito, reload e bonus giornalieri/settimanali",
+        "Cashback, giri gratis e premi tier VIP",
+        "Scommesse gratuite sport, quote potenziate e bonus accumulatori",
+        "Progresso wagering e rollover in tempo reale per i giocatori",
+        "Regole policy flessibili — importi, giochi, sport e scadenza",
+        "Flusso di reclamo self-service del giocatore con termini trasparenti"
       ],
       "steps": [
         {
-          "title": "Configura criterio",
+          "title": "Configura policy",
           "desc": "L'operatore imposta le regole bonus in Admin"
         },
         {
           "title": "Il giocatore si qualifica",
-          "desc": "Deposito, registrazione o attivazione della campagna"
+          "desc": "Deposito, registrazione o attivazione campagna"
         },
         {
-          "title": "Richiedi e gioca",
-          "desc": "Bonus accreditato; scommesse tracciate dal vivo"
+          "title": "Reclama e gioca",
+          "desc": "Bonus accreditato; wagering tracciato live"
         },
         {
           "title": "Converti o scade",
-          "desc": "Saldo di → cassa completo di rollover"
+          "desc": "Rollover completato → saldo cash"
         }
       ],
       "screenshotPlayer": "/assets/images/bonus.jpg",
@@ -848,38 +848,38 @@
     "marketing-crm": {
       "slug": "marketing-crm",
       "badge": "CRM",
-      "title": "Marketing e CRM",
-      "heroH1": "Cresci e mantieni i tuoi giocatori",
-      "heroSub": "Segmenta i giocatori, gestisci campagne, automatizza i messaggi del ciclo di vita e misura la fidelizzazione, senza strumenti di terze parti.",
+      "title": "CRM marketing",
+      "heroH1": "Fai crescere e fidelizza i tuoi giocatori",
+      "heroSub": "Segmenta i giocatori, gestisci campagne, automatizza messaggi del ciclo di vita e misura la retention — senza strumenti di terze parti.",
       "heroImage": "/assets/images/crm.jpg",
       "problemTitle": "La sfida",
-      "problem": "L'esportazione dei dati dei giocatori su CRM esterni infrange la conformità, aggiunge costi e ritarda le campagne quando i tempi contano di più.",
+      "problem": "Esportare dati giocatori verso CRM esterni compromette la compliance, aggiunge costi e ritarda le campagne quando il timing è cruciale.",
       "solutionTitle": "La soluzione Ascendra",
-      "solution": "Ascendra Platforms include un CRM di marketing integrato: segmenta, scegli come target e misura le campagne in cui sono già presenti i dati dei tuoi giocatori.",
+      "solution": "Ascendra Platforms include un CRM marketing integrato — segmenta, indirizza e misura le campagne dove risiedono già i dati dei tuoi giocatori.",
       "capabilities": [
-        "Segmentazione dei giocatori: VIP, nuovi, dormienti, di alto valore e personalizzati",
-        "Creazione, pianificazione e test A/B delle campagne",
-        "Messaggistica del ciclo di vita: registrazione, primo deposito, viaggi di recupero",
-        "Strumenti di retention legati a bonus e programmi fedeltà",
-        "Targeting delle promozioni per segmento con monitoraggio delle conversioni",
-        "Analisi delle campagne e misurazione del ROI in piattaforma"
+        "Segmentazione giocatori — VIP, nuovi, dormienti, alto valore e personalizzati",
+        "Creazione campagne, programmazione e test A/B",
+        "Messaggistica del ciclo di vita — registrazione, primo deposito, recupero",
+        "Strumenti retention collegati a bonus e programmi fedeltà",
+        "Targeting promozionale per segmento con tracciamento conversioni",
+        "Analytics campagne e misurazione ROI in piattaforma"
       ],
       "steps": [
         {
           "title": "Definisci segmento",
-          "desc": "Filtra i giocatori per comportamento e valore"
+          "desc": "Filtra giocatori per comportamento e valore"
         },
         {
           "title": "Crea campagna",
-          "desc": "Messaggio, offerta e programma"
+          "desc": "Messaggio, offerta e programmazione"
         },
         {
-          "title": "Lancio e destinazione",
+          "title": "Lancia e indirizza",
           "desc": "Raggiungi i giocatori giusti al momento giusto"
         },
         {
-          "title": "Misurare i risultati",
-          "desc": "Monitora le conversioni e l'impatto sulla fidel"
+          "title": "Misura risultati",
+          "desc": "Traccia conversioni e impatto sulla retention"
         }
       ],
       "screenshotPlayer": "/assets/images/crm.jpg",
@@ -892,39 +892,39 @@
     },
     "affiliate-system": {
       "slug": "affiliate-system",
-      "badge": "Affiliata",
-      "title": "Sistema di affiliazione",
-      "heroH1": "Crescere attraverso i partner",
-      "heroSub": "CPA, revenue share o modelli ibridi con supporto sub-affiliati e portale partner dedicato.",
+      "badge": "Affiliati",
+      "title": "Sistema affiliati",
+      "heroH1": "Cresci attraverso i partner",
+      "heroSub": "Modelli CPA, revenue share o ibridi con supporto sub-affiliati e portale partner dedicato.",
       "heroImage": "/assets/images/affiliate.jpg",
       "problemTitle": "La sfida",
-      "problem": "Il monitoraggio degli affiliati basato su fogli di calcolo porta a controversie sui pagamenti, conversioni perse e partner che non possono self-service.",
+      "problem": "Il tracciamento affiliati basato su fogli di calcolo porta a dispute sui pagamenti, conversioni perse e partner che non possono gestirsi in autonomia.",
       "solutionTitle": "La soluzione Ascendra",
-      "solution": "Ascendra Platforms include un modulo di affiliazione completo: monitora i referral, calcola automaticamente le commissioni e offri ai partner un portale brandizzato.",
+      "solution": "Ascendra Platforms include un modulo affiliati completo — traccia referral, calcola commissioni automaticamente e offre ai partner un portale brandizzato.",
       "capabilities": [
-        "Modelli di commissione CPA, RevShare e ibridi",
-        "Gerarchia dei sub-affiliati con reporting trasparente",
-        "Portale dedicato ai partner con statistiche e creatività",
-        "Calcolo automatico delle commissioni su GGR e NGR",
-        "Monitoraggio del link di invito e del codice promozionale",
-        "Gestione dei pagamenti integrata con i flussi di lavoro finanziari"
+        "Modelli commissione CPA, RevShare e ibridi",
+        "Gerarchia sub-affiliati con reportistica trasparente",
+        "Portale partner dedicato con statistiche e creatività",
+        "Calcolo automatico commissioni su GGR e NGR",
+        "Tracciamento link referral e codici promo",
+        "Gestione payout integrata con flussi finanziari"
       ],
       "steps": [
         {
-          "title": "Onboarding dei partner",
+          "title": "Onboarding partner",
           "desc": "L'affiliato riceve link e codici di tracciamento"
         },
         {
-          "title": "Registri giocatori",
-          "desc": "Invito attribuito all'account del partner"
+          "title": "Il giocatore si registra",
+          "desc": "Referral attribuito all'account partner"
         },
         {
-          "title": "che la tua attività sia tracciata.",
+          "title": "Attività tracciata",
           "desc": "Depositi, scommesse e GGR collegati al partner"
         },
         {
           "title": "Commissione pagata",
-          "desc": "Calcolo automatico e ciclo di pagamento"
+          "desc": "Calcolo automatizzato e ciclo payout"
         }
       ],
       "screenshotPlayer": "/assets/images/affiliate.jpg",
@@ -937,39 +937,39 @@
     },
     "business-intelligence": {
       "slug": "business-intelligence",
-      "badge": "Analitici",
-      "title": "Business Intelligence",
-      "heroH1": "Know Your Numbers",
-      "heroSub": "GGR, NGR, and daily KPIs on dashboards your finance team can trust.",
+      "badge": "Analitica",
+      "title": "Intelligence aziendale",
+      "heroH1": "Conosci i tuoi numeri",
+      "heroSub": "GGR, NGR e KPI giornalieri su dashboard su cui il team finanziario può fare affidamento.",
       "heroImage": "/assets/images/analytics.jpg",
       "problemTitle": "La sfida",
-      "problem": "Delayed or inconsistent reporting makes it impossible to react to trends, optimize campaigns, or report accurately to stakeholders.",
+      "problem": "Report ritardati o incoerenti rendono impossibile reagire alle tendenze, ottimizzare le campagne o reportare accuratamente agli stakeholder.",
       "solutionTitle": "La soluzione Ascendra",
-      "solution": "Ascendra Platforms delivers real-time business intelligence — GGR, NGR, deposits, withdrawals, and affiliate performance in one dashboard.",
+      "solution": "Ascendra Platforms offre business intelligence in tempo reale — GGR, NGR, depositi, prelievi e performance affiliati in un'unica dashboard.",
       "capabilities": [
-        "GGR and NGR reporting with daily and period breakdowns",
-        "Deposit, withdrawal, and player activity KPIs",
-        "Affiliate and campaign performance reports",
-        "Game and vendor-level revenue analytics",
-        "Export-ready data for finance and accounting",
-        "Role-based dashboard access for Admin users"
+        "Reportistica GGR e NGR con breakdown giornaliero e per periodo",
+        "KPI depositi, prelievi e attività giocatori",
+        "Report performance affiliati e campagne",
+        "Analytics ricavi per gioco e fornitore",
+        "Dati pronti per export per finanza e contabilità",
+        "Accesso dashboard basato sui ruoli per utenti Admin"
       ],
       "steps": [
         {
-          "title": "Data Captured",
-          "desc": "Every bet, deposit, and bonus logged"
+          "title": "Dati acquisiti",
+          "desc": "Ogni scommessa, deposito e bonus registrato"
         },
         {
-          "title": "Aggregated",
-          "desc": "Real-time rollups by player, game, and period"
+          "title": "Aggregati",
+          "desc": "Rollup in tempo reale per giocatore, gioco e periodo"
         },
         {
-          "title": "Visualized",
-          "desc": "Dashboards and reports in Admin"
+          "title": "Visualizzati",
+          "desc": "Dashboard e report in Admin"
         },
         {
-          "title": "Acted On",
-          "desc": "Operators optimize based on live insights"
+          "title": "Azione intrapresa",
+          "desc": "Gli operatori ottimizzano in base ad analisi in tempo reale"
         }
       ],
       "screenshotPlayer": "/assets/images/analytics.jpg",
@@ -982,39 +982,39 @@
     },
     "anti-fraud": {
       "slug": "anti-fraud",
-      "badge": "Security",
-      "title": "Anti-Fraud System",
-      "heroH1": "Stop Fraud Before It Costs You",
-      "heroSub": "Built-in anti-fraud and risk scoring for signup, login, payments, and betting — with AML screening and automated enforcement.",
+      "badge": "Sicurezza",
+      "title": "Sistema antifraude",
+      "heroH1": "Ferma le frodi prima che ti costino",
+      "heroSub": "Antifraude integrato e risk scoring per registrazione, login, pagamenti e scommesse — con screening AML e enforcement automatizzato.",
       "heroImage": "/assets/images/security.jpg",
       "problemTitle": "La sfida",
-      "problem": "Bonus abuse, multi-accounting, and suspicious withdrawals erode operator margins and create regulatory exposure.",
+      "problem": "Abusi bonus, multi-accounting e prelievi sospetti erodono i margini dell'operatore e creano esposizione normativa.",
       "solutionTitle": "La soluzione Ascendra",
-      "solution": "Anti-Fraud System evaluates every critical action before it completes — and monitors bets and bonuses continuously with Allow, Challenge, or Block outcomes.",
+      "solution": "Il Sistema antifraude valuta ogni azione critica prima del completamento — e monitora scommesse e bonus continuamente con esiti Consenti, Sfida o Blocca.",
       "capabilities": [
-        "Signup and login protection against bad actors",
-        "Pre-withdrawal gates — high-risk payouts held automatically",
-        "Multi-account detection across devices and payment methods",
-        "AML blocklist screening on registration and transactions",
-        "Automated hold, MFA challenge, and block enforcement",
-        "Full admin audit trail for every risk decision"
+        "Protezione registrazione e login contro attori malevoli",
+        "Controlli pre-prelievo — payout ad alto rischio trattenuti automaticamente",
+        "Rilevamento multi-account su dispositivi e metodi di pagamento",
+        "Screening liste di blocco AML in registrazione e transazioni",
+        "Hold automatizzato, sfida MFA e enforcement blocchi",
+        "Audit trail admin completo per ogni decisione di rischio"
       ],
       "steps": [
         {
           "title": "Azione del giocatore",
-          "desc": "Signup, login, deposit, bet, or withdrawal"
+          "desc": "Registrazione, login, deposito, scommessa o prelievo"
         },
         {
-          "title": "Risk Evaluation",
-          "desc": "Real-time scoring against operator policies"
+          "title": "Valutazione rischio",
+          "desc": "Scoring in tempo reale rispetto alle policy operatore"
         },
         {
-          "title": "Decision",
-          "desc": "Allow, Challenge (MFA), or Block"
+          "title": "Decisione",
+          "desc": "Consenti, Sfida (MFA) o Blocca"
         },
         {
-          "title": "Audit Log",
-          "desc": "Every outcome recorded in Admin"
+          "title": "Log audit",
+          "desc": "Ogni esito registrato in Admin"
         }
       ],
       "screenshotPlayer": "/assets/images/security.jpg",
@@ -1028,38 +1028,38 @@
     "risk-compliance": {
       "slug": "risk-compliance",
       "badge": "Compliance",
-      "title": "Risk & Compliance",
-      "heroH1": "Operate with Confidence",
-      "heroSub": "Responsible gaming tools, KYC workflow, and regulatory framework support built into Ascendra Platforms.",
+      "title": "Rischio e compliance",
+      "heroH1": "Opera con fiducia",
+      "heroSub": "Strumenti di gioco responsabile, flusso KYC e supporto al framework normativo integrati in Ascendra Platforms.",
       "heroImage": "/assets/images/compliance.jpg",
       "problemTitle": "La sfida",
-      "problem": "Regulatory requirements vary by market — without integrated tools, operators bolt on KYC and responsible gaming as afterthoughts.",
+      "problem": "I requisiti normativi variano per mercato — senza strumenti integrati, gli operatori aggiungono KYC e gioco responsabile come ripensamenti.",
       "solutionTitle": "La soluzione Ascendra",
-      "solution": "Ascendra Platforms includes responsible gaming limits, KYC verification workflows, and branded legal pages — configurable per brand and jurisdiction.",
+      "solution": "Ascendra Platforms include limiti di gioco responsabile, flussi di verifica KYC e pagine legali brandizzate — configurabili per brand e giurisdizione.",
       "capabilities": [
-        "Responsible gaming — deposit, loss, and session limits",
-        "Self-exclusion and cooling-off period support",
-        "KYC document upload and verification workflow",
-        "Branded Terms, Privacy, AML, and Responsible Gaming pages",
-        "Player verification status visible in Admin",
-        "Integration with Anti-Fraud System for enhanced screening"
+        "Gioco responsabile — limiti deposito, perdita e sessione",
+        "Supporto auto-esclusione e periodi di pausa",
+        "Flusso upload e verifica documenti KYC",
+        "Pagine brandizzate Termini, Privacy, AML e Gioco responsabile",
+        "Stato verifica giocatore visibile in Admin",
+        "Integrazione con Sistema antifraude per screening rafforzato"
       ],
       "steps": [
         {
-          "title": "Player Onboards",
-          "desc": "Identity verification triggered by policy"
+          "title": "Onboarding giocatore",
+          "desc": "Verifica identità attivata dalla policy"
         },
         {
-          "title": "Documents Reviewed",
-          "desc": "Operator approves or requests resubmission"
+          "title": "Documenti revisionati",
+          "desc": "L'operatore approva o richiede reinvio"
         },
         {
-          "title": "Limits Applied",
-          "desc": "Responsible gaming settings enforced"
+          "title": "Limiti applicati",
+          "desc": "Impostazioni gioco responsabile applicate"
         },
         {
-          "title": "Ongoing Monitor",
-          "desc": "Compliance status tracked in Admin"
+          "title": "Monitoraggio continuo",
+          "desc": "Stato compliance tracciato in Admin"
         }
       ],
       "screenshotPlayer": "/assets/images/compliance.jpg",
@@ -1073,38 +1073,38 @@
     "operator-backoffice": {
       "slug": "operator-backoffice",
       "badge": "Admin",
-      "title": "Operator Backoffice",
-      "heroH1": "One Control Panel for Everything",
-      "heroSub": "Manage players, finance, games, sports, bonuses, CRM, fraud alerts, and support from one secure control panel.",
+      "title": "Backoffice operatore",
+      "heroH1": "Un pannello di controllo per tutto",
+      "heroSub": "Gestisci giocatori, finanze, giochi, sport, bonus, CRM, alert frodi e supporto da un unico pannello di controllo sicuro.",
       "heroImage": "/assets/images/backoffice.jpg",
       "problemTitle": "La sfida",
-      "problem": "Juggling multiple admin tools for players, payments, games, and support slows operators down and increases error rates.",
+      "problem": "Gestire più strumenti admin per giocatori, pagamenti, giochi e supporto rallenta gli operatori e aumenta gli errori.",
       "solutionTitle": "La soluzione Ascendra",
-      "solution": "Ascendra Platforms Admin is a unified backoffice — role-based access, real-time dashboards, and every module in one panel.",
+      "solution": "Ascendra Platforms Admin è un backoffice unificato — accesso basato sui ruoli, dashboard in tempo reale e ogni modulo in un unico pannello.",
       "capabilities": [
-        "Player management — profiles, limits, KYC, and history",
-        "Finance — deposits, withdrawals, approvals, and reconciliation",
-        "Game and sports catalog configuration",
-        "Bonus, CRM, and affiliate module administration",
-        "Anti-fraud alerts and risk decision audit logs",
-        "Live chat and support ticket management"
+        "Gestione giocatori — profili, limiti, KYC e cronologia",
+        "Finanze — depositi, prelievi, approvazioni e riconciliazione",
+        "Configurazione catalogo giochi e sport",
+        "Amministrazione moduli bonus, CRM e affiliati",
+        "Alert antifraude e log audit decisioni di rischio",
+        "Live chat e gestione ticket supporto"
       ],
       "steps": [
         {
-          "title": "Role Login",
-          "desc": "RBAC-controlled access per team member"
+          "title": "Login per ruolo",
+          "desc": "Accesso RBAC controllato per membro del team"
         },
         {
-          "title": "Monitor Dashboard",
-          "desc": "KPIs, alerts, and pending actions"
+          "title": "Monitora dashboard",
+          "desc": "KPI, alert e azioni in sospeso"
         },
         {
-          "title": "Take Action",
-          "desc": "Approve, configure, or respond in one place"
+          "title": "Agisci",
+          "desc": "Approva, configura o rispondi in un unico posto"
         },
         {
-          "title": "Audit Trail",
-          "desc": "Every admin action logged for compliance"
+          "title": "Audit trail",
+          "desc": "Ogni azione admin registrata per compliance"
         }
       ],
       "screenshotPlayer": "/assets/images/backoffice.jpg",
