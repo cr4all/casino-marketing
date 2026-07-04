@@ -1,0 +1,1116 @@
+{
+  "lang": "hr",
+  "dir": "ltr",
+  "common": {
+    "brandTag": "iGaming infrastruktura",
+    "nav": {
+      "home": "Platforma",
+      "features": "Značajke",
+      "solutions": "Rješenja",
+      "integrations": "Integracije",
+      "pricing": "Cijene",
+      "contact": "Resursi"
+    },
+    "actions": {
+      "contact": "Kontakt",
+      "requestDemo": "Zatražite demo",
+      "exploreFeatures": "Istražite značajke",
+      "learnMore": "Saznajte više →",
+      "contactSales": "Kontaktirajte prodaju",
+      "contactUs": "Kontaktirajte nas",
+      "contactForQuote": "Zatražite ponudu",
+      "submitRequest": "Pošaljite upit",
+      "becomeSuccess": "Postanite naša sljedeća priča o uspjehu"
+    },
+    "footer": {
+      "tagline": "Turnkey i white-label iGaming platforma za operatore kasina i sportskih kladionica diljem svijeta.",
+      "platform": "Platforma",
+      "solutions": "Rješenja",
+      "legal": "Pravno",
+      "features": "Značajke",
+      "integrations": "Integracije",
+      "operatorBackoffice": "Backoffice operatera",
+      "turnkey": "Turnkey",
+      "whiteLabel": "White Label",
+      "prices": "Cijene",
+      "contact": "Kontakt",
+      "privacy": "Privatnost",
+      "terms": "Uvjeti",
+      "amlPolicy": "AML politika",
+      "responsibleGaming": "Odgovorno igranje",
+      "copyright": "© 2026 Ascendra Platforms. Sva prava pridržana."
+    },
+    "aria": {
+      "openMenu": "Otvori izbornik",
+      "mobileNav": "Mobilna navigacija",
+      "selectLanguage": "Odaberite jezik"
+    },
+    "stats": {
+      "gameIntegrations": "Integracije igara",
+      "paymentGateways": "Platni gatewayi",
+      "gamesAvailable": "Dostupne igre",
+      "sportsbook": "Sportska kladionica",
+      "bonusTypes": "Vrste bonusa",
+      "full": "Potpuno"
+    },
+    "cta": {
+      "readyTitle": "Spremni za lansiranje na Ascendra Platforms?",
+      "readySub": "Dobijte personalizirani demo i pogledajte cijelu platformu u akciji."
+    },
+    "badges": {
+      "popular": "Popularno",
+      "comingSoon": "Uskoro",
+      "casinoSportsbook": "Casino + Sportska kladionica"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Turnkey · White Label",
+      "title": "Pokrenite svoju iGaming marku na Ascendra Platforms",
+      "titleHighlight": "Ascendra Platforms",
+      "sub": "Softver za casino i sportsku kladionicu spreman za produkciju s 250+ integracija igara, 50+ platnih gatewaya, ugrađenim CRM-om, zaštitom od prijevara i potpunim bonus motorom."
+    },
+    "kpi": {
+      "ggrToday": "GGR danas",
+      "deposits": "Depoziti",
+      "activePlayers": "Aktivni igrači"
+    },
+    "trust": {
+      "auditWallet": "Novčanik spreman za reviziju",
+      "fullSportsbook": "Potpuna sportska kladionica",
+      "antiFraud": "Sustav zaštite od prijevara",
+      "marketingCrm": "Marketing CRM"
+    },
+    "featuresSection": {
+      "title": "Sve što vam treba za rad",
+      "sub": "Enterprise moduli ugrađeni u Ascendra Platforms — casino, sportska kladionica, plaćanja, CRM i više."
+    },
+    "featureCards": [
+      {
+        "badge": "Igre",
+        "title": "250+ integracija igara",
+        "desc": "Slotovi, live casino i stolne igre od Pragmatic Play, Evolution, SA Gaming i drugih."
+      },
+      {
+        "badge": "Sport",
+        "title": "Potpuna sportska kladionica",
+        "desc": "Klađenje prije utakmice i uživo s pojedinačnim okladama, kombinacijama i jedinstvenim novčanikom."
+      },
+      {
+        "badge": "Novčanik",
+        "title": "Transparentan novčanik",
+        "desc": "Svaka transakcija zabilježena za reviziju, usklađivanje i mir u poslovanju."
+      },
+      {
+        "badge": "Plaćanja",
+        "title": "50+ platnih gatewaya",
+        "desc": "Kripto i fiat diljem svijeta s sigurnim odobrenjem isplata."
+      },
+      {
+        "badge": "Bonus",
+        "title": "Potpuni bonus motor",
+        "desc": "Dobrodošlica, povrat novca, besplatni spinovi, VIP — promocije za casino i sport."
+      },
+      {
+        "badge": "CRM",
+        "title": "Marketing CRM",
+        "desc": "Segmentirajte igrače, pokrenite kampanje i mjerite zadržavanje unutar platforme."
+      },
+      {
+        "badge": "Affiliate",
+        "title": "Affiliate sustav",
+        "desc": "CPA, RevShare, hibridni modeli s portalom za pod-affiliate partnere."
+      },
+      {
+        "badge": "Analitika",
+        "title": "Business Intelligence",
+        "desc": "GGR, NGR i dnevni KPI-ji kojima vaš financijski tim može vjerovati."
+      },
+      {
+        "badge": "Sigurnost",
+        "title": "Sustav zaštite od prijevara",
+        "desc": "Zaštita u stvarnom vremenu za registraciju, prijavu, depozite i isplate — AML provjera i automatizirana provedba."
+      },
+      {
+        "badge": "Compliance",
+        "title": "Rizik i usklađenost",
+        "desc": "Alati za odgovorno igranje, KYC tijek rada i podrška regulatornom okviru."
+      },
+      {
+        "badge": "Admin",
+        "title": "Backoffice operatera",
+        "desc": "Upravljajte igračima, financijama, igrama, sportom, bonusima, CRM-om, upozorenjima o prijevarama i podrškom u jednoj ploči."
+      }
+    ],
+    "flow": {
+      "title": "Kako Ascendra Platforms radi",
+      "sub": "Od registracije igrača do obračuna oklade — jedan besprijekoran tijek.",
+      "player": "Igrač",
+      "platform": "Ascendra platforma",
+      "wallet": "Novčanik",
+      "casinoSports": "Casino i sport"
+    },
+    "marquee": {
+      "vendors": "Pouzdani dobavljači igara",
+      "payments": "50+ platnih gatewaya — Kripto · Fiat · Banka · E-novčanik"
+    },
+    "brands": {
+      "title": "Marke pokretane Ascendra Platforms",
+      "sub": "Pogledajte kako operateri pokreću i skaliraju svoje poslovanje s našim turnkey i white-label rješenjem."
+    },
+    "compare": {
+      "title": "Odaberite svoje rješenje",
+      "sub": "Turnkey lansiranje ili potpuna white-label prilagodba na Ascendra Platforms.",
+      "turnkey": {
+        "title": "Turnkey",
+        "items": [
+          "Potpuni stack — casino + sportska kladionica",
+          "250+ integracija igara",
+          "50+ platnih gatewaya",
+          "Bonus motor, CRM i sustav zaštite od prijevara",
+          "Podrška pri lansiranju (4–8 tjedana)"
+        ]
+      },
+      "whiteLabel": {
+        "title": "White Label",
+        "items": [
+          "Sve iz Turnkey paketa",
+          "Prilagođena domena, logo i tema",
+          "Brendirane pravne stranice",
+          "Rad s više marki",
+          "Enterprise SLA"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Započnite",
+      "title": "Zatražite demo",
+      "sub": "Recite nam o svom projektu i naš tim će zakazati personalizirani pregled Ascendra Platforms — casino, sportska kladionica, plaćanja, CRM i više."
+    },
+    "form": {
+      "company": "Naziv tvrtke",
+      "firstName": "Ime",
+      "lastName": "Prezime",
+      "email": "Poslovni e-mail",
+      "country": "Država / Regija",
+      "solution": "Vrsta rješenja",
+      "launch": "Očekivano lansiranje",
+      "message": "Poruka",
+      "placeholders": {
+        "company": "Naziv vaše tvrtke ili marke",
+        "firstName": "Ivan",
+        "lastName": "Horvat",
+        "email": "vi@tvrtka.com",
+        "message": "Recite nam o ciljanom tržištu, očekivanom broju igrača ili specifičnim zahtjevima…"
+      },
+      "countries": {
+        "placeholder": "Odaberite svoju regiju",
+        "na": "Sjeverna Amerika",
+        "eu": "Europa",
+        "latam": "Latinska Amerika",
+        "asia": "Azija i Pacifik",
+        "mea": "Bliski istok i Afrika",
+        "other": "Ostalo"
+      },
+      "solutions": {
+        "placeholder": "Odaberite rješenje",
+        "turnkey": "Turnkey",
+        "whiteLabel": "White Label",
+        "integration": "Samo integracija"
+      },
+      "launchOptions": {
+        "notSure": "Još nisam siguran/na",
+        "m1_3": "1–3 mjeseca",
+        "m3_6": "3–6 mjeseci",
+        "m6_12": "6–12 mjeseci",
+        "m12plus": "12+ mjeseci"
+      },
+      "consent": "Slažem se da Ascendra Platforms obrađuje moje podatke kako bi odgovorio/la na ovaj upit. Pogledajte našu <a href=\"privacy.html\">Politiku privatnosti</a>."
+    },
+    "sidebar": {
+      "responseBadge": "✓ Tipičan odgovor unutar 24 sata",
+      "talkTitle": "Razgovarajte s našim timom",
+      "talkSub": "Bilo da pokrećete novu marku ili migrirate s druge platforme, prilagodit ćemo demo vašem slučaju korištenja.",
+      "seeTitle": "Što ćete vidjeti",
+      "seeItems": [
+        "250+ integracija igara i katalog dobavljača",
+        "Potpuna sportska kladionica — prije utakmice i uživo",
+        "50+ platnih gatewaya i knjiga novčanika",
+        "Bonus motor, CRM i sustav zaštite od prijevara",
+        "Pregled backofficea operatera"
+      ]
+    },
+    "messages": {
+      "sending": "Slanje…",
+      "success": "Hvala! Javit ćemo vam se unutar 24 sata.",
+      "successDemo": "Thank you! (Demo mode — set VITE_CONTACT_ENDPOINT to enable delivery.)",
+      "error": "Nešto je pošlo po zlu. Molimo pošaljite e-mail na sales@ascendraplatforms.com"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "badge": "Fleksibilni planovi",
+      "title": "Planovi za svaku fazu",
+      "sub": "Od prvog lansiranja do enterprise poslovanja s više marki — odaberite Ascendra Platforms paket koji odgovara vašem poslovanju. Prilagođene ponude za svaku razinu."
+    },
+    "tiers": {
+      "starter": {
+        "tier": "Starter",
+        "name": "Lansiranje",
+        "target": "Operateri s jednom markom koji ulaze na tržište",
+        "price": "Zatražite ponudu",
+        "items": [
+          "Osnovna platforma — casino + sportska kladionica",
+          "250+ integracija igara",
+          "Transparentan novčanik i plaćanja",
+          "Osnovni bonus motor",
+          "Backoffice operatera",
+          "Standardna podrška"
+        ]
+      },
+      "growth": {
+        "tier": "Professional",
+        "name": "Rast",
+        "target": "Rastuće marke koje skaliraju stjecanje igrača",
+        "price": "Zatražite ponudu",
+        "items": [
+          "Sve iz Starter paketa",
+          "Marketing CRM i kampanje",
+          "Potpuni paket bonus motora",
+          "Affiliate sustav i partnerski portal",
+          "Sustav zaštite od prijevara",
+          "Business intelligence nadzorne ploče",
+          "Prioritetna podrška"
+        ]
+      },
+      "enterprise": {
+        "tier": "Enterprise",
+        "name": "White Label",
+        "target": "Operateri s više marki i white-label partneri",
+        "price": "Zatražite ponudu",
+        "items": [
+          "Sve iz Professional paketa",
+          "Prilagođena domena, logo i tema",
+          "Brendirane pravne stranice",
+          "Rad s više marki",
+          "Namjenski računi operatera",
+          "Enterprise SLA",
+          "Namjenski account manager"
+        ]
+      }
+    },
+    "note": "Svi planovi uključuju 50+ platnih gatewaya, alate za rizik i usklađenost te podršku pri lansiranju. Cijene se prilagođavaju vašem tržištu, volumenu i zahtjevima integracije — bez skrivenih naknada na javnoj stranici.",
+    "compare": {
+      "title": "Turnkey vs White Label",
+      "sub": "Niste sigurni koji paket odgovara? Evo brze usporedbe.",
+      "turnkey": {
+        "title": "Turnkey",
+        "desc": "Brzo lansirajte s Ascendra Platforms infrastrukturom — potpuni casino, sportska kladionica, plaćanja i backoffice. Idealno kada trebate ići uživo u tjednima s provjerenom tehnologijom.",
+        "items": [
+          "Podrška pri lansiranju 4–8 tjedana",
+          "Uključen potpuni stack modula",
+          "Obuka operatera"
+        ]
+      },
+      "whiteLabel": {
+        "title": "White Label",
+        "desc": "Sve iz Turnkey paketa plus potpuna prilagodba brenda — vaš logo, domena, tema i pravne stranice. Upravljajte više marki s jedne platforme s enterprise SLA.",
+        "items": [
+          "Prilagođeno brendiranje i domena",
+          "Admin za više marki",
+          "Enterprise SLA opcije"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Dobijte personaliziranu ponudu",
+      "sub": "Recite nam o ciljanom tržištu i preporučit ćemo pravi plan."
+    }
+  },
+  "integrations": {
+    "hero": {
+      "badge": "Povežite sve",
+      "title": "250+ integracija igara · 50+ platnih gatewaya",
+      "sub": "Vodeći studiji igara i globalne metode plaćanja — povezani na jednoj platformi. Lansirajte s dobavljačima i vrstama plaćanja koje vaši igrači očekuju."
+    },
+    "vendors": {
+      "title": "Pouzdani dobavljači igara",
+      "sub": "Logotipi studija za slotove, live casino i stolne igre — bez brendova agregatora, samo dobavljači koje vaši igrači poznaju.",
+      "tabs": {
+        "slots": "Slotovi",
+        "live": "Live casino",
+        "table": "Stolne igre"
+      }
+    },
+    "payments": {
+      "title": "Vrste plaćanja",
+      "sub": "50+ gatewaya za kripto, fiat, banku i e-novčanik — konfigurirano po marki i regiji.",
+      "crypto": {
+        "title": "Kripto",
+        "desc": "Trenutni depoziti i brze isplate za igrače koji koriste kripto diljem svijeta."
+      },
+      "fiat": {
+        "title": "Fiat i regionalno",
+        "desc": "Kartice i regionalne metode plaćanja za pokrivanje lokalnog tržišta."
+      },
+      "bank": {
+        "title": "Bankovni transfer",
+        "desc": "Izravni bankovni depoziti i tijekovi isplata odobreni od strane operatera."
+      },
+      "ewallet": {
+        "title": "E-novčanik",
+        "desc": "Popularni digitalni novčanici za besprijekorne depozite u različitim regijama."
+      }
+    },
+    "cta": {
+      "title": "Trebate određenog dobavljača ili metodu plaćanja?",
+      "sub": "Recite nam o ciljanom tržištu — potvrdit ćemo dostupnost i rok integracije."
+    }
+  },
+  "feature": {
+    "breadcrumb": {
+      "home": "Početna",
+      "features": "Značajke"
+    },
+    "shell": {
+      "problemDefault": "Izazov",
+      "solutionDefault": "Ascendra rješenje",
+      "capabilitiesTitle": "Ključne mogućnosti",
+      "capabilitiesSub": "Sve uključeno u Ascendra Platforms — spremno za vaše lansiranje.",
+      "howTitle": "Kako radi",
+      "howSub": "Besprijekoran tijek od akcije igrača do uvida operatera.",
+      "seeTitle": "Pogledajte u akciji",
+      "seeSub": "Iskustvo igrača i kontrola operatera — jedno pored drugog.",
+      "playerExperience": "Iskustvo igrača",
+      "operatorAdmin": "Admin operatera",
+      "relatedTitle": "Povezane značajke",
+      "relatedSub": "Istražite više modula ugrađenih u Ascendra Platforms."
+    }
+  },
+  "legal": {
+    "nav": {
+      "privacy": "Politika privatnosti",
+      "terms": "Uvjeti korištenja",
+      "aml": "AML politika",
+      "responsible": "Odgovorno igranje"
+    },
+    "privacy": {
+      "title": "Politika privatnosti",
+      "sub": "Kako Ascendra Platforms prikuplja, koristi i štiti informacije na ovoj web stranici i putem zahtjeva za demo.",
+      "updated": "Zadnje ažurirano: 3. srpnja 2026.",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Zadnje ažurirano: 3. srpnja 2026."
+        },
+        {
+          "type": "section",
+          "heading": "1. Uvod",
+          "html": "<p>Ascendra Platforms (\"mi\", \"nas\", \"naš\") upravlja ovom B2B marketinškom web stranicom kako bi pružio informacije o našoj turnkey i white-label iGaming platformi. Ova Politika privatnosti objašnjava kako postupamo s osobnim podacima kada posjetite našu stranicu ili pošaljete zahtjev za demo ili kontakt.</p>\r\n      <p>Ova politika primjenjuje se na <strong>ascendraplatforms.com</strong> i povezane marketinške objekte. Ne regulira web stranice operatera usmjerene prema igračima koje pokreće naša platforma — one kontroliraju vlastite politike privatnosti svakog operatera.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Informacije koje prikupljamo",
+          "html": "<p>Možemo prikupiti sljedeće kada komunicirate s našom web stranicom:</p>\r\n      <ul>\r\n        <li><strong>Kontakt i poslovni podaci</strong> — naziv tvrtke, ime kontakta, poslovni e-mail, država ili regija te sadržaj poruke kada pošaljete obrazac za demo ili upit.</li>\r\n        <li><strong>Preferencije rješenja</strong> — vrsta rješenja (Turnkey, White Label, Integracija) i očekivani rok lansiranja ako je naveden.</li>\r\n        <li><strong>Tehnički podaci</strong> — IP adresa, vrsta preglednika, informacije o uređaju, posjećene stranice i izvor preporuke prikupljeni putem standardne analitike i poslužiteljskih zapisa.</li>\r\n        <li><strong>Komunikacija</strong> — zapisi e-mail korespondencije ili sastanaka nakon vašeg upita.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Kako koristimo vaše informacije",
+          "html": "<p>Prikupljene informacije koristimo za:</p>\r\n      <ul>\r\n        <li>Odgovaranje na zahtjeve za demo, prodajne upite i pitanja podrške.</li>\r\n        <li>Pružanje informacija o proizvodu relevantnih za vaše poslovne potrebe.</li>\r\n        <li>Poboljšanje naše web stranice, sadržaja i korisničkog iskustva.</li>\r\n        <li>Ispunjavanje zakonskih obveza i zaštitu od prijevara ili zlouporabe.</li>\r\n        <li>Slanje naknadne komunikacije povezane s vašim upitom, gdje je to dopušteno.</li>\r\n      </ul>\r\n      <p>Ne prodajemo vaše osobne podatke trećim stranama.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Pravna osnova (GDPR)",
+          "html": "<p>Gdje je primjenjivo prema Općoj uredbi o zaštiti podataka (GDPR), osobne podatke obrađujemo na temelju:</p>\r\n      <ul>\r\n        <li><strong>Pristanka</strong> — kada pošaljete obrazac i pristanete na ovu politiku.</li>\r\n        <li><strong>Legitimnog interesa</strong> — za odgovaranje na B2B upite i upravljanje našom marketinškom web stranicom.</li>\r\n        <li><strong>Ugovorne nužnosti</strong> — kada je obrada potrebna za procjenu ili pružanje usluga koje tražite.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Dijeljenje podataka",
+          "html": "<p>Informacije možemo dijeliti s pouzdanim pružateljima usluga koji pomažu s hostingom, analitikom, isporukom e-maila ili CRM-om — isključivo za vođenje našeg poslovanja i pod odgovarajućim obvezama povjerljivosti. Informacije možemo otkriti i ako to zahtijeva zakon ili za zaštitu naših prava i sigurnosti.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Zadržavanje podataka",
+          "html": "<p>Zapise upita i kontakata zadržavamo onoliko dugo koliko je potrebno za ispunjavanje svrha opisanih u ovoj politici, upravljanje tekućim poslovnim odnosima i ispunjavanje zakonskih zahtjeva zadržavanja… Možete zatražiti brisanje gdje to primjenjivi zakon dopušta.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Vaša prava",
+          "html": "<p>Ovisno o vašoj lokaciji, možete imati pravo na pristup, ispravak, brisanje, ograničenje ili prigovor na obradu vaših osobnih podataka te na prenosivost podataka. Za ostvarivanje ovih prava kontaktirajte nas na <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a>.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "8. Kolačići i analitika",
+          "html": "<p>Možemo koristiti kolačiće i slične tehnologije za analizu prometa na stranici i poboljšanje performansi. Kolačiće možete kontrolirati putem postavki preglednika. Osnovni kolačići potrebni za funkcionalnost stranice možda se ne mogu onemogućiti.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "9. Međunarodni prijenosi",
+          "html": "<p>Vaše informacije mogu se obrađivati u zemljama koje nisu vaša. Gdje je potrebno, provodimo odgovarajuće zaštitne mjere za prekogranične prijenose podataka.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "10. Kontakt",
+          "html": "<p>Za pitanja ili zahtjeve vezane uz privatnost, kontaktirajte: <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "terms": {
+      "title": "Uvjeti korištenja",
+      "sub": "Uvjeti koji reguliraju korištenje Ascendra Platforms marketinške web stranice i usluga zahtjeva za demo.",
+      "updated": "Zadnje ažurirano: 3. srpnja 2026.",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Zadnje ažurirano: 3. srpnja 2026."
+        },
+        {
+          "type": "section",
+          "heading": "1. Prihvaćanje uvjeta",
+          "html": "<p>Pristupom ili korištenjem Ascendra Platforms marketinške web stranice (\"Stranica\") pristajete na ove Uvjete korištenja. Ako se ne slažete, molimo ne koristite Stranicu.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. O našim uslugama",
+          "html": "<p>Ascendra Platforms pruža B2B turnkey i white-label iGaming softver za operatore kasina i sportskih kladionica. Sadržaj na ovoj Stranici služi isključivo u informativne i komercijalne svrhe upita. Ništa na Stranici ne predstavlja obvezujuću ponudu, licencu ili ugovor o usluzi.</p>\r\n      <p>Formalni ugovori o platformi, SLA-ovi i komercijalni uvjeti sklapaju se zasebno u pisanom obliku između Ascendra Platforms i licenciranih operatera.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Dopuštena upotreba",
+          "html": "<p>Stranicu možete koristiti kako biste saznali više o našoj platformi, zatražili demo i kontaktirali naš prodajni tim. Slažete se da nećete:</p>\r\n      <ul>\r\n        <li>Koristiti Stranicu u nezakonite svrhe ili u suprotnosti s primjenjivim propisima.</li>\r\n        <li>Pokušavati dobiti neovlašten pristup našim sustavima, podacima ili mrežama.</li>\r\n        <li>Automatski prikupljati, kopirati ili redistribuirati sadržaj Stranice bez pisanog dopuštenja.</li>\r\n        <li>Pogrešno prikazivati svoj identitet, pripadnost ili licencni status pri slanju upita.</li>\r\n        <li>Uvesti zlonamjerni softver ili ometati dostupnost ili sigurnost Stranice.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Intelektualno vlasništvo",
+          "html": "<p>Sav sadržaj na ovoj Stranici — uključujući tekst, grafiku, logotipe, opise proizvoda i dizajn — u vlasništvu je Ascendra Platforms ili njegovih davatelja licencije i zaštićen je zakonima o intelektualnom vlasništvu. Ne smijete reproducirati, distribuirati ili stvarati izvedena djela bez prethodnog pisanog pristanka.</p>\r\n      <p>Imena i logotipi dobavljača igara trećih strana prikazani u ilustrativne svrhe zaštitni su znakovi njihovih vlasnika.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Demo i prodajni upiti",
+          "html": "<p>Zahtjevi za demo i kontaktne prijave ne jamče dostupnost proizvoda, cijene ili ugovorni angažman. Zadržavamo pravo odbiti upite koji ne ispunjavaju naše komercijalne, regulatorne ili compliance kriterije.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Odricanje od jamstava",
+          "html": "<p>Stranica i njen sadržaj pružaju se \"kakvi jesu\" bez jamstava bilo koje vrste, izričitih ili prešutnih. Ne jamčimo da će Stranica biti neprekidna, bez grešaka ili bez štetnih komponenti. Mogućnosti proizvoda opisane na Stranici mogu varirati ovisno o implementaciji i jurisdikciji.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Ograničenje odgovornosti",
+          "html": "<p>U najvećoj mjeri dopuštenoj zakonom, Ascendra Platforms ne snosi odgovornost za bilo kakvu neizravnu, slučajnu, posebnu ili posljedičnu štetu koja proizlazi iz vašeg korištenja Stranice. Naša ukupna odgovornost za potraživanja povezana sa Stranicom ne smije premašiti sto američkih dolara (USD 100).</p>"
+        },
+        {
+          "type": "section",
+          "heading": "8. Regulatorna obavijest",
+          "html": "<p>iGaming operacije podliježu licenciranju i regulaciji u svakoj jurisdikciji. Operateri koji koriste Ascendra Platforms isključivo su odgovorni za dobivanje i održavanje valjanih licenci te usklađivanje s lokalnim zakonima. Ne pružamo pravne savjete u vezi s ulaskom na tržište ili licenciranjem.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "9. Linkovi trećih strana",
+          "html": "<p>Stranica može sadržavati linkove na web stranice trećih strana. Nismo odgovorni za sadržaj, prakse privatnosti ili politike vanjskih stranica.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "10. Promjene uvjeta",
+          "html": "<p>Ove Uvjete možemo ažurirati u bilo kojem trenutku. Nastavak korištenja Stranice nakon objave promjena predstavlja prihvaćanje revidiranih Uvjeta. Datum \"Zadnje ažurirano\" na vrhu označava najnoviju reviziju.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "11. Mjerodavno pravo",
+          "html": "<p>Ovi Uvjeti regulirani su zakonima navedenim u vašem glavnom ugovoru o usluzi, ili kako je drugačije dogovoreno u pisanom obliku. Za sporove koji se odnose samo na web stranicu, a bez zasebnog ugovora, sporovi se rješavaju u skladu s primjenjivim zakonom na našem glavnom poslovnom sjedištu.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "12. Kontakt",
+          "html": "<p>Pitanja o ovim Uvjetima: <a href=\"mailto:legal@ascendraplatforms.com\">legal@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "aml": {
+      "title": "AML politika",
+      "sub": "Načela sprječavanja pranja novca i pristup usklađenosti za Ascendra Platforms B2B usluge.",
+      "updated": "Zadnje ažurirano: 3. srpnja 2026.",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Zadnje ažurirano: 3. srpnja 2026."
+        },
+        {
+          "type": "section",
+          "heading": "1. Izjava o politici",
+          "html": "<p>Ascendra Platforms posvećen je sprječavanju pranja novca, financiranja terorizma i drugih financijskih kriminala. Dizajniramo našu platformu s alatima koji pomažu licenciranim operaterima ispuniti svoje AML obveze, te primjenjujemo due diligence u vlastitim B2B komercijalnim odnosima.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. AML mogućnosti platforme",
+          "html": "<p>Operateri koji implementiraju Ascendra Platforms imaju pristup ugrađenim značajkama usklađenosti, uključujući:</p>\r\n      <ul>\r\n        <li>Know Your Customer (KYC) prikupljanje dokumenata i tijekove verifikacije.</li>\r\n        <li>Sustav zaštite od prijevara s AML provjerom blocklista pri registraciji i transakcijama.</li>\r\n        <li>Pre-withdrawal rizične kontrole i automatizirano zadržavanje visokorizičnih isplata.</li>\r\n        <li>Revizijske staze za rizične odluke, status verifikacije igrača i admin akcije.</li>\r\n        <li>Konfigurabilne limite depozita, isplata i klađenja.</li>\r\n        <li>Povijest transakcija igrača i izvještavanje za pregled sumnjivih aktivnosti.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Odgovornosti operatera",
+          "html": "<p>Licencirani operateri ostaju konačno odgovorni za AML usklađenost u svojim jurisdikcijama. Operateri moraju:</p>\r\n      <ul>\r\n        <li>Održavati valjane licence za igre na sreću i financijske usluge gdje je to potrebno.</li>\r\n        <li>Implementirati i provoditi KYC i politike pojačane due diligence primjerene svom tržištu.</li>\r\n        <li>Podnositi izvještaje o sumnjivim aktivnostima (SAR) ili ekvivalentna otkrivanja nadležnim tijelima.</li>\r\n        <li>Obučavati osoblje o AML procedurama i alatima platforme.</li>\r\n        <li>Održavati ažurirane brendirane AML stranice politike na web stranicama usmjerenim prema igračima.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "4. B2B due diligence",
+          "html": "<p>Prije sklapanja komercijalnih ugovora, Ascendra Platforms može provesti due diligence na potencijalnim partnerskim operaterima, uključujući verifikaciju identiteta, licencni status, stvarnog vlasnika i procjenu rizika jurisdikcije. Zadržavamo pravo odbiti ili prekinuti odnose koji predstavljaju neprihvatljiv AML ili regulatorni rizik.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Sankcije i blockliste",
+          "html": "<p>Naš sustav zaštite od prijevara podržava provjeru prema primjenjivim sankcijama i blocklistama. Operateri konfiguriraju politike provedbe usklađene sa svojim regulatornim zahtjevima… Ishodi provjere mogu rezultirati blokadom računa, zadržavanjem transakcija ili zahtjevima za pojačanu verifikaciju…</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Vođenje evidencije",
+          "html": "<p>Platforma održava zapise transakcija i revizije kako bi podržala programe usklađenosti operatera. Razdoblja zadržavanja trebaju konfigurirati operateri u skladu s primjenjivim zakonom.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Prijava zabrinutosti",
+          "html": "<p>Za prijavu AML povezanih zabrinutosti u vezi s Ascendra Platforms B2B operacijama, kontaktirajte: <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "responsible": {
+      "title": "Odgovorno igranje",
+      "sub": "Naša predanost alatima za odgovorno igranje i podršci usklađenosti operatera.",
+      "updated": "Zadnje ažurirano: 3. srpnja 2026.",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Zadnje ažurirano: 3. srpnja 2026."
+        },
+        {
+          "type": "section",
+          "heading": "1. Naša predanost",
+          "html": "<p>Ascendra Platforms vjeruje da iGaming operateri imaju dužnost zaštititi igrače. Naša platforma uključuje alate za odgovorno igranje (RG) koje operateri mogu konfigurirati i provoditi u casino i sportskim kladionicama.</p>\r\n      <p>Ova stranica opisuje mogućnosti platforme. Politike odgovornog igranja usmjerene prema igračima objavljuju licencirani operateri na vlastitim brendiranim web stranicama.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Alati platforme za operatore",
+          "html": "<p>Ascendra Platforms pruža operaterima sljedeće značajke zaštite igrača:</p>\r\n      <ul>\r\n        <li><strong>Limiti depozita</strong> — dnevna, tjedna i mjesečna ograničenja koje postavljaju igrači ili provode operateri.</li>\r\n        <li><strong>Limiti gubitka i klađenja</strong> — kontrole maksimalnih gubitaka ili iznosa oklada u definiranim razdobljima.</li>\r\n        <li><strong>Limiti sesije</strong> — podsjetnici i automatske odjave nakon konfiguriranog trajanja igre.</li>\r\n        <li><strong>Razdoblja hlađenja</strong> — privremena ograničenja računa koja igrač odabere.</li>\r\n        <li><strong>Samoisključenje</strong> — produženo zatvaranje računa za igrače kojima je potreban predah od kockanja.</li>\r\n        <li><strong>Reality checks</strong> — periodične obavijesti koje prikazuju provedeno vrijeme i neto poziciju.</li>\r\n        <li><strong>Sprječavanje maloljetničkog kockanja</strong> — provjera dobi integrirana s KYC tijekovima rada.</li>\r\n        <li><strong>Limiti sportske kladionice</strong> — ograničenja klađenja na razini tržišta i igrača.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Admin kontrole operatera",
+          "html": "<p>Operateri upravljaju postavkama odgovornog igranja putem Ascendra Platforms backofficea — primjenjujući limite po igraču, segmentu ili jurisdikciji te pregledavajući račune označene zbog problematičnog ponašanja putem integriranog praćenja rizika i prijevara.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Podrška igračima",
+          "html": "<p>Operateri mogu pružati podršku unutar platforme putem live chata i ticketinga, usmjeravajući igrače prema profesionalnim organizacijama za pomoć gdje je to prikladno. Ascendra Platforms omogućuje operaterima prikaz informacija o odgovornom igranju i linkova za pomoć na stranicama usmjerenim prema igračima.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Obuka i najbolje prakse",
+          "html": "<p>Preporučujemo operaterima da obuče timove podrške i usklađenosti o procedurama odgovornog igranja, prate indikatore ponašanja igrača i usklade RG politike s zahtjevima… u svakom licenciranom tržištu.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Potražite pomoć",
+          "html": "<p>Ako ste igrač koji traži podršku, molimo kontaktirajte operatera web stranice na kojoj igrate. Ako ste operater koji procjenjuje mogućnosti odgovornog igranja Ascendra Platforms, <a href=\"contact.html\">zatražite demo</a> ili pošaljite e-mail na <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a>.</p>"
+        }
+      ]
+    }
+  },
+  "features": {
+    "game-integrations": {
+      "slug": "game-integrations",
+      "badge": "Igre",
+      "title": "250+ integracija igara",
+      "heroH1": "Jedna platforma, 250+ integracija",
+      "heroSub": "Povežite se s vodećim studijima igara — slotovi, live casino i stolne igre od Pragmatic Play, Evolution, SA Gaming i drugih na Ascendra Platforms.",
+      "heroImage": "/assets/images/gates-of-olympus.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Operateri gube mjesece pregovarajući o pojedinačnim ugovorima s dobavljačima i upravljajući fragmentiranim katalogima igara u više sustava.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms pruža jedinstveni katalog igara s 250+ integracija — jedan novčanik, jedan backoffice i besprijekorna igra u svakoj glavnoj kategoriji.",
+      "capabilities": [
+        "Glavni naslovi dobavljača od Pragmatic Play, Evolution, SA Gaming, PG Soft i drugih",
+        "Potpuno upravljanje katalogom — omogućavanje, onemogućavanje i organizacija igara iz Admina",
+        "Besprijekorna igra s trenutnim ažuriranjem salda u casinu i sportskoj kladionici",
+        "Live casino, slotovi, stolne igre i crash igre u jednom integracijskom sloju",
+        "10.000+ igara dostupno bez ponovne izgradnje iskustva igrača",
+        "Uključivanje novih dobavljača bez prekida u živom poslovanju"
+      ],
+      "steps": [
+        {
+          "title": "Pregled kataloga",
+          "desc": "Operater odabire igre i kategorije u Adminu"
+        },
+        {
+          "title": "Igrač pokreće",
+          "desc": "Igra se otvara u sučelju igrača s jedinstvenim novčanikom"
+        },
+        {
+          "title": "Oklada i obračun",
+          "desc": "Svaka runda zabilježena u transparentnoj knjizi"
+        },
+        {
+          "title": "Izvještaj i usklađivanje",
+          "desc": "GGR i statistike dobavljača u nadzornim pločama u stvarnom vremenu"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/casino-sports.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "bonus-engine",
+        "operator-backoffice"
+      ]
+    },
+    "sportsbook": {
+      "slug": "sportsbook",
+      "badge": "Sport",
+      "title": "Potpuna sportska kladionica",
+      "heroH1": "Potpuna sportska kladionica, ugrađena",
+      "heroSub": "Klađenje prije utakmice i uživo na glavnim sportovima — pojedinačne oklade, kombinacije i sistemske oklade na jednom jedinstvenom novčaniku s vašim casinom.",
+      "heroImage": "/assets/images/sports.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Vođenje casina i sporta na zasebnim platformama dijeli vaš novčanik, udvostručuje integracijski rad i frustrira igrače koji žele jedan račun.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms uključuje potpunu sportsku kladionicu — prije utakmice, uživo i in-play — nativno integriranu s vašim casino novčanikom i bonus motorom.",
+      "capabilities": [
+        "Klađenje prije utakmice i uživo in-play s kvotama u stvarnom vremenu",
+        "Pokrivenost više sportova — nogomet, košarka, tenis, eSport i više",
+        "Pojedinačne oklade, kombinacije, akumulatori i sistemske oklade",
+        "Jedinstveni novčanik dijeljen s casinom — jedan saldo, jedna povijest",
+        "Sportski bonusi, besplatne oklade i povećanja kvota",
+        "Potpuna povijest oklada, obračun i limiti odgovornog klađenja"
+      ],
+      "steps": [
+        {
+          "title": "Odabir događaja",
+          "desc": "Igrač pregledava tržišta prije utakmice ili uživo"
+        },
+        {
+          "title": "Izrada listića",
+          "desc": "Pojedinačne oklade, kombinacije ili sistemske oklade"
+        },
+        {
+          "title": "Postavljanje i obračun",
+          "desc": "Novčanik terećen; dobitak odmah pripisan"
+        },
+        {
+          "title": "Praćenje i izvještavanje",
+          "desc": "Operater prati izloženost i GGR u Adminu"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/sports.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "bonus-engine",
+        "business-intelligence"
+      ]
+    },
+    "wallet": {
+      "slug": "wallet",
+      "badge": "Novčanik",
+      "title": "Transparentan novčanik",
+      "heroH1": "Svaka transakcija evidentirana",
+      "heroSub": "Svaki depozit, oklada, dobitak i isplata potpuno su zabilježeni — izgrađeno za reviziju, usklađivanje i mir u poslovanju.",
+      "heroImage": "/assets/images/wallet.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Neprozirno upravljanje saldom stvara sporove s igračima, revizorima i financijskim timovima — posebno kada casino i sport dijele jedan račun.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms održava potpunu, nepromjenjivu knjigu transakcija — svaki kredit i debit prati se od registracije do isplate.",
+      "capabilities": [
+        "Potpuna povijest transakcija za svaku akciju igrača",
+        "Zapisi spremni za reviziju za financijske i compliance timove",
+        "Trenutna ažuriranja salda u casinu, sportu i bonusima",
+        "Zasebno praćenje gotovinskog i bonus salda s napretkom klađenja",
+        "Izvještaji o usklađivanju usklađeni s računovodstvom operatera",
+        "Podrška za više valuta s USD kao zadanom valutom prikaza"
+      ],
+      "steps": [
+        {
+          "title": "Akcija igrača",
+          "desc": "Depozit, oklada, dobitak, bonus ili isplata"
+        },
+        {
+          "title": "Unos u knjigu",
+          "desc": "Svaki pokret zabilježen s vremenskom oznakom i vrstom"
+        },
+        {
+          "title": "Ažuriranje salda",
+          "desc": "Gotovinski i bonus saldi osvježeni u stvarnom vremenu"
+        },
+        {
+          "title": "Revizija i izvoz",
+          "desc": "Financijski tim izvozi i usklađuje u Adminu"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/wallet.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "payments",
+        "business-intelligence",
+        "risk-compliance"
+      ]
+    },
+    "payments": {
+      "slug": "payments",
+      "badge": "Plaćanja",
+      "title": "50+ platnih gatewaya",
+      "heroH1": "50+ gatewaya, globalni doseg",
+      "heroSub": "Prihvatite kripto i fiat diljem svijeta s automatiziranim depozitima i sigurnim procesom odobrenja isplata.",
+      "heroImage": "/assets/images/payments.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Ograničene opcije plaćanja znače izgubljene depozite, dok ručna obrada isplata stvara kašnjenja i operativni rizik.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms povezuje 50+ platnih gatewaya — kripto, fiat, bankovni transfer i e-novčanike — s automatiziranim depozitima i odobrenjem isplata pod kontrolom operatera.",
+      "capabilities": [
+        "Kripto i fiat metode plaćanja za globalnu bazu igrača",
+        "Automatizirana potvrda depozita i pripis novčaniku",
+        "Siguran tijek odobrenja isplata s rizičnim kontrolama",
+        "Ručne i poluautomatske opcije isplate za operatore",
+        "Konfiguracija metoda plaćanja po marki i regiji",
+        "Integrirano sa sustavom zaštite od prijevara za zaštitu isplata"
+      ],
+      "steps": [
+        {
+          "title": "Depoziti igrača",
+          "desc": "Odabir metode i dovršetak plaćanja"
+        },
+        {
+          "title": "Auto pripis",
+          "desc": "Novčanik ažuriran nakon potvrđenog depozita"
+        },
+        {
+          "title": "Zahtjev za isplatu",
+          "desc": "Igrač podnosi isplatu; rizik se procjenjuje"
+        },
+        {
+          "title": "Odobrenje operatera",
+          "desc": "Odobrene isplate obrađene sigurno"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/payments.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "anti-fraud",
+        "risk-compliance"
+      ]
+    },
+    "bonus-engine": {
+      "slug": "bonus-engine",
+      "badge": "Bonus",
+      "title": "Potpuni bonus motor",
+      "heroH1": "Svaka vrsta promocije koja vam treba",
+      "heroSub": "Dobrodošlica, podudaranje depozita, povrat novca, besplatni spinovi, VIP nagrade i praćenje klađenja — za casino i sport, odmah spremno.",
+      "heroImage": "/assets/images/bonus.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Raznorodni alati za promocije vode do zlouporabe bonusa, nejasnih pravila klađenja i kampanja koje ne mogu obuhvatiti casino i sport.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms uključuje potpuni bonus motor — konfigurirajte politike u Adminu, dopustite igračima da preuzmu u aplikaciji i pratite napredak rollovera u stvarnom vremenu.",
+      "capabilities": [
+        "Bonusi dobrodošlice, prvog depozita, ponovnog depozita i dnevni/tjedni",
+        "Povrat novca, besplatni spinovi i VIP nagrade po razinama",
+        "Besplatne sportske oklade, povećanja kvota i bonusi akumulatora",
+        "Praćenje klađenja i rollovera u stvarnom vremenu za igrače",
+        "Fleksibilna pravila politike — iznosi, igre, sport i istek",
+        "Samoposlužni tijek preuzimanja za igrače s transparentnim uvjetima"
+      ],
+      "steps": [
+        {
+          "title": "Konfiguracija politike",
+          "desc": "Operater postavlja pravila bonusa u Adminu"
+        },
+        {
+          "title": "Igrač se kvalificira",
+          "desc": "Depozit, registracija ili okidač kampanje"
+        },
+        {
+          "title": "Preuzimanje i igra",
+          "desc": "Bonus pripisan; klađenje praćeno uživo"
+        },
+        {
+          "title": "Pretvaranje ili istek",
+          "desc": "Rollover dovršen → gotovinski saldo"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/bonus.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "marketing-crm",
+        "sportsbook",
+        "anti-fraud"
+      ]
+    },
+    "marketing-crm": {
+      "slug": "marketing-crm",
+      "badge": "CRM",
+      "title": "Marketing CRM",
+      "heroH1": "Privucite i zadržite svoje igrače",
+      "heroSub": "Segmentirajte igrače, pokrenite kampanje, automatizirajte poruke u životnom ciklusu i mjerite zadržavanje — bez alata trećih strana.",
+      "heroImage": "/assets/images/crm.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Izvoz podataka igrača u vanjske CRM-ove narušava usklađenost, povećava troškove i odgađa kampanje kada je vrijeme najvažnije.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms uključuje ugrađeni marketing CRM — segmentirajte, ciljajte i mjerite kampanje tamo gdje vaši podaci o igračima već postoje.",
+      "capabilities": [
+        "Segmentacija igrača — VIP, novi, neaktivni, visokovrijedni i prilagođeni",
+        "Kreiranje kampanja, zakazivanje i A/B testiranje",
+        "Poruke u životnom ciklusu — registracija, prvi depozit, win-back putovanja",
+        "Alati zadržavanja povezani s bonusima i programima lojalnosti",
+        "Ciljanje promocija po segmentu s praćenjem konverzije",
+        "Analitika kampanja i mjerenje ROI unutar platforme"
+      ],
+      "steps": [
+        {
+          "title": "Definiranje segmenta",
+          "desc": "Filtriranje igrača po ponašanju i vrijednosti"
+        },
+        {
+          "title": "Izrada kampanje",
+          "desc": "Poruka, ponuda i raspored"
+        },
+        {
+          "title": "Pokretanje i ciljanje",
+          "desc": "Dođite do pravih igrača u pravo vrijeme"
+        },
+        {
+          "title": "Mjerenje rezultata",
+          "desc": "Praćenje konverzija i utjecaja na zadržavanje"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/crm.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "bonus-engine",
+        "business-intelligence",
+        "affiliate-system"
+      ]
+    },
+    "affiliate-system": {
+      "slug": "affiliate-system",
+      "badge": "Affiliate",
+      "title": "Affiliate sustav",
+      "heroH1": "Rast kroz partnere",
+      "heroSub": "CPA, revenue share ili hibridni modeli s podrškom za pod-affiliate partnere i namjenskim partnerskim portalom.",
+      "heroImage": "/assets/images/affiliate.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Praćenje affiliate partnera u proračunskim tablicama vodi do sporova oko plaćanja, propuštenih konverzija i partnera koji ne mogu samostalno upravljati.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms uključuje potpuni affiliate modul — pratite preporuke, automatski izračunavajte provizije i dajte partnerima brendirani portal.",
+      "capabilities": [
+        "CPA, RevShare i hibridni modeli provizije",
+        "Hijerarhija pod-affiliate partnera s transparentnim izvještavanjem",
+        "Namjenski partnerski portal sa statistikama i kreativama",
+        "Automatski izračun provizije na GGR i NGR",
+        "Praćenje referral linkova i promo kodova",
+        "Upravljanje isplatama integrirano s financijskim tijekovima rada"
+      ],
+      "steps": [
+        {
+          "title": "Partner se uključuje",
+          "desc": "Affiliate partner prima tracking linkove i kodove"
+        },
+        {
+          "title": "Igrač se registrira",
+          "desc": "Preporuka pripisana partnerskom računu"
+        },
+        {
+          "title": "Aktivnost praćena",
+          "desc": "Depoziti, oklade i GGR povezani s partnerom"
+        },
+        {
+          "title": "Provizija isplaćena",
+          "desc": "Automatski izračun i ciklus isplate"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/affiliate.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "marketing-crm",
+        "business-intelligence",
+        "payments"
+      ]
+    },
+    "business-intelligence": {
+      "slug": "business-intelligence",
+      "badge": "Analitika",
+      "title": "Business Intelligence",
+      "heroH1": "Poznajte svoje brojke",
+      "heroSub": "GGR, NGR i dnevni KPI-ji na nadzornim pločama kojima vaš financijski tim može vjerovati.",
+      "heroImage": "/assets/images/analytics.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Odgođeno ili nedosljedno izvještavanje onemogućuje reagiranje na trendove, optimizaciju kampanja ili točno izvještavanje dionika.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms pruža business intelligence u stvarnom vremenu — GGR, NGR, depoziti, isplate i affiliate performanse na jednoj nadzornoj ploči.",
+      "capabilities": [
+        "GGR i NGR izvještavanje s dnevnim i periodičnim razradama",
+        "KPI-ji depozita, isplata i aktivnosti igrača",
+        "Izvještaji o affiliate i kampanjama",
+        "Analitika prihoda po igri i dobavljaču",
+        "Podaci spremni za izvoz za financije i računovodstvo",
+        "Pristup nadzornim pločama temeljen na ulogama za Admin korisnike"
+      ],
+      "steps": [
+        {
+          "title": "Podaci prikupljeni",
+          "desc": "Svaka oklada, depozit i bonus zabilježeni"
+        },
+        {
+          "title": "Agregirano",
+          "desc": "Agregacije u stvarnom vremenu po igraču, igri i razdoblju"
+        },
+        {
+          "title": "Vizualizirano",
+          "desc": "Nadzorne ploče i izvještaji u Adminu"
+        },
+        {
+          "title": "Djelovanje",
+          "desc": "Operateri optimiziraju na temelju uvida u stvarnom vremenu"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/analytics.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "marketing-crm",
+        "operator-backoffice"
+      ]
+    },
+    "anti-fraud": {
+      "slug": "anti-fraud",
+      "badge": "Sigurnost",
+      "title": "Sustav zaštite od prijevara",
+      "heroH1": "Zaustavite prijevare prije nego vas koštaju",
+      "heroSub": "Ugrađena zaštita od prijevara i ocjenjivanje rizika za registraciju, prijavu, plaćanja i klađenje — s AML provjerom i automatiziranom provedbom.",
+      "heroImage": "/assets/images/security.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Zlouporaba bonusa, višestruki računi i sumnjive isplate erodiraju marže operatera i stvaraju regulatornu izloženost.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Sustav zaštite od prijevara procjenjuje svaku kritičnu akciju prije nego što se dovrši — i kontinuirano prati oklade i bonuse s ishodima Allow, Challenge ili Block.",
+      "capabilities": [
+        "Zaštita registracije i prijave protiv loših aktera",
+        "Pre-withdrawal kontrole — visokorizične isplate automatski zadržane",
+        "Detekcija višestrukih računa preko uređaja i metoda plaćanja",
+        "AML provjera blocklista pri registraciji i transakcijama",
+        "Automatizirano zadržavanje, MFA izazov i blokada",
+        "Potpuna admin revizijska staza za svaku rizičnu odluku"
+      ],
+      "steps": [
+        {
+          "title": "Akcija igrača",
+          "desc": "Registracija, prijava, depozit, oklada ili isplata"
+        },
+        {
+          "title": "Procjena rizika",
+          "desc": "Ocjenjivanje u stvarnom vremenu prema politikama operatera"
+        },
+        {
+          "title": "Odluka",
+          "desc": "Allow, Challenge (MFA) ili Block"
+        },
+        {
+          "title": "Revizijski zapis",
+          "desc": "Svaki ishod zabilježen u Adminu"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/security.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "payments",
+        "risk-compliance",
+        "operator-backoffice"
+      ]
+    },
+    "risk-compliance": {
+      "slug": "risk-compliance",
+      "badge": "Compliance",
+      "title": "Rizik i usklađenost",
+      "heroH1": "Poslujte s povjerenjem",
+      "heroSub": "Alati za odgovorno igranje, KYC tijek rada i podrška regulatornom okviru ugrađeni u Ascendra Platforms.",
+      "heroImage": "/assets/images/compliance.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Regulatorni zahtjevi variraju po tržištu — bez integriranih alata operateri dodaju KYC i odgovorno igranje naknadno.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms uključuje limite odgovornog igranja, KYC tijekove verifikacije i brendirane pravne stranice — konfigurabilno po marki i jurisdikciji.",
+      "capabilities": [
+        "Odgovorno igranje — limiti depozita, gubitka i sesije",
+        "Podrška za samoisključenje i razdoblja hlađenja",
+        "KYC prijenos dokumenata i tijek verifikacije",
+        "Brendirane stranice Uvjeta, Privatnosti, AML i Odgovornog igranja",
+        "Status verifikacije igrača vidljiv u Adminu",
+        "Integracija sa sustavom zaštite od prijevara za pojačanu provjeru"
+      ],
+      "steps": [
+        {
+          "title": "Igrač se uključuje",
+          "desc": "Verifikacija identiteta pokrenuta politikom"
+        },
+        {
+          "title": "Dokumenti pregledani",
+          "desc": "Operater odobrava ili traži ponovno slanje"
+        },
+        {
+          "title": "Limiti primijenjeni",
+          "desc": "Postavke odgovornog igranja provedene"
+        },
+        {
+          "title": "Kontinuirano praćenje",
+          "desc": "Status usklađenosti praćen u Adminu"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/compliance.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "anti-fraud",
+        "payments",
+        "operator-backoffice"
+      ]
+    },
+    "operator-backoffice": {
+      "slug": "operator-backoffice",
+      "badge": "Admin",
+      "title": "Backoffice operatera",
+      "heroH1": "Jedna kontrolna ploča za sve",
+      "heroSub": "Upravljajte igračima, financijama, igrama, sportom, bonusima, CRM-om, upozorenjima o prijevarama i podrškom iz jedne sigurne kontrolne ploče.",
+      "heroImage": "/assets/images/backoffice.jpg",
+      "problemTitle": "Izazov",
+      "problem": "Balansiranje više admin alata za igrače, plaćanja, igre i podršku usporava operatore i povećava stopu grešaka.",
+      "solutionTitle": "Ascendra rješenje",
+      "solution": "Ascendra Platforms Admin je jedinstveni backoffice — pristup temeljen na ulogama, nadzorne ploče u stvarnom vremenu i svaki modul u jednoj ploči.",
+      "capabilities": [
+        "Upravljanje igračima — profili, limiti, KYC i povijest",
+        "Financije — depoziti, isplate, odobrenja i usklađivanje",
+        "Konfiguracija kataloga igara i sporta",
+        "Administracija bonus, CRM i affiliate modula",
+        "Upozorenja o prijevarama i revizijski zapisi rizičnih odluka",
+        "Live chat i upravljanje ticketima podrške"
+      ],
+      "steps": [
+        {
+          "title": "Prijava po ulozi",
+          "desc": "RBAC kontrolirani pristup po članu tima"
+        },
+        {
+          "title": "Praćenje nadzorne ploče",
+          "desc": "KPI-ji, upozorenja i akcije na čekanju"
+        },
+        {
+          "title": "Poduzimanje akcije",
+          "desc": "Odobrenje, konfiguracija ili odgovor na jednom mjestu"
+        },
+        {
+          "title": "Revizijska staza",
+          "desc": "Svaka admin akcija zabilježena za usklađenost"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/backoffice.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "business-intelligence",
+        "anti-fraud",
+        "game-integrations"
+      ]
+    }
+  }
+}

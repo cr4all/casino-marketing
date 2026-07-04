@@ -1,0 +1,1116 @@
+{
+  "lang": "tr",
+  "dir": "ltr",
+  "common": {
+    "brandTag": "iGaming Altyapısı",
+    "nav": {
+      "home": "Platform",
+      "features": "Özellikler",
+      "solutions": "Çözümler",
+      "integrations": "Entegrasyonlar",
+      "pricing": "Fiyatlar",
+      "contact": "Kaynaklar"
+    },
+    "actions": {
+      "contact": "İletişim",
+      "requestDemo": "Demo Talep Et",
+      "exploreFeatures": "Özellikleri Keşfet",
+      "learnMore": "Daha fazla bilgi →",
+      "contactSales": "Satış Ekibiyle İletişim",
+      "contactUs": "Bize Ulaşın",
+      "contactForQuote": "Teklif İçin İletişim",
+      "submitRequest": "Talebi Gönder",
+      "becomeSuccess": "Bir Sonraki Başarı Hikayemiz Olun"
+    },
+    "footer": {
+      "tagline": "Dünya genelinde casino ve spor bahis operatörleri için anahtar teslim ve white-label iGaming platformu.",
+      "platform": "Platform",
+      "solutions": "Çözümler",
+      "legal": "Yasal",
+      "features": "Özellikler",
+      "integrations": "Entegrasyonlar",
+      "operatorBackoffice": "Operatör Backoffice",
+      "turnkey": "Turnkey",
+      "whiteLabel": "White Label",
+      "prices": "Fiyatlar",
+      "contact": "İletişim",
+      "privacy": "Gizlilik",
+      "terms": "Şartlar",
+      "amlPolicy": "AML Politikası",
+      "responsibleGaming": "Sorumlu Oyun",
+      "copyright": "© 2026 Ascendra Platforms. Tüm hakları saklıdır."
+    },
+    "aria": {
+      "openMenu": "Menüyü aç",
+      "mobileNav": "Mobil navigasyon",
+      "selectLanguage": "Dil seçin"
+    },
+    "stats": {
+      "gameIntegrations": "Oyun Entegrasyonları",
+      "paymentGateways": "Ödeme Ağ Geçitleri",
+      "gamesAvailable": "Mevcut Oyunlar",
+      "sportsbook": "Spor Bahisleri",
+      "bonusTypes": "Bonus Türleri",
+      "full": "Tam"
+    },
+    "cta": {
+      "readyTitle": "Ascendra Platforms'ta Yayına Hazır mısınız?",
+      "readySub": "Kişiselleştirilmiş bir demo alın ve platformun tamamını iş başında görün."
+    },
+    "badges": {
+      "popular": "Popüler",
+      "comingSoon": "Yakında",
+      "casinoSportsbook": "Casino + Spor Bahisleri"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Turnkey · White Label",
+      "title": "iGaming Markanızı Ascendra Platforms'ta Başlatın",
+      "titleHighlight": "Ascendra Platforms",
+      "sub": "250'den fazla oyun entegrasyonu, 50'den fazla ödeme ağ geçidi, yerleşik CRM, dolandırıcılık koruması ve eksiksiz bonus motoru ile üretime hazır casino ve spor bahis yazılımı."
+    },
+    "kpi": {
+      "ggrToday": "Bugünkü GGR",
+      "deposits": "Yatırımlar",
+      "activePlayers": "Aktif Oyuncular"
+    },
+    "trust": {
+      "auditWallet": "Denetime Hazır Cüzdan",
+      "fullSportsbook": "Tam Spor Bahisleri",
+      "antiFraud": "Dolandırıcılık Önleme Sistemi",
+      "marketingCrm": "Pazarlama CRM"
+    },
+    "featuresSection": {
+      "title": "Operasyon İçin İhtiyacınız Olan Her Şey",
+      "sub": "Ascendra Platforms'a entegre kurumsal düzeyde modüller — casino, spor bahisleri, ödemeler, CRM ve daha fazlası."
+    },
+    "featureCards": [
+      {
+        "badge": "Oyunlar",
+        "title": "250+ Oyun Entegrasyonu",
+        "desc": "Pragmatic Play, Evolution, SA Gaming ve daha fazlasından slot, canlı casino ve masa oyunları."
+      },
+      {
+        "badge": "Spor",
+        "title": "Eksiksiz Spor Bahisleri",
+        "desc": "Tekli, kombine bahisler ve birleşik cüzdan ile maç öncesi ve canlı bahis."
+      },
+      {
+        "badge": "Cüzdan",
+        "title": "Şeffaf Cüzdan",
+        "desc": "Denetim, mutabakat ve gönül rahatlığı için kaydedilen her işlem."
+      },
+      {
+        "badge": "Ödemeler",
+        "title": "50+ Ödeme Ağ Geçidi",
+        "desc": "Güvenli çekim onayı ile dünya genelinde kripto ve fiat."
+      },
+      {
+        "badge": "Bonus",
+        "title": "Eksiksiz Bonus Motoru",
+        "desc": "Hoş geldin, cashback, ücretsiz spin, VIP — casino ve spor promosyonları."
+      },
+      {
+        "badge": "CRM",
+        "title": "Pazarlama CRM",
+        "desc": "Oyuncuları segmentleyin, kampanyalar yürütün ve elde tutmayı platform içinde ölçün."
+      },
+      {
+        "badge": "Affiliate",
+        "title": "Affiliate Sistemi",
+        "desc": "Alt affiliate portalı ile CPA, RevShare ve hibrit modeller."
+      },
+      {
+        "badge": "Analitik",
+        "title": "Business Intelligence",
+        "desc": "Finans ekibinizin güvenebileceği GGR, NGR ve günlük KPI'lar."
+      },
+      {
+        "badge": "Güvenlik",
+        "title": "Dolandırıcılık Önleme Sistemi",
+        "desc": "Kayıt, giriş, yatırım ve çekimler için gerçek zamanlı koruma — AML taraması ve otomatik uygulama."
+      },
+      {
+        "badge": "Uyumluluk",
+        "title": "Risk ve Uyumluluk",
+        "desc": "Sorumlu oyun araçları, KYC iş akışı ve düzenleyici çerçeve desteği."
+      },
+      {
+        "badge": "Admin",
+        "title": "Operatör Backoffice",
+        "desc": "Oyuncuları, finansı, oyunları, sporu, bonusları, CRM'i, dolandırıcılık uyarılarını ve desteği tek panelden yönetin."
+      }
+    ],
+    "flow": {
+      "title": "Ascendra Platforms Nasıl Çalışır",
+      "sub": "Oyuncu kaydından bahis sonuçlandırmaya — kesintisiz bir akış.",
+      "player": "Oyuncu",
+      "platform": "Ascendra Platform",
+      "wallet": "Cüzdan",
+      "casinoSports": "Casino ve Spor"
+    },
+    "marquee": {
+      "vendors": "Güvenilir Oyun Sağlayıcıları",
+      "payments": "50+ Ödeme Ağ Geçidi — Kripto · Fiat · Banka · E-cüzdan"
+    },
+    "brands": {
+      "title": "Ascendra Platforms ile Güçlendirilen Markalar",
+      "sub": "Operatörlerin anahtar teslim ve white-label çözümümüzle nasıl başladığını ve ölçeklendiğini görün."
+    },
+    "compare": {
+      "title": "Çözümünüzü Seçin",
+      "sub": "Ascendra Platforms'ta anahtar teslim başlangıç veya tam white-label özelleştirme.",
+      "turnkey": {
+        "title": "Turnkey",
+        "items": [
+          "Tam yığın — casino + spor bahisleri",
+          "250+ oyun entegrasyonu",
+          "50+ ödeme ağ geçidi",
+          "Bonus motoru, CRM ve Dolandırıcılık Önleme Sistemi",
+          "Yayın desteği (4–8 hafta)"
+        ]
+      },
+      "whiteLabel": {
+        "title": "White Label",
+        "items": [
+          "Turnkey'deki her şey",
+          "Özel alan adı, logo ve tema",
+          "Markalı yasal sayfalar",
+          "Çok markalı operasyon",
+          "Enterprise SLA"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Başlayın",
+      "title": "Demo Talep Edin",
+      "sub": "Projeniz hakkında bize bilgi verin; ekibimiz Ascendra Platforms'un kişiselleştirilmiş bir turunu planlasın — casino, spor bahisleri, ödemeler, CRM ve daha fazlası."
+    },
+    "form": {
+      "company": "Şirket Adı",
+      "firstName": "Ad",
+      "lastName": "Soyad",
+      "email": "İş E-postası",
+      "country": "Ülke / Bölge",
+      "solution": "Çözüm Türü",
+      "launch": "Planlanan Yayın",
+      "message": "Mesaj",
+      "placeholders": {
+        "company": "Şirket veya marka adınız",
+        "firstName": "John",
+        "lastName": "Smith",
+        "email": "you@company.com",
+        "message": "Hedef pazarınız, beklenen oyuncu hacmi veya özel gereksinimleriniz hakkında bize bilgi verin…"
+      },
+      "countries": {
+        "placeholder": "Bölgenizi seçin",
+        "na": "Kuzey Amerika",
+        "eu": "Avrupa",
+        "latam": "Latin Amerika",
+        "asia": "Asya Pasifik",
+        "mea": "Orta Doğu ve Afrika",
+        "other": "Diğer"
+      },
+      "solutions": {
+        "placeholder": "Çözüm seçin",
+        "turnkey": "Turnkey",
+        "whiteLabel": "White Label",
+        "integration": "Yalnızca Entegrasyon"
+      },
+      "launchOptions": {
+        "notSure": "Henüz emin değilim",
+        "m1_3": "1–3 ay",
+        "m3_6": "3–6 ay",
+        "m6_12": "6–12 ay",
+        "m12plus": "12+ ay"
+      },
+      "consent": "Bu talebe yanıt vermek için Ascendra Platforms'un verilerimi işlemesini kabul ediyorum. <a href=\"privacy.html\">Gizlilik Politikamıza</a> bakın."
+    },
+    "sidebar": {
+      "responseBadge": "✓ Genellikle 24 saat içinde yanıt",
+      "talkTitle": "Ekibimizle Konuşun",
+      "talkSub": "Yeni bir marka başlatıyor veya başka bir platformdan geçiş yapıyor olun, demoyu kullanım senaryonuza göre uyarlayacağız.",
+      "seeTitle": "Neler Göreceksiniz",
+      "seeItems": [
+        "250+ oyun entegrasyonu ve sağlayıcı kataloğu",
+        "Tam spor bahisleri — maç öncesi ve canlı",
+        "50+ ödeme ağ geçidi ve cüzdan defteri",
+        "Bonus motoru, CRM ve Dolandırıcılık Önleme Sistemi",
+        "Operatör backoffice turu"
+      ]
+    },
+    "messages": {
+      "sending": "Gönderiliyor…",
+      "success": "Teşekkürler! 24 saat içinde sizinle iletişime geçeceğiz.",
+      "successDemo": "Teşekkürler! (Demo modu — teslimatı etkinleştirmek için VITE_CONTACT_ENDPOINT ayarlayın.)",
+      "error": "Bir şeyler ters gitti. Lütfen sales@ascendraplatforms.com adresine e-posta gönderin"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "badge": "Esnek Planlar",
+      "title": "Her Aşama İçin Planlar",
+      "sub": "İlk yayından çok markalı kurumsal operasyona — operasyonunuza uygun Ascendra Platforms paketini seçin. Her seviye için özel teklifler."
+    },
+    "tiers": {
+      "starter": {
+        "tier": "Starter",
+        "name": "Başlangıç",
+        "target": "Pazara giren tek markalı operatörler",
+        "price": "Teklif için iletişim",
+        "items": [
+          "Temel platform — casino + spor bahisleri",
+          "250+ oyun entegrasyonu",
+          "Şeffaf cüzdan ve ödemeler",
+          "Temel bonus motoru",
+          "Operatör backoffice",
+          "Standart destek"
+        ]
+      },
+      "growth": {
+        "tier": "Professional",
+        "name": "Büyüme",
+        "target": "Oyuncu edinimini ölçeklendiren büyüyen markalar",
+        "price": "Teklif için iletişim",
+        "items": [
+          "Starter'daki her şey",
+          "Pazarlama CRM ve kampanyalar",
+          "Tam bonus motoru paketi",
+          "Affiliate sistemi ve ortak portalı",
+          "Dolandırıcılık Önleme Sistemi",
+          "Business intelligence panoları",
+          "Öncelikli destek"
+        ]
+      },
+      "enterprise": {
+        "tier": "Enterprise",
+        "name": "White Label",
+        "target": "Çok markalı operatörler ve white-label ortakları",
+        "price": "Teklif için iletişim",
+        "items": [
+          "Professional'daki her şey",
+          "Özel alan adı, logo ve tema",
+          "Markalı yasal sayfalar",
+          "Çok markalı operasyon",
+          "Ayrılmış operatör hesapları",
+          "Enterprise SLA",
+          "Ayrılmış hesap yöneticisi"
+        ]
+      }
+    },
+    "note": "Tüm planlar 50+ ödeme ağ geçidi, risk ve uyumluluk araçları ile yayın desteğini içerir. Fiyatlandırma pazarınıza, hacminize ve entegrasyon gereksinimlerinize göre uyarlanır — kamuya açık sitede gizli ücret yoktur.",
+    "compare": {
+      "title": "Turnkey vs White Label",
+      "sub": "Hangi paketin uygun olduğundan emin değil misiniz? İşte hızlı bir karşılaştırma.",
+      "turnkey": {
+        "title": "Turnkey",
+        "desc": "Ascendra Platforms altyapısıyla hızlı yayın — tam casino, spor bahisleri, ödemeler ve backoffice. Kanıtlanmış teknolojiyle haftalar içinde yayına geçmeniz gerektiğinde ideal.",
+        "items": [
+          "4–8 haftalık yayın desteği",
+          "Tam modül yığını dahil",
+          "Operatör eğitimi"
+        ]
+      },
+      "whiteLabel": {
+        "title": "White Label",
+        "desc": "Turnkey'deki her şey artı tam marka özelleştirmesi — logonuz, alan adınız, temanız ve yasal sayfalarınız. Enterprise SLA ile tek platformdan birden fazla marka yönetin.",
+        "items": [
+          "Özel markalama ve alan adı",
+          "Çok markalı Admin",
+          "Enterprise SLA seçenekleri"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Kişiselleştirilmiş Teklif Alın",
+      "sub": "Hedef pazarınız hakkında bize bilgi verin; doğru planı önerelim."
+    }
+  },
+  "integrations": {
+    "hero": {
+      "badge": "Her Şeyi Bağlayın",
+      "title": "250+ Oyun Entegrasyonu · 50+ Ödeme Ağ Geçidi",
+      "sub": "Önde gelen oyun stüdyoları ve küresel ödeme yöntemleri — tek platformda bağlı. Oyuncularınızın beklediği sağlayıcılar ve ödeme türleriyle yayına geçin."
+    },
+    "vendors": {
+      "title": "Güvenilir Oyun Sağlayıcıları",
+      "sub": "Slot, canlı casino ve masa oyunları stüdyo logoları — agregatör markası yok, yalnızca oyuncularınızın tanıdığı sağlayıcılar.",
+      "tabs": {
+        "slots": "Slotlar",
+        "live": "Canlı Casino",
+        "table": "Masa Oyunları"
+      }
+    },
+    "payments": {
+      "title": "Ödeme Türleri",
+      "sub": "Kripto, fiat, banka ve e-cüzdan genelinde 50+ ağ geçidi — marka ve bölgeye göre yapılandırılır.",
+      "crypto": {
+        "title": "Kripto",
+        "desc": "Dünya genelinde kripto odaklı oyuncular için anında yatırım ve hızlı çekim."
+      },
+      "fiat": {
+        "title": "Fiat ve Bölgesel",
+        "desc": "Yerel pazar kapsamı için kartlar ve bölgesel ödeme yöntemleri."
+      },
+      "bank": {
+        "title": "Banka Havalesi",
+        "desc": "Doğrudan banka yatırımları ve operatör onaylı çekim iş akışları."
+      },
+      "ewallet": {
+        "title": "E-cüzdan",
+        "desc": "Bölgeler genelinde sorunsuz yatırımlar için popüler dijital cüzdanlar."
+      }
+    },
+    "cta": {
+      "title": "Belirli Bir Sağlayıcı veya Ödeme Yöntemi mi Gerekiyor?",
+      "sub": "Hedef pazarınızı bize bildirin — uygunluğu ve entegrasyon zaman çizelgesini doğrulayalım."
+    }
+  },
+  "feature": {
+    "breadcrumb": {
+      "home": "Ana Sayfa",
+      "features": "Özellikler"
+    },
+    "shell": {
+      "problemDefault": "Zorluk",
+      "solutionDefault": "Ascendra Çözümü",
+      "capabilitiesTitle": "Temel Yetenekler",
+      "capabilitiesSub": "Ascendra Platforms'ta yer alan her şey — yayınınız için hazır.",
+      "howTitle": "Nasıl Çalışır",
+      "howSub": "Oyuncu eyleminden operatör içgörüsüne kesintisiz bir akış.",
+      "seeTitle": "Uygulamada Görün",
+      "seeSub": "Oyuncu deneyimi ve operatör kontrolü — yan yana.",
+      "playerExperience": "Oyuncu Deneyimi",
+      "operatorAdmin": "Operatör Admin",
+      "relatedTitle": "İlgili Özellikler",
+      "relatedSub": "Ascendra Platforms'a entegre daha fazla modül keşfedin."
+    }
+  },
+  "legal": {
+    "nav": {
+      "privacy": "Gizlilik Politikası",
+      "terms": "Hizmet Şartları",
+      "aml": "AML Politikası",
+      "responsible": "Sorumlu Oyun"
+    },
+    "privacy": {
+      "title": "Gizlilik Politikası",
+      "sub": "Ascendra Platforms'un bu web sitesinde ve demo talepleri aracılığıyla bilgileri nasıl topladığı, kullandığı ve koruduğu.",
+      "updated": "Son güncelleme: 3 Temmuz 2026",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Son güncelleme: 3 Temmuz 2026"
+        },
+        {
+          "type": "section",
+          "heading": "1. Giriş",
+          "html": "<p>Ascendra Platforms (\"biz\", \"bize\", \"bizim\") anahtar teslim ve white-label iGaming platformumuz hakkında bilgi sağlamak için bu B2B pazarlama web sitesini işletmektedir. Bu Gizlilik Politikası, sitemizi ziyaret ettiğinizde veya demo veya iletişim talebi gönderdiğinizde kişisel verileri nasıl ele aldığımızı açıklar.</p>\r\n      <p>Bu politika <strong>ascendraplatforms.com</strong> ve ilgili pazarlama mülklerine uygulanır. Platformumuz tarafından desteklenen oyuncuya yönelik operatör web sitelerini kapsamaz — bunlar her operatörün kendi gizlilik politikaları tarafından yönetilir.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Topladığımız Bilgiler",
+          "html": "<p>Web sitemizle etkileşime girdiğinizde aşağıdakileri toplayabiliriz:</p>\r\n      <ul>\r\n        <li><strong>İletişim ve iş bilgileri</strong> — demo veya sorgu formu gönderdiğinizde şirket adı, iletişim adı, iş e-postası, ülke veya bölge ve mesaj içeriği.</li>\r\n        <li><strong>Çözüm tercihleri</strong> — çözüm türü (Turnkey, White Label, Entegrasyon) ve sağlanırsa beklenen yayın zaman çizelgesi.</li>\r\n        <li><strong>Teknik veriler</strong> — standart analitik ve sunucu günlükleri aracılığıyla toplanan IP adresi, tarayıcı türü, cihaz bilgileri, ziyaret edilen sayfalar ve yönlendirme kaynağı.</li>\r\n        <li><strong>İletişimler</strong> — sorgunuzun ardından e-posta veya toplantı yazışmalarının kayıtları.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Bilgilerinizi Nasıl Kullanıyoruz",
+          "html": "<p>Toplanan bilgileri şu amaçlarla kullanırız:</p>\r\n      <ul>\r\n        <li>Demo taleplerine, satış sorgularına ve destek sorularına yanıt vermek.</li>\r\n        <li>İş ihtiyaçlarınıza uygun ürün bilgileri sağlamak.</li>\r\n        <li>Web sitemizi, içeriğimizi ve kullanıcı deneyimini iyileştirmek.</li>\r\n        <li>Yasal yükümlülüklere uymak ve dolandırıcılık veya kötüye kullanıma karşı korumak.</li>\r\n        <li>İzin verildiğinde sorgunuzla ilgili takip iletişimleri göndermek.</li>\r\n      </ul>\r\n      <p>Kişisel verilerinizi üçüncü taraflara satmıyoruz.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Hukuki Dayanak (GDPR)",
+          "html": "<p>Genel Veri Koruma Yönetmeliği (GDPR) kapsamında geçerli olduğu durumlarda kişisel verileri şu dayanaklarla işleriz:</p>\r\n      <ul>\r\n        <li><strong>Rıza</strong> — form gönderdiğinizde ve bu politikayı kabul ettiğinizde.</li>\r\n        <li><strong>Meşru menfaatler</strong> — B2B sorgularına yanıt vermek ve pazarlama web sitemizi işletmek için.</li>\r\n        <li><strong>Sözleşmesel gereklilik</strong> — talep ettiğiniz hizmetleri değerlendirmek veya sunmak için işlemenin gerekli olduğu durumlarda.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Veri Paylaşımı",
+          "html": "<p>Barındırma, analitik, e-posta teslimatı veya CRM konusunda yardımcı olan güvenilir hizmet sağlayıcılarıyla bilgi paylaşabiliriz — yalnızca işimizi yürütmek ve uygun gizlilik yükümlülükleri altında. Yasal olarak gerekli olduğunda veya haklarımızı ve güvenliğimizi korumak için bilgi açıklayabiliriz.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Veri Saklama",
+          "html": "<p>Sorgu ve iletişim kayıtlarını bu politikada açıklanan amaçları yerine getirmek, devam eden iş ilişkilerini yönetmek ve yasal saklama gereksinimlerini karşılamak için gerekli olduğu sürece saklarız… Geçerli yasa izin verdiğinde silme talebinde bulunabilirsiniz.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Haklarınız",
+          "html": "<p>Konumunuza bağlı olarak kişisel verilerinize erişme, düzeltme, silme, işlemeyi kısıtlama veya itiraz etme ve veri taşınabilirliği haklarına sahip olabilirsiniz. Bu hakları kullanmak için <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a> adresinden bize ulaşın.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "8. Çerezler ve Analitik",
+          "html": "<p>Site trafiğini analiz etmek ve performansı iyileştirmek için çerezler ve benzer teknolojiler kullanabiliriz. Çerezleri tarayıcı ayarlarınızdan kontrol edebilirsiniz. Site işlevselliği için gerekli temel çerezler devre dışı bırakılamayabilir.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "9. Uluslararası Aktarımlar",
+          "html": "<p>Bilgileriniz kendi ülkenizden farklı ülkelerde işlenebilir. Gerektiğinde sınır ötesi veri aktarımları için uygun güvenceler uygularız.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "10. İletişim",
+          "html": "<p>Gizlilikle ilgili sorular veya talepler için: <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "terms": {
+      "title": "Hizmet Şartları",
+      "sub": "Ascendra Platforms pazarlama web sitesinin ve demo talep hizmetlerinin kullanımını düzenleyen şartlar.",
+      "updated": "Son güncelleme: 3 Temmuz 2026",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Son güncelleme: 3 Temmuz 2026"
+        },
+        {
+          "type": "section",
+          "heading": "1. Şartların Kabulü",
+          "html": "<p>Ascendra Platforms pazarlama web sitesine (\"Site\") erişerek veya kullanarak bu Hizmet Şartlarını kabul etmiş olursunuz. Kabul etmiyorsanız lütfen Siteyi kullanmayın.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Hizmetlerimiz Hakkında",
+          "html": "<p>Ascendra Platforms casino ve spor bahis operatörleri için B2B anahtar teslim ve white-label iGaming yazılımı sağlar. Bu Sitedeki içerik yalnızca bilgilendirme ve ticari sorgu amaçlıdır. Sitedeki hiçbir şey bağlayıcı teklif, lisans veya hizmet sözleşmesi oluşturmaz.</p>\r\n      <p>Resmi platform sözleşmeleri, SLA'lar ve ticari şartlar Ascendra Platforms ile lisanslı operatörler arasında ayrıca yazılı olarak imzalanır.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "3. İzin Verilen Kullanım",
+          "html": "<p>Siteyi platformumuz hakkında bilgi edinmek, demo talep etmek ve satış ekibimizle iletişime geçmek için kullanabilirsiniz. Şunları yapmamayı kabul edersiniz:</p>\r\n      <ul>\r\n        <li>Siteyi yasadışı amaçlarla veya geçerli düzenlemeleri ihlal ederek kullanmak.</li>\r\n        <li>Sistemlerimize, verilerimize veya ağlarımıza yetkisiz erişim elde etmeye çalışmak.</li>\r\n        <li>Yazılı izin olmadan Site içeriğini kazımak, kopyalamak veya yeniden dağıtmak.</li>\r\n        <li>Sorgu gönderirken kimliğinizi, bağlantınızı veya lisans durumunuzu yanlış beyan etmek.</li>\r\n        <li>Kötü amaçlı yazılım bulaştırmak veya Site kullanılabilirliğine veya güvenliğine müdahale etmek.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Fikri Mülkiyet",
+          "html": "<p>Bu Sitedeki tüm içerik — metin, grafikler, logolar, ürün açıklamaları ve tasarım dahil — Ascendra Platforms veya lisans verenlerine aittir ve fikri mülkiyet yasalarıyla korunmaktadır. Önceden yazılı onay olmadan çoğaltamaz, dağıtamaz veya türev eserler oluşturamazsınız.</p>\r\n      <p>Örnek olarak gösterilen üçüncü taraf oyun sağlayıcı adları ve logoları ilgili sahiplerinin ticari markalarıdır.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Demo ve Satış Sorguları",
+          "html": "<p>Demo talepleri ve iletişim gönderimleri ürün kullanılabilirliği, fiyatlandırma veya sözleşmesel taahhüt garantisi vermez. Ticari, düzenleyici veya uyumluluk kriterlerimizi karşılamayan sorguları reddetme hakkımızı saklı tutarız.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Garanti Reddi",
+          "html": "<p>Site ve içeriği açık veya zımni hiçbir garanti olmaksızın \"olduğu gibi\" sağlanır. Sitenin kesintisiz, hatasız veya zararlı bileşenlerden arınmış olacağını garanti etmiyoruz. Sitede açıklanan ürün yetenekleri dağıtıma ve yargı alanına göre değişebilir.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Sorumluluk Sınırlaması",
+          "html": "<p>Yasanın izin verdiği azami ölçüde Ascendra Platforms, Siteyi kullanımınızdan kaynaklanan dolaylı, arızi, özel veya sonuç olarak ortaya çıkan zararlardan sorumlu olmayacaktır. Siteyle ilgili talepler için toplam sorumluluğumuz yüz ABD dolarını (USD 100) aşmayacaktır.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "8. Düzenleyici Bildirim",
+          "html": "<p>iGaming operasyonları her yargı alanında lisanslama ve düzenlemeye tabidir. Ascendra Platforms kullanan operatörler geçerli lisansları almak ve sürdürmek ile yerel yasalara uymaktan yalnızca kendileri sorumludur. Pazar girişi veya lisanslama konusunda hukuki tavsiye vermiyoruz.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "9. Üçüncü Taraf Bağlantıları",
+          "html": "<p>Site üçüncü taraf web sitelerine bağlantılar içerebilir. Harici sitelerin içeriğinden, gizlilik uygulamalarından veya politikalarından sorumlu değiliz.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "10. Şartlardaki Değişiklikler",
+          "html": "<p>Bu Şartları istediğimiz zaman güncelleyebiliriz. Değişiklikler yayınlandıktan sonra Siteyi kullanmaya devam etmeniz revize edilmiş Şartların kabulü anlamına gelir. Üstteki \"Son güncelleme\" tarihi en son revizyonu gösterir.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "11. Uygulanacak Hukuk",
+          "html": "<p>Bu Şartlar ana hizmet sözleşmenizde belirtilen veya yazılı olarak aksi kararlaştırılan yasalara tabidir. Ayrı bir sözleşme olmaksızın yalnızca web sitesiyle ilgili uyuşmazlıklar için uyuşmazlıklar ana iş yerimizde geçerli yasaya göre çözülür.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "12. İletişim",
+          "html": "<p>Bu Şartlar hakkında sorular: <a href=\"mailto:legal@ascendraplatforms.com\">legal@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "aml": {
+      "title": "AML Politikası",
+      "sub": "Ascendra Platforms B2B hizmetleri için kara para aklamayı önleme ilkeleri ve uyumluluk yaklaşımı.",
+      "updated": "Son güncelleme: 3 Temmuz 2026",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Son güncelleme: 3 Temmuz 2026"
+        },
+        {
+          "type": "section",
+          "heading": "1. Politika Beyanı",
+          "html": "<p>Ascendra Platforms kara para aklama, terörün finansmanı ve diğer finansal suçları önlemeye kararlıdır. Platformumuzu lisanslı operatörlerin AML yükümlülüklerini karşılamalarına yardımcı olacak araçlarla tasarlıyor ve kendi B2B ticari ilişkilerimizde due diligence uyguluyoruz.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Platform AML Yetenekleri",
+          "html": "<p>Ascendra Platforms dağıtan operatörler şu dahil yerleşik uyumluluk özelliklerine erişebilir:</p>\r\n      <ul>\r\n        <li>Know Your Customer (KYC) belge toplama ve doğrulama iş akışları.</li>\r\n        <li>Kayıt ve işlemlerde AML kara liste taraması ile Dolandırıcılık Önleme Sistemi.</li>\r\n        <li>Çekim öncesi risk kapıları ve yüksek riskli ödemeler için otomatik bekletme.</li>\r\n        <li>Risk kararları, oyuncu doğrulama durumu ve admin eylemleri için denetim izleri.</li>\r\n        <li>Yapılandırılabilir yatırım, çekim ve bahis limitleri.</li>\r\n        <li>Şüpheli faaliyet incelemesi için oyuncu işlem geçmişi ve raporlama.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Operatör Sorumlulukları",
+          "html": "<p>Lisanslı operatörler kendi yargı alanlarında AML uyumluluğundan nihai olarak sorumlu kalır. Operatörler şunları yapmalıdır:</p>\r\n      <ul>\r\n        <li>Gerektiğinde geçerli oyun ve finansal hizmet lisanslarını sürdürmek.</li>\r\n        <li>Pazarlarına uygun KYC ve gelişmiş due diligence politikalarını uygulamak ve uygulamak.</li>\r\n        <li>İlgili makamlara şüpheli faaliyet raporları (SAR) veya eşdeğer bildirimler sunmak.</li>\r\n        <li>Personeli AML prosedürleri ve platform araçları konusunda eğitmek.</li>\r\n        <li>Oyuncuya yönelik web siteleri için markalı AML politika sayfalarını güncel tutmak.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "4. B2B Due Diligence",
+          "html": "<p>Ticari anlaşmalara girmeden önce Ascendra Platforms potansiyel operatör ortakları hakkında kimlik doğrulama, lisans durumu, nihai faydalanıcı sahiplik ve yargı alanı risk değerlendirmesi dahil due diligence yapabilir. Kabul edilemez AML veya düzenleyici risk sunan ilişkileri reddetme veya sonlandırma hakkımızı saklı tutarız.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Yaptırımlar ve Kara Listeler",
+          "html": "<p>Dolandırıcılık Önleme Sistemimiz geçerli yaptırım ve kara listelere karşı taramayı destekler. Operatörler düzenleyici gereksinimleriyle uyumlu uygulama politikalarını yapılandırır… Tarama sonuçları hesap engelleri, işlem bekletmeleri veya gelişmiş doğrulama gereksinimleriyle sonuçlanabilir…</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Kayıt Tutma",
+          "html": "<p>Platform operatör uyumluluk programlarını desteklemek için işlem ve denetim kayıtlarını sürdürür. Saklama süreleri operatörler tarafından geçerli yasaya uygun olarak yapılandırılmalıdır.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Endişeleri Bildirme",
+          "html": "<p>Ascendra Platforms B2B operasyonlarıyla ilgili AML endişelerini bildirmek için: <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "responsible": {
+      "title": "Sorumlu Oyun",
+      "sub": "Sorumlu oyun araçları ve operatör uyumluluk desteğine olan taahhüdümüz.",
+      "updated": "Son güncelleme: 3 Temmuz 2026",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Son güncelleme: 3 Temmuz 2026"
+        },
+        {
+          "type": "section",
+          "heading": "1. Taahhüdümüz",
+          "html": "<p>Ascendra Platforms iGaming operatörlerinin oyuncuları koruma görevi olduğuna inanır. Platformumuz operatörlerin casino ve spor bahis ürünlerinde yapılandırıp uygulayabileceği sorumlu oyun (RG) araçlarını içerir.</p>\r\n      <p>Bu sayfa platform yeteneklerini açıklar. Oyuncuya yönelik sorumlu oyun politikaları her lisanslı operatör tarafından kendi markalı web sitelerinde yayınlanır.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Operatörler İçin Platform Araçları",
+          "html": "<p>Ascendra Platforms operatörlere şu oyuncu koruma özelliklerini sağlar:</p>\r\n      <ul>\r\n        <li><strong>Yatırım limitleri</strong> — oyuncular tarafından belirlenen veya operatörler tarafından uygulanan günlük, haftalık ve aylık üst sınırlar.</li>\r\n        <li><strong>Kayıp ve bahis limitleri</strong> — tanımlı dönemlerde maksimum kayıp veya bahis tutarları üzerinde kontroller.</li>\r\n        <li><strong>Oturum limitleri</strong> — yapılandırılmış oyun süresinden sonra hatırlatmalar ve otomatik çıkışlar.</li>\r\n        <li><strong>Soğuma dönemleri</strong> — oyuncu tarafından seçilen geçici hesap kısıtlamaları.</li>\r\n        <li><strong>Kendi kendini dışlama</strong> — kumar molasına ihtiyaç duyan oyuncular için uzatılmış hesap kapatma.</li>\r\n        <li><strong>Gerçeklik kontrolleri</strong> — harcanan süreyi ve net pozisyonu gösteren periyodik bildirimler.</li>\r\n        <li><strong>Reşit olmayanların önlenmesi</strong> — KYC iş akışlarıyla entegre yaş doğrulama.</li>\r\n        <li><strong>Spor bahis limitleri</strong> — pazar düzeyinde ve oyuncu düzeyinde bahis üst sınırları.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Operatör Admin Kontrolleri",
+          "html": "<p>Operatörler sorumlu oyun ayarlarını Ascendra Platforms backoffice üzerinden yönetir — oyuncu, segment veya yargı alanına göre limit uygular ve entegre risk ve dolandırıcılık izleme ile sorunlu davranış için işaretlenen hesapları inceler.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Oyuncu Desteği",
+          "html": "<p>Operatörler canlı sohbet ve bilet sistemi aracılığıyla platform içi destek sunabilir; uygun olduğunda oyuncuları profesyonel yardım kuruluşlarına yönlendirebilir. Ascendra Platforms operatörlerin oyuncuya yönelik sitelerde sorumlu oyun bilgilerini ve yardım hattı bağlantılarını göstermesini sağlar.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Eğitim ve En İyi Uygulamalar",
+          "html": "<p>Operatörlerin destek ve uyumluluk ekiplerini sorumlu oyun prosedürleri konusunda eğitmesini, oyuncu davranış göstergelerini izlemesini ve RG politikalarını her lisanslı pazardaki gereksinimlerle uyumlu hale getirmesini öneririz…</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Yardım Alın",
+          "html": "<p>Destek arayan bir oyuncuysanız lütfen oynadığınız web sitesinin operatörüyle iletişime geçin. Ascendra Platforms sorumlu oyun yeteneklerini değerlendiren bir operatörseniz <a href=\"contact.html\">demo talep edin</a> veya <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a> adresine e-posta gönderin.</p>"
+        }
+      ]
+    }
+  },
+  "features": {
+    "game-integrations": {
+      "slug": "game-integrations",
+      "badge": "Oyunlar",
+      "title": "250+ Oyun Entegrasyonu",
+      "heroH1": "Tek Platform, 250+ Entegrasyon",
+      "heroSub": "Önde gelen oyun stüdyolarına bağlanın — Ascendra Platforms'ta Pragmatic Play, Evolution, SA Gaming ve daha fazlasından slot, canlı casino ve masa oyunları.",
+      "heroImage": "/assets/images/gates-of-olympus.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Operatörler bireysel sağlayıcı sözleşmelerini müzakere etmek ve parçalı oyun kataloglarını birden fazla sistemde yönetmek için aylar harcar.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms 250'den fazla entegrasyonla birleşik bir oyun kataloğu sunar — tek cüzdan, tek backoffice ve her ana kategoride kesintisiz oyun.",
+      "capabilities": [
+        "Pragmatic Play, Evolution, SA Gaming, PG Soft ve daha fazlasından önde gelen sağlayıcı oyunları",
+        "Tam katalog yönetimi — Admin'den oyunları etkinleştirme, devre dışı bırakma ve düzenleme",
+        "Casino ve spor bahislerinde anında bakiye güncellemeleriyle kesintisiz oyun",
+        "Canlı casino, slot, masa oyunları ve crash oyunları tek entegrasyon katmanında",
+        "Oyuncu deneyiminizi yeniden oluşturmadan 10.000'den fazla oyun",
+        "Canlı operasyonları aksatmadan yeni sağlayıcı entegrasyonu"
+      ],
+      "steps": [
+        {
+          "title": "Kataloğu Gözat",
+          "desc": "Operatör Admin'de oyun ve kategorileri seçer"
+        },
+        {
+          "title": "Oyuncu Başlatır",
+          "desc": "Oyun birleşik cüzdanla oyuncu içinde açılır"
+        },
+        {
+          "title": "Bahis ve Sonuçlandırma",
+          "desc": "Her tur şeffaf deftere kaydedilir"
+        },
+        {
+          "title": "Rapor ve Mutabakat",
+          "desc": "Gerçek zamanlı panolarda GGR ve sağlayıcı istatistikleri"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/casino-sports.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "bonus-engine",
+        "operator-backoffice"
+      ]
+    },
+    "sportsbook": {
+      "slug": "sportsbook",
+      "badge": "Spor",
+      "title": "Eksiksiz Spor Bahisleri",
+      "heroH1": "Eksiksiz Spor Bahisleri, Entegre",
+      "heroSub": "Büyük sporlarda maç öncesi ve canlı bahis — casinonuzla tek birleşik cüzdanda tekli, kombine ve sistem bahisleri.",
+      "heroImage": "/assets/images/sports.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Casino ve sporu ayrı platformlarda işletmek cüzdanınızı böler, entegrasyon işini ikiye katlar ve tek hesap isteyen oyuncuları hayal kırıklığına uğratır.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms tam bir spor bahisleri modülü içerir — maç öncesi, canlı ve oyun içi — casino cüzdanınız ve bonus motorunuzla yerel olarak entegre.",
+      "capabilities": [
+        "Gerçek zamanlı oranlarla maç öncesi ve canlı oyun içi bahis",
+        "Çoklu spor kapsamı — futbol, basketbol, tenis, eSports ve daha fazlası",
+        "Tekli, kombine, akümülatör ve sistem bahisleri",
+        "Casino ile paylaşılan birleşik cüzdan — tek bakiye, tek geçmiş",
+        "Spore özel bonuslar, ücretsiz bahisler ve oran artırımları",
+        "Tam bahis geçmişi, sonuçlandırma ve sorumlu bahis limitleri"
+      ],
+      "steps": [
+        {
+          "title": "Etkinlik Seç",
+          "desc": "Oyuncu maç öncesi veya canlı pazarları gözatır"
+        },
+        {
+          "title": "Kupon Oluştur",
+          "desc": "Tekli, kombine veya sistem bahisleri"
+        },
+        {
+          "title": "Yerleştir ve Sonuçlandır",
+          "desc": "Cüzdan borçlandırılır; kazançlar anında yatırılır"
+        },
+        {
+          "title": "İzle ve Raporla",
+          "desc": "Operatör Admin'de maruziyet ve GGR'yi izler"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/sports.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "bonus-engine",
+        "business-intelligence"
+      ]
+    },
+    "wallet": {
+      "slug": "wallet",
+      "badge": "Cüzdan",
+      "title": "Şeffaf Cüzdan",
+      "heroH1": "Her İşlem Kayıt Altında",
+      "heroSub": "Her yatırım, bahis, kazanç ve çekim tam olarak kaydedilir — denetim, mutabakat ve gönül rahatlığı için tasarlandı.",
+      "heroImage": "/assets/images/wallet.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Opak bakiye yönetimi oyuncular, denetçiler ve finans ekipleriyle anlaşmazlıklara yol açar — özellikle casino ve spor tek hesabı paylaştığında.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms eksiksiz, değiştirilemez bir işlem defteri tutar — kayıttan çekime kadar her alacak ve borç izlenebilir.",
+      "capabilities": [
+        "Her oyuncu eylemi için tam işlem geçmişi",
+        "Finans ve uyumluluk ekipleri için denetime hazır kayıtlar",
+        "Casino, spor ve bonuslarda anında bakiye güncellemeleri",
+        "Çevrim ilerlemesiyle ayrı nakit ve bonus bakiye takibi",
+        "Operatör muhasebesiyle uyumlu mutabakat raporları",
+        "Varsayılan görüntüleme USD ile çoklu para birimi desteği"
+      ],
+      "steps": [
+        {
+          "title": "Oyuncu Eylemi",
+          "desc": "Yatırım, bahis, kazanç, bonus veya çekim"
+        },
+        {
+          "title": "Defter Girişi",
+          "desc": "Her hareket zaman damgası ve türüyle kaydedilir"
+        },
+        {
+          "title": "Bakiye Güncelleme",
+          "desc": "Gerçek zamanlı nakit ve bonus bakiyeleri yenilenir"
+        },
+        {
+          "title": "Denetim ve Dışa Aktarma",
+          "desc": "Finans ekibi Admin'de dışa aktarır ve mutabakat yapar"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/wallet.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "payments",
+        "business-intelligence",
+        "risk-compliance"
+      ]
+    },
+    "payments": {
+      "slug": "payments",
+      "badge": "Ödemeler",
+      "title": "50+ Ödeme Ağ Geçidi",
+      "heroH1": "50+ Ağ Geçidi, Küresel Erişim",
+      "heroSub": "Otomatik yatırımlar ve güvenli çekim onay süreciyle dünya genelinde kripto ve fiat kabul edin.",
+      "heroImage": "/assets/images/payments.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Sınırlı ödeme seçenekleri kaybedilen yatırımlar anlamına gelir; manuel çekim işleme gecikmelere ve operasyonel riske yol açar.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms 50'den fazla ödeme ağ geçidini bağlar — kripto, fiat, banka havalesi ve e-cüzdanlar — otomatik yatırımlar ve operatör kontrollü çekim onayı ile.",
+      "capabilities": [
+        "Küresel oyuncu tabanları için kripto ve fiat ödeme yöntemleri",
+        "Otomatik yatırım onayı ve cüzdan kredilendirme",
+        "Dolandırıcılık kapılarıyla güvenli çekim onay iş akışı",
+        "Operatörler için manuel ve yarı otomatik ödeme seçenekleri",
+        "Marka ve bölgeye göre ödeme yöntemi yapılandırması",
+        "Ödeme koruması için Dolandırıcılık Önleme Sistemi ile entegre"
+      ],
+      "steps": [
+        {
+          "title": "Oyuncu Yatırımları",
+          "desc": "Yöntem seçin ve ödemeyi tamamlayın"
+        },
+        {
+          "title": "Otomatik Kredi",
+          "desc": "Onaylanan yatırımda cüzdan güncellenir"
+        },
+        {
+          "title": "Çekim Talebi",
+          "desc": "Oyuncu ödeme talep eder; risk değerlendirilir"
+        },
+        {
+          "title": "Operatör Onayı",
+          "desc": "Onaylanan çekimler güvenle işlenir"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/payments.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "anti-fraud",
+        "risk-compliance"
+      ]
+    },
+    "bonus-engine": {
+      "slug": "bonus-engine",
+      "badge": "Bonus",
+      "title": "Eksiksiz Bonus Motoru",
+      "heroH1": "İhtiyacınız Olan Her Promosyon Türü",
+      "heroSub": "Hoş geldin, yatırım eşleştirme, cashback, ücretsiz spin, VIP ödülleri ve çevrim takibi — casino ve spor için kutudan çıkar çıkmaz hazır.",
+      "heroImage": "/assets/images/bonus.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Parçalı promosyon araçları bonus kötüye kullanımına, belirsiz çevrim kurallarına ve casino ile sporu kapsayamayan kampanyalara yol açar.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms tam bir bonus motoru içerir — Admin'de politikaları yapılandırın, oyuncuların uygulama içinde talep etmesine izin verin ve çevrim ilerlemesini gerçek zamanlı takip edin.",
+      "capabilities": [
+        "Hoş geldin, ilk yatırım, yeniden yükleme ve günlük/haftalık bonuslar",
+        "Cashback, ücretsiz spin ve VIP kademe ödülleri",
+        "Spor ücretsiz bahisleri, oran artırımları ve akümülatör bonusları",
+        "Oyuncular için gerçek zamanlı çevrim ve rollover ilerlemesi",
+        "Esnek politika kuralları — tutarlar, oyunlar, sporlar ve son kullanma",
+        "Şeffaf şartlarla oyuncu self-servis talep akışı"
+      ],
+      "steps": [
+        {
+          "title": "Politika Yapılandır",
+          "desc": "Operatör Admin'de bonus kurallarını belirler"
+        },
+        {
+          "title": "Oyuncu Uygun Olur",
+          "desc": "Yatırım, kayıt veya kampanya tetikleyicisi"
+        },
+        {
+          "title": "Talep Et ve Oyna",
+          "desc": "Bonus yatırılır; çevrim canlı takip edilir"
+        },
+        {
+          "title": "Dönüştür veya Sona Er",
+          "desc": "Rollover tamamlandı → nakit bakiye"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/bonus.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "marketing-crm",
+        "sportsbook",
+        "anti-fraud"
+      ]
+    },
+    "marketing-crm": {
+      "slug": "marketing-crm",
+      "badge": "CRM",
+      "title": "Pazarlama CRM",
+      "heroH1": "Oyuncularınızı Büyütün ve Elde Tutun",
+      "heroSub": "Oyuncuları segmentleyin, kampanyalar yürütün, yaşam döngüsü mesajlarını otomatikleştirin ve elde tutmayı ölçün — üçüncü taraf araçlar olmadan.",
+      "heroImage": "/assets/images/crm.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Oyuncu verilerini harici CRM'lere aktarmak uyumluluğu bozar, maliyet ekler ve zamanlama kritik olduğunda kampanyaları geciktirir.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms yerleşik bir pazarlama CRM içerir — oyuncu verilerinizin zaten bulunduğu yerde segmentleyin, hedefleyin ve kampanyaları ölçün.",
+      "capabilities": [
+        "Oyuncu segmentasyonu — VIP, yeni, hareketsiz, yüksek değerli ve özel",
+        "Kampanya oluşturma, zamanlama ve A/B testi",
+        "Yaşam döngüsü mesajlaşması — kayıt, ilk yatırım, geri kazanma yolculukları",
+        "Bonuslar ve sadakat programlarına bağlı elde tutma araçları",
+        "Dönüşüm takibiyle segmente göre promosyon hedefleme",
+        "Platform içi kampanya analitiği ve ROI ölçümü"
+      ],
+      "steps": [
+        {
+          "title": "Segment Tanımla",
+          "desc": "Oyuncuları davranış ve değere göre filtrele"
+        },
+        {
+          "title": "Kampanya Oluştur",
+          "desc": "Mesaj, teklif ve zamanlama"
+        },
+        {
+          "title": "Başlat ve Hedefle",
+          "desc": "Doğru oyunculara doğru zamanda ulaşın"
+        },
+        {
+          "title": "Sonuçları Ölç",
+          "desc": "Dönüşümleri ve elde tutma etkisini takip edin"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/crm.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "bonus-engine",
+        "business-intelligence",
+        "affiliate-system"
+      ]
+    },
+    "affiliate-system": {
+      "slug": "affiliate-system",
+      "badge": "Affiliate",
+      "title": "Affiliate Sistemi",
+      "heroH1": "Ortaklarla Büyüyün",
+      "heroSub": "Alt affiliate desteği ve ayrılmış ortak portalı ile CPA, gelir paylaşımı veya hibrit modeller.",
+      "heroImage": "/assets/images/affiliate.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Elektronik tablo tabanlı affiliate takibi ödeme anlaşmazlıklarına, kaçırılan dönüşümlere ve self-servis yapamayan ortaklara yol açar.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms tam bir affiliate modülü içerir — yönlendirmeleri takip edin, komisyonları otomatik hesaplayın ve ortaklara markalı bir portal sunun.",
+      "capabilities": [
+        "CPA, RevShare ve hibrit komisyon modelleri",
+        "Şeffaf raporlamayla alt affiliate hiyerarşisi",
+        "İstatistik ve kreatiflerle ayrılmış ortak portalı",
+        "GGR ve NGR üzerinde otomatik komisyon hesaplama",
+        "Yönlendirme bağlantısı ve promosyon kodu takibi",
+        "Finans iş akışlarıyla entegre ödeme yönetimi"
+      ],
+      "steps": [
+        {
+          "title": "Ortak Entegre Olur",
+          "desc": "Affiliate takip bağlantıları ve kodları alır"
+        },
+        {
+          "title": "Oyuncu Kaydolur",
+          "desc": "Yönlendirme ortak hesabına atanır"
+        },
+        {
+          "title": "Aktivite Takip Edilir",
+          "desc": "Yatırımlar, bahisler ve GGR ortağa bağlanır"
+        },
+        {
+          "title": "Komisyon Ödenir",
+          "desc": "Otomatik hesaplama ve ödeme döngüsü"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/affiliate.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "marketing-crm",
+        "business-intelligence",
+        "payments"
+      ]
+    },
+    "business-intelligence": {
+      "slug": "business-intelligence",
+      "badge": "Analitik",
+      "title": "Business Intelligence",
+      "heroH1": "Rakamlarınızı Bilin",
+      "heroSub": "Finans ekibinizin güvenebileceği panolarda GGR, NGR ve günlük KPI'lar.",
+      "heroImage": "/assets/images/analytics.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Gecikmiş veya tutarsız raporlama trendlere tepki vermeyi, kampanyaları optimize etmeyi veya paydaşlara doğru rapor vermeyi imkansız kılar.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms gerçek zamanlı business intelligence sunar — GGR, NGR, yatırımlar, çekimler ve affiliate performansı tek panelde.",
+      "capabilities": [
+        "Günlük ve dönemsel dökümlerle GGR ve NGR raporlama",
+        "Yatırım, çekim ve oyuncu aktivitesi KPI'ları",
+        "Affiliate ve kampanya performans raporları",
+        "Oyun ve sağlayıcı düzeyinde gelir analitiği",
+        "Finans ve muhasebe için dışa aktarmaya hazır veriler",
+        "Admin kullanıcıları için role dayalı panel erişimi"
+      ],
+      "steps": [
+        {
+          "title": "Veri Yakalanır",
+          "desc": "Her bahis, yatırım ve bonus kaydedilir"
+        },
+        {
+          "title": "Toplanır",
+          "desc": "Oyuncu, oyun ve döneme göre gerçek zamanlı toplamlar"
+        },
+        {
+          "title": "Görselleştirilir",
+          "desc": "Admin'de panolar ve raporlar"
+        },
+        {
+          "title": "Harekete Geçilir",
+          "desc": "Operatörler canlı içgörülere göre optimize eder"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/analytics.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "marketing-crm",
+        "operator-backoffice"
+      ]
+    },
+    "anti-fraud": {
+      "slug": "anti-fraud",
+      "badge": "Güvenlik",
+      "title": "Dolandırıcılık Önleme Sistemi",
+      "heroH1": "Size Mal Olmadan Dolandırıcılığı Durdurun",
+      "heroSub": "Kayıt, giriş, ödemeler ve bahisler için yerleşik dolandırıcılık önleme ve risk puanlama — AML taraması ve otomatik uygulama ile.",
+      "heroImage": "/assets/images/security.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Bonus kötüye kullanımı, çoklu hesap ve şüpheli çekimler operatör marjlarını aşındırır ve düzenleyici risk oluşturur.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Dolandırıcılık Önleme Sistemi her kritik eylemi tamamlanmadan önce değerlendirir — ve bahisleri ile bonusları sürekli İzin Ver, Sorgula veya Engelle sonuçlarıyla izler.",
+      "capabilities": [
+        "Kötü niyetli aktörlere karşı kayıt ve giriş koruması",
+        "Çekim öncesi kapılar — yüksek riskli ödemeler otomatik bekletilir",
+        "Cihazlar ve ödeme yöntemleri genelinde çoklu hesap tespiti",
+        "Kayıt ve işlemlerde AML kara liste taraması",
+        "Otomatik bekletme, MFA sorgusu ve engelleme uygulaması",
+        "Her risk kararı için Admin'de tam denetim izi"
+      ],
+      "steps": [
+        {
+          "title": "Oyuncu Eylemi",
+          "desc": "Kayıt, giriş, yatırım, bahis veya çekim"
+        },
+        {
+          "title": "Risk Değerlendirmesi",
+          "desc": "Operatör politikalarına karşı gerçek zamanlı puanlama"
+        },
+        {
+          "title": "Karar",
+          "desc": "İzin Ver, Sorgula (MFA) veya Engelle"
+        },
+        {
+          "title": "Denetim Günlüğü",
+          "desc": "Her sonuç Admin'de kaydedilir"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/security.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "payments",
+        "risk-compliance",
+        "operator-backoffice"
+      ]
+    },
+    "risk-compliance": {
+      "slug": "risk-compliance",
+      "badge": "Uyumluluk",
+      "title": "Risk ve Uyumluluk",
+      "heroH1": "Güvenle Operasyon Yürütün",
+      "heroSub": "Ascendra Platforms'a entegre sorumlu oyun araçları, KYC iş akışı ve düzenleyici çerçeve desteği.",
+      "heroImage": "/assets/images/compliance.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Düzenleyici gereksinimler pazara göre değişir — entegre araçlar olmadan operatörler KYC ve sorumlu oyunu sonradan ekler.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms sorumlu oyun limitleri, KYC doğrulama iş akışları ve markalı yasal sayfalar içerir — marka ve yargı alanına göre yapılandırılabilir.",
+      "capabilities": [
+        "Sorumlu oyun — yatırım, kayıp ve oturum limitleri",
+        "Kendi kendini dışlama ve soğuma dönemi desteği",
+        "KYC belge yükleme ve doğrulama iş akışı",
+        "Markalı Şartlar, Gizlilik, AML ve Sorumlu Oyun sayfaları",
+        "Admin'de görünür oyuncu doğrulama durumu",
+        "Gelişmiş tarama için Dolandırıcılık Önleme Sistemi entegrasyonu"
+      ],
+      "steps": [
+        {
+          "title": "Oyuncu Entegre Olur",
+          "desc": "Politika tarafından tetiklenen kimlik doğrulama"
+        },
+        {
+          "title": "Belgeler İncelenir",
+          "desc": "Operatör onaylar veya yeniden gönderim ister"
+        },
+        {
+          "title": "Limitler Uygulanır",
+          "desc": "Sorumlu oyun ayarları uygulanır"
+        },
+        {
+          "title": "Sürekli İzleme",
+          "desc": "Uyumluluk durumu Admin'de takip edilir"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/compliance.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "anti-fraud",
+        "payments",
+        "operator-backoffice"
+      ]
+    },
+    "operator-backoffice": {
+      "slug": "operator-backoffice",
+      "badge": "Admin",
+      "title": "Operatör Backoffice",
+      "heroH1": "Her Şey İçin Tek Kontrol Paneli",
+      "heroSub": "Oyuncuları, finansı, oyunları, sporu, bonusları, CRM'i, dolandırıcılık uyarılarını ve desteği tek güvenli kontrol panelinden yönetin.",
+      "heroImage": "/assets/images/backoffice.jpg",
+      "problemTitle": "Zorluk",
+      "problem": "Oyuncular, ödemeler, oyunlar ve destek için birden fazla admin aracını yönetmek operatörleri yavaşlatır ve hata oranlarını artırır.",
+      "solutionTitle": "Ascendra Çözümü",
+      "solution": "Ascendra Platforms Admin birleşik bir backoffice'tir — role dayalı erişim, gerçek zamanlı panolar ve her modül tek panelde.",
+      "capabilities": [
+        "Oyuncu yönetimi — profiller, limitler, KYC ve geçmiş",
+        "Finans — yatırımlar, çekimler, onaylar ve mutabakat",
+        "Oyun ve spor kataloğu yapılandırması",
+        "Bonus, CRM ve affiliate modül yönetimi",
+        "Dolandırıcılık uyarıları ve risk kararı denetim günlükleri",
+        "Canlı sohbet ve destek bileti yönetimi"
+      ],
+      "steps": [
+        {
+          "title": "Rol Girişi",
+          "desc": "Ekip üyesi başına RBAC kontrollü erişim"
+        },
+        {
+          "title": "Paneli İzle",
+          "desc": "KPI'lar, uyarılar ve bekleyen eylemler"
+        },
+        {
+          "title": "Eylem Al",
+          "desc": "Tek yerden onayla, yapılandır veya yanıtla"
+        },
+        {
+          "title": "Denetim İzi",
+          "desc": "Uyumluluk için kaydedilen her admin eylemi"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/backoffice.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "business-intelligence",
+        "anti-fraud",
+        "game-integrations"
+      ]
+    }
+  }
+}

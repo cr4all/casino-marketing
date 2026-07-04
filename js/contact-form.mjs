@@ -1,9 +1,70 @@
-const ENDPOINT = import.meta.env.VITE_CONTACT_ENDPOINT || "";
+import { t } from "./i18n.mjs";
 
-document.addEventListener("DOMContentLoaded", () => {
+const ENDPOINT = import.meta.env.VITE_CONTACT_ENDPOINT || "/api/contact";
+
+function msg(key) {
+  return t(key);
+}
+
+function getModal() {
+  return {
+    dialog: document.getElementById("contact-modal"),
+    icon: document.getElementById("contact-modal-icon"),
+    title: document.getElementById("contact-modal-title"),
+    message: document.getElementById("contact-modal-message"),
+    closeBtn: document.getElementById("contact-modal-close"),
+  };
+}
+
+function showModal({ title, message, variant = "success" }) {
+  const { dialog, icon, title: titleEl, message: messageEl, closeBtn } = getModal();
+  if (!dialog) return;
+
+  if (titleEl) titleEl.textContent = title;
+  if (messageEl) messageEl.textContent = message;
+  if (closeBtn) closeBtn.textContent = msg("contact.messages.close");
+  if (icon) icon.textContent = variant === "error" ? "!" : "✓";
+  dialog.dataset.variant = variant;
+
+  if (typeof dialog.showModal === "function") {
+    if (!dialog.open) dialog.showModal();
+  } else {
+    dialog.setAttribute("open", "");
+  }
+}
+
+function hideModal() {
+  const { dialog } = getModal();
+  if (!dialog) return;
+  if (typeof dialog.close === "function" && dialog.open) {
+    dialog.close();
+  } else {
+    dialog.removeAttribute("open");
+  }
+}
+
+function initContactForm() {
   const form = document.getElementById("contact-form");
-  const toast = document.getElementById("toast");
-  if (!form || !toast) return;
+  const modal = document.getElementById("contact-modal");
+  if (!form || !modal) return;
+
+  modal.addEventListener("click", (e) => {
+    const rect = modal.querySelector(".contact-modal__panel")?.getBoundingClientRect();
+    if (!rect) return;
+    const inPanel =
+      e.clientX >= rect.left &&
+      e.clientX <= rect.right &&
+      e.clientY >= rect.top &&
+      e.clientY <= rect.bottom;
+    if (!inPanel) hideModal();
+  });
+
+  modal.addEventListener("cancel", (e) => {
+    e.preventDefault();
+    hideModal();
+  });
+
+  document.getElementById("contact-modal-close")?.addEventListener("click", hideModal);
 
   form.addEventListener("submit", async (e) => {
     e.preventDefault();
@@ -16,38 +77,45 @@ document.addEventListener("DOMContentLoaded", () => {
     const originalText = submitBtn?.textContent;
     if (submitBtn) {
       submitBtn.disabled = true;
-      submitBtn.textContent = "Sending…";
+      submitBtn.textContent = msg("contact.messages.sending");
     }
 
     const payload = Object.fromEntries(new FormData(form).entries());
 
     try {
-      if (ENDPOINT) {
-        const res = await fetch(ENDPOINT, {
-          method: "POST",
-          headers: {
-            Accept: "application/json",
-            "Content-Type": "application/json",
-          },
-          body: JSON.stringify(payload),
-        });
-        if (!res.ok) throw new Error("Request failed");
-      }
+      const res = await fetch(ENDPOINT, {
+        method: "POST",
+        headers: {
+          Accept: "application/json",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok) throw new Error("Request failed");
 
-      toast.textContent = ENDPOINT
-        ? "Thank you! We'll be in touch within 24 hours."
-        : "Thank you! (Demo mode — set VITE_CONTACT_ENDPOINT to enable delivery.)";
-      toast.classList.add("show");
       form.reset();
+      showModal({
+        title: msg("contact.messages.successTitle"),
+        message: msg("contact.messages.success"),
+        variant: "success",
+      });
     } catch {
-      toast.textContent = "Something went wrong. Please email sales@ascendraplatforms.com";
-      toast.classList.add("show");
+      showModal({
+        title: msg("contact.messages.errorTitle"),
+        message: msg("contact.messages.error"),
+        variant: "error",
+      });
     } finally {
       if (submitBtn) {
         submitBtn.disabled = false;
-        submitBtn.textContent = originalText || "Submit Request";
+        submitBtn.textContent = originalText || msg("common.actions.submitRequest");
       }
-      setTimeout(() => toast.classList.remove("show"), 4500);
     }
   });
-});
+}
+
+if (document.readyState === "loading") {
+  document.addEventListener("DOMContentLoaded", initContactForm);
+} else {
+  initContactForm();
+}

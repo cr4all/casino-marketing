@@ -1,6 +1,7 @@
-import { FEATURES } from "./features-data.mjs";
+import { getFeatures, t } from "./i18n.mjs";
 
 function getSlug() {
+  const FEATURES = getFeatures();
   const fromBody = document.body.dataset.featureSlug;
   if (fromBody && FEATURES[fromBody]) return fromBody;
 
@@ -26,6 +27,7 @@ function featureHref(slug) {
 }
 
 function renderFeature(slug) {
+  const FEATURES = getFeatures();
   const f = FEATURES[slug];
   if (!f) {
     window.location.href = "/index.html";
@@ -74,4 +76,9 @@ function renderFeature(slug) {
     .join("");
 }
 
-document.addEventListener("DOMContentLoaded", () => renderFeature(getSlug()));
+function init() {
+  renderFeature(getSlug());
+}
+
+document.addEventListener("i18nready", init);
+window.addEventListener("localechange", init);

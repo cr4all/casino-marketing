@@ -31,7 +31,34 @@ cp .env.example .env
 npm run dev
 ```
 
-Opens at http://localhost:4321
+Opens at http://localhost:4321 (Vite) with the API on http://localhost:3001. Contact form submissions are proxied to `/api/contact`.
+
+## Admin platform (demo requests)
+
+Contact form submissions are stored in SQLite (`data/leads.db`) and viewable in the admin UI.
+
+| URL | Purpose |
+|-----|---------|
+| `/admin/login.html` | Admin sign-in |
+| `/admin/index.html` | Request list and detail |
+
+Configure `ADMIN_PASSWORD` and `ADMIN_SESSION_SECRET` in `.env`. The admin area is not linked from the public navigation.
+
+```bash
+# After editing .env
+npm run dev
+# Submit a test request at /contact.html, then open /admin/login.html
+```
+
+## Production (site + API)
+
+```bash
+npm run build
+set NODE_ENV=production   # PowerShell: $env:NODE_ENV="production"
+npm start
+```
+
+Serves `dist/` and the API from one Node process (default port `3001`, or set `API_PORT`). Requires **Node.js 18+**.
 
 ## Build
 
@@ -52,10 +79,12 @@ The `prebuild` script generates:
 
 | Variable | Description |
 |----------|-------------|
-| `VITE_CONTACT_ENDPOINT` | POST URL for contact form (Formspree, custom API) |
+| `VITE_CONTACT_ENDPOINT` | POST URL for contact form (default: `/api/contact`) |
 | `VITE_SITE_URL` | Canonical site URL for sitemap (default: `https://ascendraplatforms.com`) |
-
-Without `VITE_CONTACT_ENDPOINT`, the contact form shows success in demo mode only.
+| `ADMIN_PASSWORD` | Password for `/admin/login.html` |
+| `ADMIN_SESSION_SECRET` | Secret for signing admin session cookies |
+| `API_PORT` | API server port (default: `3001`) |
+| `NODE_ENV` | Set to `production` for `npm start` to serve `dist/` |
 
 ## Content policy
 
@@ -71,6 +100,9 @@ See [docs/14-white-label-marketing-site-plan.md](./docs/14-white-label-marketing
 
 ```
 casino-marketing/
+├── admin/             # Admin login + demo request dashboard
+├── server/            # Express API + SQLite
+├── data/              # SQLite DB (gitignored)
 ├── docs/                  # planning docs, Figma specs, HTML design prototype
 ├── index.html
 ├── contact.html

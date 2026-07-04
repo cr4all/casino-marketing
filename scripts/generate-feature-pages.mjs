@@ -36,12 +36,12 @@ for (const slug of Object.keys(FEATURES)) {
       `<title>${f.title} — Ascendra Platforms</title>\n  <meta name="description" content="${f.heroSub.replace(/"/g, "&quot;")}" />`
     )
     .replace(
-      '<script src="../js/site.js"></script>\n  <script src="../js/features-data.js"></script>\n  <script src="../js/feature-page.js"></script>',
-      '<script type="module" src="../js/feature-page.mjs"></script>\n  <script src="../js/home-ambient.js"></script>\n  <script src="../js/site.js"></script>'
+      '<script type="module" src="../js/feature-page.mjs"></script>\n  <script src="../js/home-ambient.js"></script>\n  <script src="../js/site.js"></script>',
+      '<script type="module" src="../js/i18n-init.mjs"></script>\n  <script type="module" src="../js/feature-page.mjs"></script>\n  <script src="../js/home-ambient.js"></script>\n  <script src="../js/site.js"></script>'
     )
     .replace(
-      '<script src="js/site.js"></script>\n  <script src="js/features-data.js"></script>\n  <script src="js/feature-page.js"></script>',
-      '<script type="module" src="../js/feature-page.mjs"></script>\n  <script src="../js/home-ambient.js"></script>\n  <script src="../js/site.js"></script>'
+      '<script type="module" src="js/feature-page.mjs"></script>\n  <script src="js/home-ambient.js"></script>\n  <script src="js/site.js"></script>',
+      '<script type="module" src="js/i18n-init.mjs"></script>\n  <script type="module" src="js/feature-page.mjs"></script>\n  <script src="js/home-ambient.js"></script>\n  <script src="js/site.js"></script>'
     );
 
   writeFileSync(resolve(featuresDir, `${slug}.html`), html);

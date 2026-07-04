@@ -17,6 +17,8 @@ const baseInputs = {
   terms: resolve(root, "terms.html"),
   "aml-policy": resolve(root, "aml-policy.html"),
   "responsible-gaming": resolve(root, "responsible-gaming.html"),
+  "admin-login": resolve(root, "admin/login.html"),
+  "admin-index": resolve(root, "admin/index.html"),
 };
 
 let featureInputs = {};
@@ -40,5 +42,11 @@ export default defineConfig({
   server: {
     port: 4321,
     open: "/index.html",
+    proxy: {
+      "/api": {
+        target: "http://localhost:3001",
+        changeOrigin: true,
+      },
+    },
   },
 });

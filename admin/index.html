@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Demo Requests — Ascendra Admin</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/site.css" />
+  <link rel="stylesheet" href="../css/admin.css" />
+</head>
+<body class="admin-page">
+  <header class="admin-header">
+    <div class="admin-shell admin-header-inner">
+      <div class="admin-brand">
+        <img class="logo-mark" src="/assets/logo-mark.svg" width="32" height="32" alt="" />
+        <div>
+          <h1>Demo Requests</h1>
+          <p class="admin-brand-sub">Contact form submissions</p>
+        </div>
+      </div>
+      <div class="admin-header-actions">
+        <a href="../contact.html" class="btn btn-secondary btn-sm">Contact Page</a>
+        <button type="button" class="btn btn-secondary btn-sm" id="logout-btn">Log out</button>
+      </div>
+    </div>
+  </header>
+
+  <main class="admin-main">
+    <div class="admin-shell">
+      <div class="admin-toolbar">
+        <div class="admin-filters">
+          <button type="button" class="admin-filter active" data-filter="new">New</button>
+          <button type="button" class="admin-filter" data-filter="all">All</button>
+        </div>
+        <p class="admin-count" id="leads-count" aria-live="polite"></p>
+      </div>
+
+      <div class="admin-layout">
+        <section class="admin-panel admin-panel--list">
+          <div class="admin-panel-head">
+            <h2>Requests</h2>
+          </div>
+          <div class="admin-table-wrap">
+            <table class="admin-table">
+              <thead>
+                <tr>
+                  <th>Submitted</th>
+                  <th>Company</th>
+                  <th>Contact</th>
+                  <th>Status</th>
+                </tr>
+              </thead>
+              <tbody id="leads-body"></tbody>
+            </table>
+            <div id="leads-empty" class="admin-empty" hidden>
+              <div class="admin-empty-icon admin-empty-icon--inbox" aria-hidden="true"></div>
+              <p>No requests yet.</p>
+            </div>
+          </div>
+        </section>
+
+        <aside class="admin-panel admin-panel--detail" id="lead-detail">
+          <div class="admin-detail-empty">
+            <div class="admin-empty-icon admin-empty-icon--select" aria-hidden="true"></div>
+            <p>Select a request to view details.</p>
+          </div>
+        </aside>
+      </div>
+    </div>
+  </main>
+
+  <div class="admin-detail-backdrop" id="detail-backdrop" hidden></div>
+
+  <script type="module" src="../js/admin.mjs"></script>
+</body>
+</html>

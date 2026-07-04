@@ -1,0 +1,1116 @@
+{
+  "lang": "sq",
+  "dir": "ltr",
+  "common": {
+    "brandTag": "Infrastrukturë iGaming",
+    "nav": {
+      "home": "Platforma",
+      "features": "Veçoritë",
+      "solutions": "Zgjidhjet",
+      "integrations": "Integrimet",
+      "pricing": "Çmimet",
+      "contact": "Burimet"
+    },
+    "actions": {
+      "contact": "Kontakt",
+      "requestDemo": "Kërko Demo",
+      "exploreFeatures": "Eksploro Veçoritë",
+      "learnMore": "Mëso më shumë →",
+      "contactSales": "Kontakto Shitjet",
+      "contactUs": "Na Kontaktoni",
+      "contactForQuote": "Kontakt për Ofertë",
+      "submitRequest": "Dërgo Kërkesën",
+      "becomeSuccess": "Bëhu Historia Jonë e Radhës e Suksesit"
+    },
+    "footer": {
+      "tagline": "Platformë iGaming e gatshme dhe white-label për operatorë kazino dhe sportive në mbarë botën.",
+      "platform": "Platforma",
+      "solutions": "Zgjidhjet",
+      "legal": "Ligjore",
+      "features": "Veçoritë",
+      "integrations": "Integrimet",
+      "operatorBackoffice": "Backoffice i Operatorit",
+      "turnkey": "Gati për Përdorim",
+      "whiteLabel": "White Label",
+      "prices": "Çmimet",
+      "contact": "Kontakt",
+      "privacy": "Privatësia",
+      "terms": "Kushtet",
+      "amlPolicy": "Politika AML",
+      "responsibleGaming": "Lojëra e Përgjegjshme",
+      "copyright": "© 2026 Ascendra Platforms. Të gjitha të drejtat e rezervuara."
+    },
+    "aria": {
+      "openMenu": "Hap menunë",
+      "mobileNav": "Navigim mobil",
+      "selectLanguage": "Zgjidh gjuhën"
+    },
+    "stats": {
+      "gameIntegrations": "Integrime Lojërash",
+      "paymentGateways": "Porta Pagesash",
+      "gamesAvailable": "Lojëra të Disponueshme",
+      "sportsbook": "Sportive",
+      "bonusTypes": "Lloje Bonusesh",
+      "full": "E plotë"
+    },
+    "cta": {
+      "readyTitle": "Gati të Lançohesh në Ascendra Platforms?",
+      "readySub": "Merr një demo të personalizuar dhe shiko platformën e plotë në veprim."
+    },
+    "badges": {
+      "popular": "Popullor",
+      "comingSoon": "Së shpejti",
+      "casinoSportsbook": "Kazino + Sportive"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Gati për Përdorim · White Label",
+      "title": "Lanço Markën Tënde iGaming në Ascendra Platforms",
+      "titleHighlight": "Ascendra Platforms",
+      "sub": "Softuer kazino dhe sportive gati për prodhim me 250+ integrime lojërash, 50+ porta pagesash, CRM i integruar, mbrojtje anti-mashtrim dhe motor bonus i plotë."
+    },
+    "kpi": {
+      "ggrToday": "GGR Sot",
+      "deposits": "Depozitat",
+      "activePlayers": "Lojtarë Aktivë"
+    },
+    "trust": {
+      "auditWallet": "Portofol i Gatshëm për Auditim",
+      "fullSportsbook": "Sportive e Plotë",
+      "antiFraud": "Sistemi Anti-Mashtrim",
+      "marketingCrm": "CRM Marketing"
+    },
+    "featuresSection": {
+      "title": "Gjithçka që Ju Duhet për të Operuar",
+      "sub": "Module enterprise të integruara në Ascendra Platforms — kazino, sportive, pagesa, CRM dhe më shumë."
+    },
+    "featureCards": [
+      {
+        "badge": "Lojëra",
+        "title": "250+ Integrime Lojërash",
+        "desc": "Slote, kazino live dhe lojëra tavoline nga Pragmatic Play, Evolution, SA Gaming dhe më shumë."
+      },
+      {
+        "badge": "Sport",
+        "title": "Sportive e Plotë",
+        "desc": "Baste para ndeshjes dhe live me baste të vetme, kombinuese dhe portofol të unifikuar."
+      },
+      {
+        "badge": "Portofol",
+        "title": "Portofol Transparent",
+        "desc": "Çdo transaksion regjistrohet për auditim, pajtim dhe qetësi mendore."
+      },
+      {
+        "badge": "Pagesa",
+        "title": "50+ Porta Pagesash",
+        "desc": "Kripto dhe fiat në mbarë botën me aprovim të sigurt të tërheqjeve."
+      },
+      {
+        "badge": "Bonus",
+        "title": "Motor Bonus i Plotë",
+        "desc": "Mirëseardhje, cashback, rrotullime falas, VIP — promocione kazino dhe sportive."
+      },
+      {
+        "badge": "CRM",
+        "title": "CRM Marketing",
+        "desc": "Segmento lojtarët, drejto fushatat dhe mat mbajtjen direkt në platformë."
+      },
+      {
+        "badge": "Affiliate",
+        "title": "Sistemi Affiliate",
+        "desc": "Modele CPA, RevShare, hibride me portal sub-affiliate."
+      },
+      {
+        "badge": "Analitikë",
+        "title": "Inteligjencë Biznesi",
+        "desc": "GGR, NGR dhe KPI ditore që ekipi juaj financiar mund t'i besojë."
+      },
+      {
+        "badge": "Siguri",
+        "title": "Sistemi Anti-Mashtrim",
+        "desc": "Mbrojtje në kohë reale për regjistrim, hyrje, depozita dhe tërheqje — skrining AML dhe zbatim i automatizuar."
+      },
+      {
+        "badge": "Pajtueshmëri",
+        "title": "Rrezik & Pajtueshmëri",
+        "desc": "Mjete lojëra të përgjegjshme, rrjedhë pune KYC dhe mbështetje për kornizat rregullatore."
+      },
+      {
+        "badge": "Admin",
+        "title": "Backoffice i Operatorit",
+        "desc": "Menaxho lojtarët, financat, lojërat, sportin, bonuset, CRM, alarmet e mashtrimit dhe mbështetjen në një panel."
+      }
+    ],
+    "flow": {
+      "title": "Si Funksionon Ascendra Platforms",
+      "sub": "Nga regjistrimi i lojtarit deri te shlyerja e bastit — një rrjedhë e qetë.",
+      "player": "Lojtari",
+      "platform": "Ascendra Platform",
+      "wallet": "Portofol",
+      "casinoSports": "Kazino & Sport"
+    },
+    "marquee": {
+      "vendors": "Furnizues Lojërash të Besuar",
+      "payments": "50+ Porta Pagesash — Kripto · Fiat · Bankë · E-wallet"
+    },
+    "brands": {
+      "title": "Marka të Fuqizuara nga Ascendra Platforms",
+      "sub": "Shiko si operatorët lançojnë dhe shkallëzojnë me zgjidhjen tonë të gatshme dhe white-label."
+    },
+    "compare": {
+      "title": "Zgjidh Zgjidhjen Tënde",
+      "sub": "Lançim i gatshëm ose personalizim i plotë white-label në Ascendra Platforms.",
+      "turnkey": {
+        "title": "Gati për Përdorim",
+        "items": [
+          "Stack i plotë — kazino + sportive",
+          "250+ integrime lojërash",
+          "50+ porta pagesash",
+          "Motor bonus, CRM & Sistemi Anti-Mashtrim",
+          "Mbështetje lançimi (4–8 javë)"
+        ]
+      },
+      "whiteLabel": {
+        "title": "White Label",
+        "items": [
+          "Gjithçka nga Gati për Përdorim",
+          "Domen, logo & temë të personalizuara",
+          "Faqe ligjore me markë",
+          "Operim multi-markë",
+          "SLA Enterprise"
+        ]
+      }
+    }
+  },
+  "contact": {
+    "hero": {
+      "badge": "Fillo Tani",
+      "title": "Kërko një Demo",
+      "sub": "Na tregoni për projektin tuaj dhe ekipi ynë do të planifikojë një prezantim të personalizuar të Ascendra Platforms — kazino, sportive, pagesa, CRM dhe më shumë."
+    },
+    "form": {
+      "company": "Emri i Kompanisë",
+      "firstName": "Emri",
+      "lastName": "Mbiemri",
+      "email": "Email i Punës",
+      "country": "Vendi / Rajoni",
+      "solution": "Lloji i Zgjidhjes",
+      "launch": "Lançimi i Pritur",
+      "message": "Mesazhi",
+      "placeholders": {
+        "company": "Emri i kompanisë ose markës suaj",
+        "firstName": "Arben",
+        "lastName": "Hoxha",
+        "email": "you@company.com",
+        "message": "Na tregoni për tregun tuaj të synuar, vëllimin e pritur të lojtarëve ose kërkesat specifike…"
+      },
+      "countries": {
+        "placeholder": "Zgjidh rajonin tënd",
+        "na": "Amerika e Veriut",
+        "eu": "Evropa",
+        "latam": "Amerika Latine",
+        "asia": "Azia-Pacifik",
+        "mea": "Lindja e Mesme & Afrika",
+        "other": "Tjetër"
+      },
+      "solutions": {
+        "placeholder": "Zgjidh zgjidhjen",
+        "turnkey": "Gati për Përdorim",
+        "whiteLabel": "White Label",
+        "integration": "Vetëm Integrim"
+      },
+      "launchOptions": {
+        "notSure": "Nuk jam i sigurt ende",
+        "m1_3": "1–3 muaj",
+        "m3_6": "3–6 muaj",
+        "m6_12": "6–12 muaj",
+        "m12plus": "12+ muaj"
+      },
+      "consent": "Pajtohem që Ascendra Platforms të përpunojë të dhënat e mia për t'iu përgjigjur kësaj kërkese. Shiko <a href=\"privacy.html\">Politikën e Privatësisë</a>."
+    },
+    "sidebar": {
+      "responseBadge": "✓ Përgjigje tipike brenda 24 orëve",
+      "talkTitle": "Flisni me Ekipin Tonë",
+      "talkSub": "Qoftë duke lançuar një markë të re apo duke migruar nga një platformë tjetër, do ta përshtasim demon sipas rastit tuaj.",
+      "seeTitle": "Çfarë do të Shihni",
+      "seeItems": [
+        "250+ integrime lojërash dhe katalog furnizuesish",
+        "Sportive e plotë — para ndeshjes dhe live",
+        "50+ porta pagesash dhe libër portofoli",
+        "Motor bonus, CRM dhe Sistemi Anti-Mashtrim",
+        "Prezantim i backoffice-it të operatorit"
+      ]
+    },
+    "messages": {
+      "sending": "Duke dërguar…",
+      "success": "Faleminderit! Do të jemi në kontakt brenda 24 orëve.",
+      "successDemo": "Faleminderit! (Modalitet demo — vendos VITE_CONTACT_ENDPOINT për të aktivizuar dërgesën.)",
+      "error": "Diçka shkoi keq. Ju lutem dërgoni email në sales@ascendraplatforms.com"
+    }
+  },
+  "pricing": {
+    "hero": {
+      "badge": "Plane Fleksibël",
+      "title": "Plane të Ndërtuara për Çdo Fazë",
+      "sub": "Nga lançimi i parë deri te enterprise multi-markë — zgjidh paketën Ascendra Platforms që i përshtatet operimit tuaj. Oferta të personalizuara për çdo nivel."
+    },
+    "tiers": {
+      "starter": {
+        "tier": "Starter",
+        "name": "Lançim",
+        "target": "Operatorë me markë të vetme që hyjnë në treg",
+        "price": "Kontakt për ofertë",
+        "items": [
+          "Platforma bazë — kazino + sportive",
+          "250+ integrime lojërash",
+          "Portofol transparent & pagesa",
+          "Motor bonus bazë",
+          "Backoffice i operatorit",
+          "Mbështetje standarde"
+        ]
+      },
+      "growth": {
+        "tier": "Professional",
+        "name": "Rritje",
+        "target": "Marka në rritje që shkallëzojnë fitimin e lojtarëve",
+        "price": "Kontakt për ofertë",
+        "items": [
+          "Gjithçka nga Starter",
+          "CRM Marketing & fushata",
+          "Suite e plotë e motorit bonus",
+          "Sistemi affiliate & portal partnerësh",
+          "Sistemi Anti-Mashtrim",
+          "Panele inteligjence biznesi",
+          "Mbështetje prioritare"
+        ]
+      },
+      "enterprise": {
+        "tier": "Enterprise",
+        "name": "White Label",
+        "target": "Operatorë multi-markë & partnerë white-label",
+        "price": "Kontakt për ofertë",
+        "items": [
+          "Gjithçka nga Professional",
+          "Domen, logo & temë të personalizuara",
+          "Faqe ligjore me markë",
+          "Operim multi-markë",
+          "Llogari të dedikuara operatorësh",
+          "SLA Enterprise",
+          "Menaxher llogarie i dedikuar"
+        ]
+      }
+    },
+    "note": "Të gjitha planet përfshijnë 50+ porta pagesash, mjete rreziku & pajtueshmërie dhe mbështetje lançimi. Çmimet përshtaten sipas tregut, vëllimit dhe kërkesave të integrimit — pa tarifa të fshehura në faqen publike.",
+    "compare": {
+      "title": "Gati për Përdorim vs White Label",
+      "sub": "Nuk jeni të sigurt se cila paketë përshtatet? Ja një krahasim i shpejtë.",
+      "turnkey": {
+        "title": "Gati për Përdorim",
+        "desc": "Lanço shpejt me infrastrukturën Ascendra Platforms — kazino, sportive, pagesa dhe backoffice të plotë. Ideale kur duhet të jesh live brenda javëve me teknologji të provuar.",
+        "items": [
+          "Mbështetje lançimi 4–8 javë",
+          "Stack i plotë modulesh i përfshirë",
+          "Trajnim për operatorët"
+        ]
+      },
+      "whiteLabel": {
+        "title": "White Label",
+        "desc": "Gjithçka nga Gati për Përdorim plus personalizim i plotë i markës — logoja, domeni, tema dhe faqet ligjore. Drejto shumë marka nga një platformë me SLA Enterprise.",
+        "items": [
+          "Branding & domen i personalizuar",
+          "Admin multi-markë",
+          "Opsione SLA Enterprise"
+        ]
+      }
+    },
+    "cta": {
+      "title": "Merr një Ofertë të Personalizuar",
+      "sub": "Na tregoni për tregun tuaj të synuar dhe do të rekomandojmë planin e duhur."
+    }
+  },
+  "integrations": {
+    "hero": {
+      "badge": "Lidh Gjithçka",
+      "title": "250+ Integrime Lojërash · 50+ Porta Pagesash",
+      "sub": "Studio kryesore lojërash dhe metoda globale pagesash — të lidhura në një platformë. Lanço me furnizuesit dhe llojet e pagesave që lojtarët tuaj presin."
+    },
+    "vendors": {
+      "title": "Furnizues Lojërash të Besuar",
+      "sub": "Logo studiosh nga slote, kazino live dhe lojëra tavoline — pa marka agregatorësh, vetëm furnizuesit që lojtarët tuaj i njohin.",
+      "tabs": {
+        "slots": "Slote",
+        "live": "Kazino Live",
+        "table": "Lojëra Tavoline"
+      }
+    },
+    "payments": {
+      "title": "Llojet e Pagesave",
+      "sub": "50+ porta në kripto, fiat, bankë dhe e-wallet — të konfiguruara për markë dhe rajon.",
+      "crypto": {
+        "title": "Kripto",
+        "desc": "Depozita të menjëhershme dhe tërheqje të shpejta për lojtarë kripto-nativë në mbarë botën."
+      },
+      "fiat": {
+        "title": "Fiat & Rajonal",
+        "desc": "Karta dhe metoda pagesash rajonale për mbulim të tregut lokal."
+      },
+      "bank": {
+        "title": "Transfer Bankar",
+        "desc": "Depozita direkte bankare dhe rrjedha tërheqjeje të aprovuara nga operatori."
+      },
+      "ewallet": {
+        "title": "Portofol elektronik",
+        "desc": "Portofolë dixhitalë popullorë për depozita pa pengesa në të gjitha rajonet."
+      }
+    },
+    "cta": {
+      "title": "Keni Nevojë për një Furnizues ose Metodë Pagese Specifike?",
+      "sub": "Na tregoni tregun tuaj të synuar — do të konfirmojmë disponueshmërinë dhe afatin e integrimit."
+    }
+  },
+  "feature": {
+    "breadcrumb": {
+      "home": "Kryefaqja",
+      "features": "Veçoritë"
+    },
+    "shell": {
+      "problemDefault": "Sfidat",
+      "solutionDefault": "Zgjidhja Ascendra",
+      "capabilitiesTitle": "Aftësitë Kryesore",
+      "capabilitiesSub": "Gjithçka e përfshirë në Ascendra Platforms — gati për lançimin tuaj.",
+      "howTitle": "Si Funksionon",
+      "howSub": "Një rrjedhë e qetë nga veprimi i lojtarit deri te njohuria e operatorit.",
+      "seeTitle": "Shiheni në Veprim",
+      "seeSub": "Përvoja e lojtarit dhe kontrolli i operatorit — krah për krah.",
+      "playerExperience": "Përvoja e Lojtarit",
+      "operatorAdmin": "Admin i Operatorit",
+      "relatedTitle": "Veçori të Lidhura",
+      "relatedSub": "Eksploro më shumë module të integruara në Ascendra Platforms."
+    }
+  },
+  "legal": {
+    "nav": {
+      "privacy": "Politika e Privatësisë",
+      "terms": "Kushtet e Shërbimit",
+      "aml": "Politika AML",
+      "responsible": "Lojëra e Përgjegjshme"
+    },
+    "privacy": {
+      "title": "Politika e Privatësisë",
+      "sub": "Si Ascendra Platforms mbledh, përdor dhe mbron informacionin në këtë faqe interneti dhe përmes kërkesave për demo.",
+      "updated": "Përditësuar së fundmi: 3 korrik 2026",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Përditësuar së fundmi: 3 korrik 2026"
+        },
+        {
+          "type": "section",
+          "heading": "1. Hyrje",
+          "html": "<p>Ascendra Platforms (\"ne\", \"na\", \"tonë\") operon këtë faqe interneti marketing B2B për të ofruar informacion rreth platformës sonë iGaming të gatshme dhe white-label. Kjo Politikë e Privatësisë shpjegon si i trajtojmë të dhënat personale kur vizitoni faqen tonë ose dërgoni një kërkesë demo ose kontakti.</p>\r\n      <p>Kjo politikë vlen për <strong>ascendraplatforms.com</strong> dhe pronat e lidhura marketing. Ajo nuk rregullon faqet e operatorëve të orientuara nga lojtarët që fuqizohen nga platforma jonë — ato kontrollohen nga politikat e privatësisë së secilit operator.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Informacioni që Mbledhim",
+          "html": "<p>Mund të mbledhim sa vijon kur ndërveproni me faqen tonë:</p>\r\n      <ul>\r\n        <li><strong>Detaje kontakti dhe biznesi</strong> — emri i kompanisë, emri i kontaktit, email i punës, vendi ose rajoni dhe përmbajtja e mesazhit kur dërgoni një formular demo ose kërkese.</li>\r\n        <li><strong>Preferencat e zgjidhjes</strong> — lloji i zgjidhjes (Gati për Përdorim, White Label, Integrim) dhe afati i pritur i lançimit nëse jepet.</li>\r\n        <li><strong>Të dhëna teknike</strong> — adresa IP, lloji i shfletuesit, informacioni i pajisjes, faqet e vizituara dhe burimi i referimit të mbledhur përmes analitikës standarde dhe regjistrave të serverit.</li>\r\n        <li><strong>Komunikimet</strong> — regjistrat e korrespondencës me email ose takime pas kërkesës suaj.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Si i Përdorim Informacionet Tuaja",
+          "html": "<p>Informacionet e mbledhura i përdorim për të:</p>\r\n      <ul>\r\n        <li>Përgjigjur kërkesave për demo, kërkesave shitjesh dhe pyetjeve të mbështetjes.</li>\r\n        <li>Ofruar informacion produkti relevant për nevojat e biznesit tuaj.</li>\r\n        <li>Përmirësuar faqen tonë, përmbajtjen dhe përvojën e përdoruesit.</li>\r\n        <li>Përmbushur detyrimet ligjore dhe mbrojtur kundër mashtrimit ose keqpërdorimit.</li>\r\n        <li>Dërguar komunikime pasuese të lidhura me kërkesën tuaj, ku lejohet.</li>\r\n      </ul>\r\n      <p>Ne nuk shesim të dhënat tuaja personale palëve të treta.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Baza Ligjore (GDPR)",
+          "html": "<p>Ku zbatohet sipas Rregullores së Përgjithshme mbi Mbrojtjen e të Dhënave (GDPR), ne përpunojmë të dhëna personale bazuar në:</p>\r\n      <ul>\r\n        <li><strong>Pëlqimin</strong> — kur dërgoni një formular dhe pajtoheni me këtë politikë.</li>\r\n        <li><strong>Interesat legjitime</strong> — për t'iu përgjigjur kërkesave B2B dhe për të operuar faqen tonë marketing.</li>\r\n        <li><strong>Nevojën kontraktuale</strong> — kur përpunimi kërkohet për të vlerësuar ose ofruar shërbimet që kërkoni.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Ndarja e të Dhënave",
+          "html": "<p>Mund të ndajmë informacion me ofrues shërbimesh të besuar që ndihmojnë me hosting, analitikë, dërgesë emaili ose CRM — vetëm për të operuar biznesin tonë dhe nën detyrime të përshtatshme konfidencialiteti. Mund të zbulojmë informacion edhe nëse kërkohet nga ligji ose për të mbrojtur të drejtat dhe sigurinë tonë.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Ruajtja e të Dhënave",
+          "html": "<p>Ne ruajmë regjistrat e kërkesave dhe kontakteve për aq kohë sa është e nevojshme për të përmbushur qëllimet e përshkruara në këtë politikë, menaxhuar marrëdhëniet e vazhdueshme të biznesit dhe përmbushur kërkesat ligjore të ruajtjes… Mund të kërkoni fshirjen ku ligji i zbatueshëm e lejon.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Të Drejtat Tuaja",
+          "html": "<p>Në varësi të vendndodhjes suaj, mund të keni të drejta për të hyrë, korrigjuar, fshirë, kufizuar ose kundërshtuar përpunimin e të dhënave tuaja personale, si dhe për portabilitetin e të dhënave. Për të ushtruar këto të drejta, na kontaktoni në <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a>.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "8. Cookies dhe Analitikë",
+          "html": "<p>Mund të përdorim cookies dhe teknologji të ngjashme për të analizuar trafikun e faqes dhe përmirësuar performancën. Cookies mund t'i kontrolloni përmes cilësimeve të shfletuesit tuaj. Cookies thelbësore të nevojshme për funksionalitetin e faqes nuk mund të çaktivizohen.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "9. Transferime Ndërkombëtare",
+          "html": "<p>Informacioni juaj mund të përpunohet në vende të tjera nga ai juaji. Ku kërkohet, ne zbatojmë mbrojtje të përshtatshme për transferimet e të dhënave ndërkufitare.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "10. Kontakt",
+          "html": "<p>Për pyetje ose kërkesa të lidhura me privatësinë, kontaktoni: <a href=\"mailto:privacy@ascendraplatforms.com\">privacy@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "terms": {
+      "title": "Kushtet e Shërbimit",
+      "sub": "Kushtet që rregullojnë përdorimin e faqes marketing të Ascendra Platforms dhe shërbimeve të kërkesave për demo.",
+      "updated": "Përditësuar së fundmi: 3 korrik 2026",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Përditësuar së fundmi: 3 korrik 2026"
+        },
+        {
+          "type": "section",
+          "heading": "1. Pranimi i Kushteve",
+          "html": "<p>Duke hyrë ose përdorur faqen marketing të Ascendra Platforms (\"Faqja\"), ju pranoni këto Kushte të Shërbimit. Nëse nuk pajtoheni, ju lutem mos e përdorni Faqen.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Rreth Shërbimeve Tona",
+          "html": "<p>Ascendra Platforms ofron softuer iGaming B2B të gatshëm dhe white-label për operatorë kazino dhe sportive. Përmbajtja në këtë Faqe është vetëm për qëllime informuese dhe kërkese tregtare. Asgjë në Faqe nuk përbën ofertë të detyrueshme, licencë ose marrëveshje shërbimi.</p>\r\n      <p>Marrëveshjet formale të platformës, SLA-të dhe kushtet tregtare lidhen veçmas me shkrim midis Ascendra Platforms dhe operatorëve të licencuar.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Përdorimi i Lejuar",
+          "html": "<p>Mund ta përdorni Faqen për të mësuar rreth platformës sonë, kërkuar demo dhe kontaktuar ekipin tonë të shitjeve. Ju pranoni të mos:</p>\r\n      <ul>\r\n        <li>Përdorni Faqen për qëllime të paligjshme ose në shkelje të rregulloreve të zbatueshme.</li>\r\n        <li>Tentoni të fitoni qasje të paautorizuar në sistemet, të dhënat ose rrjetet tona.</li>\r\n        <li>Scraponi, kopjoni ose rishpërndani përmbajtjen e Faqes pa leje me shkrim.</li>\r\n        <li>Keqparaqitni identitetin, përkatësinë ose statusin e licencës kur dërgoni kërkesa.</li>\r\n        <li>Introdukt malware ose ndërhyni në disponueshmërinë ose sigurinë e Faqes.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Prona Intelektuale",
+          "html": "<p>E gjithë përmbajtja në këtë Faqe — duke përfshirë tekstin, grafikët, logot, përshkrimet e produkteve dhe dizajnin — është e Ascendra Platforms ose licencuesve të saj dhe mbrohet nga ligjet e pronës intelektuale. Nuk mund të riprodhoni, shpërndani ose krijoni vepra derivative pa pëlqim paraprak me shkrim.</p>\r\n      <p>Emrat dhe logot e furnizuesve të lojërave të palëve të treta të shfaqura për ilustrim janë marka tregtare të pronarëve përkatës.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Kërkesat për Demo dhe Shitje",
+          "html": "<p>Kërkesat për demo dhe dërgesat e kontaktit nuk garantojnë disponueshmërinë e produktit, çmimet ose angazhim kontraktual. Ne rezervojmë të drejtën të refuzojmë kërkesa që nuk plotësojnë kriteret tona tregtare, rregullatore ose të pajtueshmërisë.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Mohimi i Garancive",
+          "html": "<p>Faqja dhe përmbajtja e saj ofrohen \"siç janë\" pa garanci të çdo lloji, të shprehura ose të nënkuptuara. Ne nuk garantojmë që Faqja do të jetë e pandërprerë, pa gabime ose pa komponentë të dëmshëm. Aftësitë e produktit të përshkruara në Faqe mund të ndryshojnë sipas vendosjes dhe juridiksionit.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Kufizimi i Përgjegjësisë",
+          "html": "<p>Në masën më të plotë të lejuar nga ligji, Ascendra Platforms nuk do të jetë përgjegjëse për dëme indirekte, të rastësishme, speciale ose pasoje që rrjedhin nga përdorimi juaj i Faqes. Përgjegjësia jonë totale për pretendimet e lidhura me Faqen nuk do të kalojë njëqind dollarë amerikanë (USD 100).</p>"
+        },
+        {
+          "type": "section",
+          "heading": "8. Njoftim Rregullator",
+          "html": "<p>Operacionet iGaming i nënshtrohen licencimit dhe rregullimit në çdo juridiksion. Operatorët që përdorin Ascendra Platforms janë vetëm përgjegjës për marrjen dhe mbajtjen e licencave të vlefshme dhe përputhjen me ligjet lokale. Ne nuk ofrojmë këshilla ligjore rreth hyrjes në treg ose licencimit.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "9. Lidhje me Palë të Treta",
+          "html": "<p>Faqja mund të përmbajë lidhje me faqe interneti të palëve të treta. Ne nuk jemi përgjegjës për përmbajtjen, praktikat e privatësisë ose politikat e faqeve të jashtme.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "10. Ndryshime në Kushtet",
+          "html": "<p>Mund t'i përditësojmë këto Kushte në çdo kohë. Përdorimi i vazhdueshëm i Faqes pas publikimit të ndryshimeve përbën pranimin e Kushteve të rishikuara. Data \"Përditësuar së fundmi\" në krye tregon rishikimin më të fundit.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "11. Ligji Zbatues",
+          "html": "<p>Këto Kushte rregullohen nga ligjet e specifikuara në marrëveshjen tuaj master të shërbimit, ose ndryshe siç rënohet me shkrim. Për mosmarrëveshje vetëm të faqes pa marrëveshje të veçantë, mosmarrëveshjet zgjidhen sipas ligjit të zbatueshëm në vendndodhjen tonë kryesore të biznesit.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "12. Kontakt",
+          "html": "<p>Pyetje rreth këtyre Kushteve: <a href=\"mailto:legal@ascendraplatforms.com\">legal@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "aml": {
+      "title": "Politika AML",
+      "sub": "Parimet kundër pastrimit të parave dhe qasja e pajtueshmërisë për shërbimet B2B të Ascendra Platforms.",
+      "updated": "Përditësuar së fundmi: 3 korrik 2026",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Përditësuar së fundmi: 3 korrik 2026"
+        },
+        {
+          "type": "section",
+          "heading": "1. Deklarata e Politikës",
+          "html": "<p>Ascendra Platforms është e angazhuar për të parandaluar pastrimin e parave, financimin e terrorizmit dhe krimet e tjera financiare. Ne e projektojmë platformën tonë me mjete që ndihmojnë operatorët e licencuar të përmbushin detyrimet e tyre AML, dhe zbatojmë due diligence në marrëdhëniet tona tregtare B2B.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Aftësitë AML të Platformës",
+          "html": "<p>Operatorët që vendosin Ascendra Platforms kanë qasje në veçori të integruara pajtueshmërie, duke përfshirë:</p>\r\n      <ul>\r\n        <li>Mbledhje dokumentesh Know Your Customer (KYC) dhe rrjedha pune verifikimi.</li>\r\n        <li>Sistemi Anti-Mashtrim me skrining listash bllokimi AML në regjistrim dhe transaksione.</li>\r\n        <li>Porta rreziku para tërheqjes dhe mbajtje automatike për pagesa me rrezik të lartë.</li>\r\n        <li>Gjurmë auditimi për vendimet e rrezikut, statusin e verifikimit të lojtarit dhe veprimet e adminit.</li>\r\n        <li>Kufij të konfigurueshëm depozitash, tërheqjesh dhe bastesh.</li>\r\n        <li>Histori transaksionesh lojtarësh dhe raporte për shqyrtim aktiviteti të dyshimtë.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Përgjegjësitë e Operatorëve",
+          "html": "<p>Operatorët e licencuar mbeten përfundimisht përgjegjës për pajtueshmërinë AML në juridiksionet e tyre. Operatorët duhet të:</p>\r\n      <ul>\r\n        <li>Mbajnë licenca të vlefshme lojërash dhe shërbimesh financiare ku kërkohet.</li>\r\n        <li>Zbatojnë dhe zbatojnë politika KYC dhe due diligence të thelluar të përshtatshme për tregun e tyre.</li>\r\n        <li>Paraqesin raporte aktiviteti të dyshimtë (SAR) ose zbulime ekuivalente te autoritetet përkatëse.</li>\r\n        <li>Trajnojnë stafin mbi procedurat AML dhe mjetet e platformës.</li>\r\n        <li>Mbajnë faqet e politikës AML me markë të përditësuara për faqet e tyre të orientuara nga lojtarët.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Kujdesi i Duetshëm B2B",
+          "html": "<p>Para lidhjes së marrëveshjeve tregtare, Ascendra Platforms mund të kryejë due diligence mbi partnerët potencialë operatorë, duke përfshirë verifikimin e identitetit, statusin e licencës, pronësinë përfituese dhe vlerësimin e rrezikut të juridiksionit. Ne rezervojmë të drejtën të refuzojmë ose të ndërpresim marrëdhëniet që paraqesin rrezik të papranueshëm AML ose rregullator.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Sanksionet dhe Listat e Bllokimit",
+          "html": "<p>Sistemi ynë Anti-Mashtrim mbështet skrining kundër sanksioneve dhe listave bllokimi të zbatueshme. Operatorët konfigurojnë politika zbatimi të harmonizuara me kërkesat e tyre rregullatore… Rezultatet e skriningut mund të rezultojnë në bllokime llogarish, mbajtje transaksionesh ose kërkesa verifikimi të thelluar…</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Ruajtja e Regjistrave",
+          "html": "<p>Platforma mban regjistra transaksionesh dhe auditimi për të mbështetur programet e pajtueshmërisë së operatorëve. Periudhat e ruajtjes duhet të konfigurohen nga operatorët në përputhje me ligjin e zbatueshëm.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "7. Raportimi i Shqetësimeve",
+          "html": "<p>Për të raportuar shqetësime të lidhura me AML rreth operacioneve B2B të Ascendra Platforms, kontaktoni: <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a></p>"
+        }
+      ]
+    },
+    "responsible": {
+      "title": "Lojëra e Përgjegjshme",
+      "sub": "Angazhimi ynë për mjete lojëra të përgjegjshme dhe mbështetje pajtueshmërie për operatorët.",
+      "updated": "Përditësuar së fundmi: 3 korrik 2026",
+      "sections": [
+        {
+          "type": "updated",
+          "html": "Përditësuar së fundmi: 3 korrik 2026"
+        },
+        {
+          "type": "section",
+          "heading": "1. Angazhimi Ynë",
+          "html": "<p>Ascendra Platforms beson se operatorët iGaming kanë detyrimin të mbrojnë lojtarët. Platforma jonë përfshin mjete lojëra të përgjegjshme (RG) që operatorët mund t'i konfigurojnë dhe zbatojnë në produktet kazino dhe sportive.</p>\r\n      <p>Kjo faqe përshkruan aftësitë e platformës. Politikat e lojërave të përgjegjshme të orientuara nga lojtarët publikohen nga secili operator i licencuar në faqet e veta me markë.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "2. Mjetet e Platformës për Operatorët",
+          "html": "<p>Ascendra Platforms u ofron operatorëve veçoritë e mëposhtme mbrojtjeje të lojtarëve:</p>\r\n      <ul>\r\n        <li><strong>Kufij depozitash</strong> — kufij ditore, javore dhe mujore të vendosur nga lojtarët ose të zbatuar nga operatorët.</li>\r\n        <li><strong>Kufij humbjeje dhe bastesh</strong> — kontrolle mbi humbjet maksimale ose shumat e bastit gjatë periudhave të përcaktuara.</li>\r\n        <li><strong>Kufij seance</strong> — kujtesa dhe dalje automatike pas kohëzgjatjes së konfiguruar të lojës.</li>\r\n        <li><strong>Periudha qetësimi</strong> — kufizime të përkohshme llogarie të zgjedhura nga lojtari.</li>\r\n        <li><strong>Vetë-përjashtim</strong> — mbyllje e zgjatur e llogarisë për lojtarët që kanë nevojë për pushim nga lojërat e fatit.</li>\r\n        <li><strong>Kontrolle realiteti</strong> — njoftime periodike që tregojnë kohën e kaluar dhe pozicionin neto.</li>\r\n        <li><strong>Parandalimi i të miturve</strong> — verifikim moshe i integruar me rrjedhat e punës KYC.</li>\r\n        <li><strong>Kufij sportive</strong> — kufij bastesh në nivel tregu dhe lojtari.</li>\r\n      </ul>"
+        },
+        {
+          "type": "section",
+          "heading": "3. Kontrollet Admin të Operatorit",
+          "html": "<p>Operatorët menaxhojnë cilësimet e lojërave të përgjegjshme përmes backoffice-it të Ascendra Platforms — duke aplikuar kufij për lojtar, segment ose juridiksion, dhe duke shqyrtuar llogaritë e shënuara për sjellje problematike përmes monitorimit të integruar të rrezikut dhe mashtrimit.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "4. Mbështetja e Lojtarëve",
+          "html": "<p>Operatorët mund të ofrojnë mbështetje në platformë përmes chat-it live dhe biletave, duke drejtuar lojtarët te organizata profesionale ndihmëse ku është e përshtatshme. Ascendra Platforms u mundëson operatorëve të shfaqin informacion lojëra të përgjegjshme dhe lidhje linjash ndihmëse në faqet e orientuara nga lojtarët.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "5. Trajnimi dhe Praktikat më të Mira",
+          "html": "<p>Ne rekomandojmë operatorët të trajnojnë ekipet e mbështetjes dhe pajtueshmërisë mbi procedurat e lojërave të përgjegjshme, të monitorojnë treguesit e sjelljes së lojtarëve dhe të harmonizojnë politikat RG me kërkesat… në çdo treg të licencuar.</p>"
+        },
+        {
+          "type": "section",
+          "heading": "6. Merr Ndihmë",
+          "html": "<p>Nëse jeni lojtar që kërkon mbështetje, ju lutem kontaktoni operatorin e faqes ku luani. Nëse jeni operator që vlerëson aftësitë e lojërave të përgjegjshme të Ascendra Platforms, <a href=\"contact.html\">kërkoni një demo</a> ose dërgoni email në <a href=\"mailto:compliance@ascendraplatforms.com\">compliance@ascendraplatforms.com</a>.</p>"
+        }
+      ]
+    }
+  },
+  "features": {
+    "game-integrations": {
+      "slug": "game-integrations",
+      "badge": "Lojëra",
+      "title": "250+ Integrime Lojërash",
+      "heroH1": "Një Platformë, 250+ Integrime",
+      "heroSub": "Lidhu me studio kryesore lojërash — slote, kazino live dhe lojëra tavoline nga Pragmatic Play, Evolution, SA Gaming dhe më shumë në Ascendra Platforms.",
+      "heroImage": "/assets/images/gates-of-olympus.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Operatorët humbasin muaj duke negociuar kontrata individuale furnizuesish dhe menaxhuar katalogë lojërash të fragmentuara nëpër shumë sisteme.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms ofron një katalog lojërash të unifikuar me 250+ integrime — një portofol, një backoffice dhe lojë e qetë në çdo kategori kryesore.",
+      "capabilities": [
+        "Tituj kryesorë furnizuesish nga Pragmatic Play, Evolution, SA Gaming, PG Soft dhe më shumë",
+        "Menaxhim i plotë i katalogut — aktivizo, çaktivizo dhe organizo lojërat nga Admin",
+        "Lojë e qetë me përditësime të menjëhershme të balancës në kazino dhe sportive",
+        "Kazino live, slote, lojëra tavoline dhe lojëra crash në një shtresë integrimi",
+        "10.000+ lojëra të disponueshme pa rindërtuar përvojën e lojtarit",
+        "Onboarding i furnizuesve të rinj pa ndërprerë operacionet live"
+      ],
+      "steps": [
+        {
+          "title": "Shfleto Katalogun",
+          "desc": "Operatori zgjedh lojëra dhe kategori në Admin"
+        },
+        {
+          "title": "Lojtari Lançon",
+          "desc": "Loja hapet në lojtar me portofol të unifikuar"
+        },
+        {
+          "title": "Bast & Shlyerje",
+          "desc": "Çdo raund regjistrohet në libër transparent"
+        },
+        {
+          "title": "Raport & Pajtim",
+          "desc": "GGR dhe statistika furnizuesish në panele në kohë reale"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/casino-sports.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "bonus-engine",
+        "operator-backoffice"
+      ]
+    },
+    "sportsbook": {
+      "slug": "sportsbook",
+      "badge": "Sport",
+      "title": "Sportive e Plotë",
+      "heroH1": "Sportive e Plotë, e Integruar",
+      "heroSub": "Baste para ndeshjes dhe live në sporte kryesore — baste të vetme, kombinuese dhe sistemi në një portofol të unifikuar me kazinon tuaj.",
+      "heroImage": "/assets/images/sports.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Drejtimi i kazinos dhe sportit në platforma të ndara ndan portofolin tuaj, dyfishon punën e integrimit dhe frustron lojtarët që duan një llogari.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms përfshin sportive të plotë — para ndeshjes, live dhe in-play — të integruar natyrshëm me portofolin e kazinos dhe motorin bonus.",
+      "capabilities": [
+        "Baste para ndeshjes dhe live in-play me koeficientë në kohë reale",
+        "Mbulim multi-sport — futboll, basketboll, tenis, eSports dhe më shumë",
+        "Baste të vetme, kombinuese, akumuluese dhe sistemi",
+        "Portofol i unifikuar me kazinon — një balancë, një histori",
+        "Bonus specifik sportiv, baste falas dhe rritje koeficientësh",
+        "Histori e plotë bastesh, shlyerje dhe kufij bastesh të përgjegjshme"
+      ],
+      "steps": [
+        {
+          "title": "Zgjidh Ngjarjen",
+          "desc": "Lojtari shfleton tregjet para ndeshjes ose live"
+        },
+        {
+          "title": "Ndërto Fletë Bastesh",
+          "desc": "Baste të vetme, kombinuese ose sistemi"
+        },
+        {
+          "title": "Vendos & Shlyej",
+          "desc": "Portofoli debitohet; fitimet kreditohen menjëherë"
+        },
+        {
+          "title": "Ndjek & Raporto",
+          "desc": "Operatori monitoron ekspozimin dhe GGR në Admin"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/sports.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "bonus-engine",
+        "business-intelligence"
+      ]
+    },
+    "wallet": {
+      "slug": "wallet",
+      "badge": "Portofol",
+      "title": "Portofol Transparent",
+      "heroH1": "Çdo Transaksion i Llogaritur",
+      "heroSub": "Çdo depozitë, bast, fitim dhe tërheqje regjistrohet plotësisht — e ndërtuar për auditim, pajtim dhe qetësi mendore.",
+      "heroImage": "/assets/images/wallet.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Menaxhimi i paqartë i balancës krijon mosmarrëveshje me lojtarët, auditorët dhe ekipet financiare — veçanërisht kur kazino dhe sport ndajnë një llogari.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms mban një libër transaksionesh të plotë dhe të pandryshueshëm — çdo kredit dhe debit i gjurmueshëm nga regjistrimi deri te tërheqja.",
+      "capabilities": [
+        "Histori e plotë transaksionesh për çdo veprim lojtari",
+        "Regjistra të gatshëm për auditim për ekipet financiare dhe pajtueshmërisë",
+        "Përditësime të menjëhershme të balancës në kazino, sport dhe bonus",
+        "Ndjekje e veçuar e balancës cash dhe bonus me progres wagering",
+        "Raporte pajtimi të harmonizuara me kontabilitetin e operatorit",
+        "Mbështetje multi-valutë me USD si shfaqje e parazgjedhur"
+      ],
+      "steps": [
+        {
+          "title": "Veprim Lojtari",
+          "desc": "Depozitë, bast, fitim, bonus ose tërheqje"
+        },
+        {
+          "title": "Hyrje në Libër",
+          "desc": "Çdo lëvizje regjistrohet me vulë kohore dhe lloj"
+        },
+        {
+          "title": "Përditësim Balancë",
+          "desc": "Balancat cash dhe bonus rifreskohen në kohë reale"
+        },
+        {
+          "title": "Audit & Eksport",
+          "desc": "Ekipi financiar eksporton dhe pajton në Admin"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/wallet.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "payments",
+        "business-intelligence",
+        "risk-compliance"
+      ]
+    },
+    "payments": {
+      "slug": "payments",
+      "badge": "Pagesa",
+      "title": "50+ Porta Pagesash",
+      "heroH1": "50+ Porta, Arritje Globale",
+      "heroSub": "Prano kripto dhe fiat në mbarë botën me depozita të automatizuara dhe proces të sigurt aprovimi tërheqjesh.",
+      "heroImage": "/assets/images/payments.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Opsione të kufizuara pagesash do të thotë depozita të humbura, ndërsa përpunimi manual i tërheqjeve krijon vonesa dhe rrezik operacional.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms lidh 50+ porta pagesash — kripto, fiat, transfer bankar dhe e-wallet — me depozita të automatizuara dhe aprovim tërheqjesh të kontrolluar nga operatori.",
+      "capabilities": [
+        "Metoda pagesash kripto dhe fiat për baza globale lojtarësh",
+        "Konfirmim automatik depozite dhe kreditim portofoli",
+        "Rrjedhë pune e sigurt aprovimi tërheqjesh me porta mashtrimi",
+        "Opsione pagese manuale dhe semi-automatike për operatorët",
+        "Konfigurim metode pagese për markë dhe rajon",
+        "I integruar me Sistemin Anti-Mashtrim për mbrojtje pagesash"
+      ],
+      "steps": [
+        {
+          "title": "Lojtari Depoziton",
+          "desc": "Zgjedh metodën dhe përfundon pagesën"
+        },
+        {
+          "title": "Kreditim Auto",
+          "desc": "Portofoli përditësohet pas depozitës së konfirmuar"
+        },
+        {
+          "title": "Kërkesë Tërheqje",
+          "desc": "Lojtari dërgon pagesë; rreziku vlerësohet"
+        },
+        {
+          "title": "Aprovimi i Operatorit",
+          "desc": "Tërheqjet e aprovuara përpunohen në mënyrë të sigurt"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/payments.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "anti-fraud",
+        "risk-compliance"
+      ]
+    },
+    "bonus-engine": {
+      "slug": "bonus-engine",
+      "badge": "Bonus",
+      "title": "Motor Bonus i Plotë",
+      "heroH1": "Çdo Lloj Promocioni që Ju Duhet",
+      "heroSub": "Mirëseardhje, përputhje depozite, cashback, rrotullime falas, shpërblime VIP dhe ndjekje wagering — për kazino dhe sport, gati për përdorim.",
+      "heroImage": "/assets/images/bonus.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Mjete promocionesh të fragmentuara çojnë në abuzim bonusesh, rregulla wagering të paqarta dhe fushata që nuk mund të mbulojnë kazino dhe sport.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms përfshin motor bonus të plotë — konfiguro politikat në Admin, lër lojtarët të kërkojnë në aplikacion dhe ndiq progresin e rollover në kohë reale.",
+      "capabilities": [
+        "Bonus mirëseardhjeje, depozite të parë, reload dhe ditore/javore",
+        "Cashback, rrotullime falas dhe shpërblime nivele VIP",
+        "Baste falas sportive, rritje koeficientësh dhe bonus akumulatorësh",
+        "Progres wagering dhe rollover në kohë reale për lojtarët",
+        "Rregulla fleksibele politike — shuma, lojëra, sport dhe skadim",
+        "Rrjedhë kërkese vetë-shërbimi lojtari me kushte transparente"
+      ],
+      "steps": [
+        {
+          "title": "Konfiguro Politikën",
+          "desc": "Operatori vendos rregullat e bonusit në Admin"
+        },
+        {
+          "title": "Lojtari Kualifikohet",
+          "desc": "Depozitë, regjistrim ose trigger fushate"
+        },
+        {
+          "title": "Kërko & Luaj",
+          "desc": "Bonusi kreditohet; wagering ndiqet live"
+        },
+        {
+          "title": "Konverto ose Skado",
+          "desc": "Rollover i plotë → balancë cash"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/bonus.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "marketing-crm",
+        "sportsbook",
+        "anti-fraud"
+      ]
+    },
+    "marketing-crm": {
+      "slug": "marketing-crm",
+      "badge": "CRM",
+      "title": "CRM Marketing",
+      "heroH1": "Rrit dhe Mbaj Lojtarët Tuaj",
+      "heroSub": "Segmento lojtarët, drejto fushatat, automatizo mesazhe cikli jetësor dhe mat mbajtjen — pa mjete palësh të treta.",
+      "heroImage": "/assets/images/crm.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Eksportimi i të dhënave të lojtarëve në CRM të jashtme shkel pajtueshmërinë, shton kosto dhe vonon fushatat kur timing-u ka rëndësi maksimale.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms përfshin CRM marketing të integruar — segmento, syno dhe mat fushatat ku të dhënat e lojtarëve tuaj tashmë jetojnë.",
+      "capabilities": [
+        "Segmentim lojtarësh — VIP, të rinj, joaktivë, me vlerë të lartë dhe të personalizuar",
+        "Krijim, planifikim fushatash dhe teste A/B",
+        "Mesazhe cikli jetësor — regjistrim, depozitë e parë, udhëtime rikthimi lojtarësh",
+        "Mjete mbajtjeje të lidhura me bonus dhe programe besnikërie",
+        "Synim promocionesh sipas segmentit me ndjekje konvertimi",
+        "Analitikë fushatash dhe matje ROI në platformë"
+      ],
+      "steps": [
+        {
+          "title": "Përcakto Segmentin",
+          "desc": "Filtro lojtarët sipas sjelljes dhe vlerës"
+        },
+        {
+          "title": "Ndërto Fushatën",
+          "desc": "Mesazh, ofertë dhe orar"
+        },
+        {
+          "title": "Lanço & Syno",
+          "desc": "Arri lojtarët e duhur në kohën e duhur"
+        },
+        {
+          "title": "Mat Rezultatet",
+          "desc": "Ndiq konvertimet dhe ndikimin e mbajtjes"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/crm.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "bonus-engine",
+        "business-intelligence",
+        "affiliate-system"
+      ]
+    },
+    "affiliate-system": {
+      "slug": "affiliate-system",
+      "badge": "Affiliate",
+      "title": "Sistemi Affiliate",
+      "heroH1": "Rritu përmes Partnerëve",
+      "heroSub": "Modele CPA, ndarje të ardhurash ose hibride me mbështetje sub-affiliate dhe portal të dedikuar partnerësh.",
+      "heroImage": "/assets/images/affiliate.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Ndjekja affiliate bazuar në fletëllogaritje çon në mosmarrëveshje pagesash, konvertime të humbura dhe partnerë që nuk mund të vetë-shërbejnë.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms përfshin modul affiliate të plotë — ndiq referimet, llogarit komisionet automatikisht dhe u jep partnerëve një portal me markë.",
+      "capabilities": [
+        "Modele komisioni CPA, RevShare dhe hibride",
+        "Hierarki sub-affiliate me raportim transparent",
+        "Portal i dedikuar partnerësh me statistika dhe materiale kreative",
+        "Llogaritje automatike komisioni mbi GGR dhe NGR",
+        "Ndjekje lidhjesh referimi dhe kode promo",
+        "Menaxhim pagesash i integruar me rrjedhat financiare"
+      ],
+      "steps": [
+        {
+          "title": "Partneri Onboardohet",
+          "desc": "Affiliate merr lidhje ndjekjeje dhe kode"
+        },
+        {
+          "title": "Lojtari Regjistrohet",
+          "desc": "Referimi i atribuohet llogarisë së partnerit"
+        },
+        {
+          "title": "Aktiviteti Ndjeket",
+          "desc": "Depozitat, bastet dhe GGR lidhen me partnerin"
+        },
+        {
+          "title": "Komisioni Paguhet",
+          "desc": "Llogaritje dhe cikël pagese i automatizuar"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/affiliate.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "marketing-crm",
+        "business-intelligence",
+        "payments"
+      ]
+    },
+    "business-intelligence": {
+      "slug": "business-intelligence",
+      "badge": "Analitikë",
+      "title": "Inteligjencë Biznesi",
+      "heroH1": "Njih Numrat Tuaj",
+      "heroSub": "GGR, NGR dhe KPI ditore në panele që ekipi juaj financiar mund t'i besojë.",
+      "heroImage": "/assets/images/analytics.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Raportimi i vonuar ose i paqëndrueshëm e bën të pamundur reagimin ndaj trendeve, optimizimin e fushatave ose raportimin e saktë te palët e interesuara.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms ofron inteligjencë biznesi në kohë reale — GGR, NGR, depozita, tërheqje dhe performancë affiliate në një panel.",
+      "capabilities": [
+        "Raporte GGR dhe NGR me ndarje ditore dhe periodike",
+        "KPI depozitash, tërheqjesh dhe aktiviteti lojtarësh",
+        "Raporte performancë affiliate dhe fushatash",
+        "Analitikë të ardhurash në nivel loje dhe furnizuesi",
+        "Të dhëna gati për eksport për financë dhe kontabilitet",
+        "Qasje paneli bazuar në role për përdoruesit Admin"
+      ],
+      "steps": [
+        {
+          "title": "Të Dhënat Kapen",
+          "desc": "Çdo bast, depozitë dhe bonus regjistrohet"
+        },
+        {
+          "title": "Agregohen",
+          "desc": "Përmbledhje në kohë reale sipas lojtari, loje dhe periudhe"
+        },
+        {
+          "title": "Vizualizohen",
+          "desc": "Panele dhe raporte në Admin"
+        },
+        {
+          "title": "Veprim",
+          "desc": "Operatorët optimizojnë bazuar në njohuri live"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/analytics.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "wallet",
+        "marketing-crm",
+        "operator-backoffice"
+      ]
+    },
+    "anti-fraud": {
+      "slug": "anti-fraud",
+      "badge": "Siguri",
+      "title": "Sistemi Anti-Mashtrim",
+      "heroH1": "Ndalo Mashtrimin Para se të Të Kushtojë",
+      "heroSub": "Anti-mashtrim dhe vlerësim rreziku i integruar për regjistrim, hyrje, pagesa dhe baste — me skrining AML dhe zbatim të automatizuar.",
+      "heroImage": "/assets/images/security.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Abuzimi i bonusit, multi-accounting dhe tërheqjet e dyshimta erozojnë marzhet e operatorit dhe krijojnë ekspozim rregullator.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Sistemi Anti-Mashtrim vlerëson çdo veprim kritik para se të përfundojë — dhe monitoron bastet dhe bonuset vazhdimisht me rezultate Lejo, Sfido ose Blloko.",
+      "capabilities": [
+        "Mbrojtje regjistrimi dhe hyrje kundër aktorëve të dëmshëm",
+        "Porta para tërheqjes — pagesa me rrezik të lartë mbajtur automatikisht",
+        "Zbulim multi-llogarie nëpër pajisje dhe metoda pagesash",
+        "Skrining listash bllokimi AML në regjistrim dhe transaksione",
+        "Mbajtje e automatizuar, sfidë MFA dhe zbatim bllokimi",
+        "Gjurmë auditimi admin e plotë për çdo vendim rreziku"
+      ],
+      "steps": [
+        {
+          "title": "Veprim Lojtari",
+          "desc": "Regjistrim, hyrje, depozitë, bast ose tërheqje"
+        },
+        {
+          "title": "Vlerësim Rreziku",
+          "desc": "Vlerësim në kohë reale kundër politikave të operatorit"
+        },
+        {
+          "title": "Vendimi",
+          "desc": "Lejo, Sfido (MFA) ose Blloko"
+        },
+        {
+          "title": "Regjistër Auditimi",
+          "desc": "Çdo rezultat regjistrohet në Admin"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/security.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "payments",
+        "risk-compliance",
+        "operator-backoffice"
+      ]
+    },
+    "risk-compliance": {
+      "slug": "risk-compliance",
+      "badge": "Pajtueshmëri",
+      "title": "Rrezik & Pajtueshmëri",
+      "heroH1": "Opero me Besim",
+      "heroSub": "Mjete lojëra të përgjegjshme, rrjedhë pune KYC dhe mbështetje kornizash rregullatore të integruara në Ascendra Platforms.",
+      "heroImage": "/assets/images/compliance.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Kërkesat rregullatore ndryshojnë sipas tregut — pa mjete të integruara, operatorët shtojnë KYC dhe lojëra të përgjegjshme si mendim të vonuar.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms përfshin kufij lojëra të përgjegjshme, rrjedha pune verifikimi KYC dhe faqe ligjore me markë — të konfigurueshme për markë dhe juridiksion.",
+      "capabilities": [
+        "Lojëra të përgjegjshme — kufij depozitash, humbjeje dhe seance",
+        "Mbështetje vetë-përjashtimi dhe periudha qetësimi",
+        "Ngarkim dokumentesh KYC dhe rrjedhë pune verifikimi",
+        "Faqe Kushtesh, Privatësie, AML dhe Lojëra të Përgjegjshme me markë",
+        "Status verifikimi lojtari i dukshëm në Admin",
+        "Integrim me Sistemin Anti-Mashtrim për skrining të thelluar"
+      ],
+      "steps": [
+        {
+          "title": "Lojtari Onboardohet",
+          "desc": "Verifikimi i identitetit aktivizohet nga politika"
+        },
+        {
+          "title": "Dokumentet Shqyrtohen",
+          "desc": "Operatori aprovon ose kërkon ridërgim"
+        },
+        {
+          "title": "Kufijtë Aplikohen",
+          "desc": "Cilësimet e lojërave të përgjegjshme zbatojnë"
+        },
+        {
+          "title": "Monitorim i Vazhdueshëm",
+          "desc": "Statusi i pajtueshmërisë ndiqet në Admin"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/compliance.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "anti-fraud",
+        "payments",
+        "operator-backoffice"
+      ]
+    },
+    "operator-backoffice": {
+      "slug": "operator-backoffice",
+      "badge": "Admin",
+      "title": "Backoffice i Operatorit",
+      "heroH1": "Një Panel Kontrolli për Gjithçka",
+      "heroSub": "Menaxho lojtarët, financat, lojërat, sportin, bonuset, CRM, alarmet e mashtrimit dhe mbështetjen nga një panel kontrolli i sigurt.",
+      "heroImage": "/assets/images/backoffice.jpg",
+      "problemTitle": "Sfidat",
+      "problem": "Menaxhimi i shumë mjeteve admin për lojtarë, pagesa, lojëra dhe mbështetje ngadalëson operatorët dhe rrit shkallën e gabimeve.",
+      "solutionTitle": "Zgjidhja Ascendra",
+      "solution": "Ascendra Platforms Admin është backoffice i unifikuar — qasje bazuar në role, panele në kohë reale dhe çdo modul në një panel.",
+      "capabilities": [
+        "Menaxhim lojtarësh — profile, kufij, KYC dhe histori",
+        "Financa — depozita, tërheqje, aprovime dhe pajtim",
+        "Konfigurim katalogu lojërash dhe sportive",
+        "Administrim module bonus, CRM dhe affiliate",
+        "Alarme anti-mashtrim dhe regjistra auditimi vendimesh rreziku",
+        "Menaxhim chat live dhe biletash mbështetjeje"
+      ],
+      "steps": [
+        {
+          "title": "Hyrje me Rol",
+          "desc": "Qasje e kontrolluar RBAC për çdo anëtar ekipi"
+        },
+        {
+          "title": "Monitoro Panelin",
+          "desc": "KPI, alarme dhe veprime në pritje"
+        },
+        {
+          "title": "Vepro",
+          "desc": "Aprovo, konfiguro ose përgjigju në një vend"
+        },
+        {
+          "title": "Gjurmë Auditimi",
+          "desc": "Çdo veprim admin regjistrohet për pajtueshmëri"
+        }
+      ],
+      "screenshotPlayer": "/assets/images/backoffice.jpg",
+      "screenshotAdmin": "/assets/images/dashboard.jpg",
+      "related": [
+        "business-intelligence",
+        "anti-fraud",
+        "game-integrations"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Admin Login — Ascendra Platforms</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="../css/site.css" />
+  <link rel="stylesheet" href="../css/admin.css" />
+</head>
+<body class="admin-login-wrap">
+  <div class="admin-login-card">
+    <img class="logo-mark" src="/assets/logo-mark.svg" width="40" height="40" alt="" style="margin-bottom:20px" />
+    <h1>Admin Login</h1>
+    <p>Sign in to view demo and contact requests.</p>
+    <div id="login-error" class="admin-error" hidden></div>
+    <form id="admin-login-form">
+      <div class="form-group">
+        <label for="password">Password</label>
+        <input type="password" id="password" name="password" required autocomplete="current-password" />
+      </div>
+      <button type="submit" class="btn btn-primary btn-lg" style="width:100%">Sign In</button>
+    </form>
+  </div>
+  <script type="module" src="../js/admin-login.mjs"></script>
+</body>
+</html>

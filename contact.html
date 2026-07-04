@@ -1,4 +1,4 @@
-﻿<!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -10,25 +10,10 @@
   <link rel="stylesheet" href="css/site.css" />
 </head>
 <body data-page="contact" data-ambient="true">
-
-  <svg xmlns="http://www.w3.org/2000/svg" style="display:none" aria-hidden="true">
-    <symbol id="logo-mark" viewBox="0 0 36 36">
-      <defs>
-        <linearGradient id="lg" x1="0" y1="0" x2="1" y2="1">
-          <stop offset="0%" stop-color="#7c6cf0"/>
-          <stop offset="100%" stop-color="#e8b923"/>
-        </linearGradient>
-      </defs>
-      <rect width="36" height="36" rx="10" fill="url(#lg)"/>
-      <path d="M10 24 L18 10 L26 24" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
-      <path d="M13 20 L23 20" stroke="#fff" stroke-width="2" stroke-linecap="round" opacity="0.9"/>
-    </symbol>
-  </svg>
-
   <header class="header">
     <div class="container header-inner">
       <a href="index.html" class="logo">
-        <svg class="logo-mark" aria-hidden="true"><use href="#logo-mark"/></svg>
+        <img class="logo-mark" src="/assets/logo-mark.svg" width="36" height="36" alt="" aria-hidden="true" />
         <div class="logo-text">
           <span class="brand-name">Ascendra Platforms</span>
           <span class="brand-tag">iGaming Infrastructure</span>
@@ -133,7 +118,7 @@
 
     <aside class="contact-sidebar">
       <div class="sidebar-card">
-        <div class="response-badge">● Typical response within 24 hours</div>
+        <div class="response-badge">✓ Typical response within 24 hours</div>
         <h3>Talk to Our Team</h3>
         <p>Whether you're launching a new brand or migrating from another platform, we'll tailor the demo to your use case.</p>
         <p style="margin-top:16px;font-size:14px;color:var(--text-primary)"><strong>sales@ascendraplatforms.com</strong></p>
@@ -143,7 +128,7 @@
         <h3>What You'll See</h3>
         <ul>
           <li>250+ game integrations and vendor catalog</li>
-          <li>Full sportsbook — pre-match and live</li>
+          <li>Full sportsbook — pre-match and live and live</li>
           <li>50+ payment gateways and wallet ledger</li>
           <li>Bonus engine, CRM, and Anti-Fraud System</li>
           <li>Operator backoffice walkthrough</li>
@@ -161,7 +146,7 @@
       <div class="footer-grid">
         <div class="footer-brand">
           <a href="index.html" class="logo">
-            <svg class="logo-mark" aria-hidden="true"><use href="#logo-mark"/></svg>
+            <img class="logo-mark" src="/assets/logo-mark.svg" width="36" height="36" alt="" aria-hidden="true" />
             <div class="logo-text">
               <span class="brand-name">Ascendra Platforms</span>
               <span class="brand-tag">iGaming Infrastructure</span>
@@ -201,8 +186,18 @@
     <a href="contact.html" class="btn btn-primary">Request Demo</a>
   </div>
 
-  <div class="toast" id="toast" role="status">Thank you! We'll be in touch within 24 hours.</div>
+  <dialog class="contact-modal" id="contact-modal" aria-labelledby="contact-modal-title">
+    <div class="contact-modal__panel">
+      <div class="contact-modal__icon" id="contact-modal-icon" aria-hidden="true">✓</div>
+      <h2 class="contact-modal__title" id="contact-modal-title">Request received</h2>
+      <p class="contact-modal__message" id="contact-modal-message">Your request has been delivered successfully. Our team will review it and send a reply to your email.</p>
+      <button type="button" class="btn btn-primary contact-modal__btn" id="contact-modal-close">OK</button>
+    </div>
+  </dialog>
 
+  <div class="toast" id="toast" role="alert" hidden></div>
+
+  <script type="module" src="js/i18n-init.mjs"></script>
   <script src="js/site.js"></script>
   <script src="js/home-ambient.js"></script>
   <script type="module" src="js/contact-form.mjs"></script>

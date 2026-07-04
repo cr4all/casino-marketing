@@ -109,7 +109,7 @@
 
       ctx.beginPath();
       ctx.arc(p.x, p.y, p.r, 0, Math.PI * 2);
-      ctx.fillStyle = "rgba(124, 108, 240, 0.55)";
+      ctx.fillStyle = "rgba(34, 165, 89, 0.22)";
       ctx.fill();
     }
 
@@ -119,11 +119,11 @@
         var dy = particles[a].y - particles[b].y;
         var dist = Math.sqrt(dx * dx + dy * dy);
         if (dist > linkDist) continue;
-        var alpha = (1 - dist / linkDist) * 0.16;
+        var alpha = (1 - dist / linkDist) * 0.06;
         ctx.beginPath();
         ctx.moveTo(particles[a].x, particles[a].y);
         ctx.lineTo(particles[b].x, particles[b].y);
-        ctx.strokeStyle = "rgba(124, 108, 240, " + alpha.toFixed(3) + ")";
+        ctx.strokeStyle = "rgba(34, 165, 89, " + alpha.toFixed(3) + ")";
         ctx.lineWidth = 0.8;
         ctx.stroke();
       }
@@ -149,13 +149,13 @@
       var x = cx + px * scale;
       var y = cy + py * scale;
       var hueMix = (i / points.length + t * 0.02) % 1;
-      var color = hueMix > 0.72 ? "rgba(232, 185, 35, 0.045)" : "rgba(124, 108, 240, 0.04)";
+      var color = hueMix > 0.72 ? "rgba(74, 222, 128, 0.025)" : "rgba(34, 165, 89, 0.02)";
       ctx.fillStyle = color;
       ctx.fillRect(x, y, 1.2, 1.2);
     }
 
     ctx.globalAlpha = 0.035;
-    ctx.strokeStyle = "#7c6cf0";
+    ctx.strokeStyle = "#22a559";
     ctx.lineWidth = 0.6;
     for (var j = 0; j < 6; j++) {
       var side = 90 + j * 18;
@@ -233,8 +233,8 @@
         ctx.lineTo(v10.x, v10.y);
         ctx.closePath();
         ctx.fillStyle = avgH > 0.35
-          ? "rgba(232, 185, 35, " + alpha.toFixed(3) + ")"
-          : "rgba(124, 108, 240, " + alpha.toFixed(3) + ")";
+          ? "rgba(74, 222, 128, " + alpha.toFixed(3) + ")"
+          : "rgba(34, 165, 89, " + alpha.toFixed(3) + ")";
         ctx.fill();
       }
     }
@@ -247,7 +247,7 @@
         if (j === 0) ctx.moveTo(p.x, p.y);
         else ctx.lineTo(p.x, p.y);
       }
-      ctx.strokeStyle = "rgba(124, 108, 240, 0.28)";
+      ctx.strokeStyle = "rgba(34, 165, 89, 0.2)";
       ctx.stroke();
     }
 
@@ -258,13 +258,13 @@
         if (i === 0) ctx.moveTo(q.x, q.y);
         else ctx.lineTo(q.x, q.y);
       }
-      ctx.strokeStyle = "rgba(167, 139, 250, 0.22)";
+      ctx.strokeStyle = "rgba(52, 196, 113, 0.16)";
       ctx.stroke();
     }
 
     var glow = ctx.createRadialGradient(cx, cy, 10, cx, cy, meshScale * 1.1);
-    glow.addColorStop(0, "rgba(124, 108, 240, 0.12)");
-    glow.addColorStop(1, "rgba(7, 11, 20, 0)");
+    glow.addColorStop(0, "rgba(34, 165, 89, 0.08)");
+    glow.addColorStop(1, "rgba(255, 255, 255, 0)");
     ctx.fillStyle = glow;
     ctx.fillRect(0, 0, state.heroW, state.heroH);
   }

@@ -5,7 +5,7 @@ export const FEATURES = {
     title: "250+ Game Integrations",
     heroH1: "One Platform, 250+ Integrations",
     heroSub: "Connect with leading game studios — slots, live casino, and table games from Pragmatic Play, Evolution, SA Gaming, and more on Ascendra Platforms.",
-    heroImage: "/assets/images/games.jpg",
+    heroImage: "/assets/images/gates-of-olympus.jpg",
     problemTitle: "The Challenge",
     problem: "Operators waste months negotiating individual vendor contracts and managing fragmented game catalogs across multiple systems.",
     solutionTitle: "The Ascendra Solution",

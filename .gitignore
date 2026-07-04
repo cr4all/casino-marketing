@@ -2,6 +2,7 @@ node_modules/
 dist/
 .env
 .env.local
+data/
 vite.features.json
 *.log
 .DS_Store

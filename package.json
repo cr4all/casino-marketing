@@ -5,13 +5,28 @@
   "type": "module",
   "description": "Ascendra Platforms — B2B marketing website",
   "scripts": {
-    "dev": "vite",
+    "dev": "concurrently \"npm run dev:web\" \"npm run dev:api\"",
+    "predev": "node scripts/free-api-port.mjs",
+    "dev:web": "vite",
+    "dev:api": "node --watch --watch-path=server --watch-path=.env server/index.mjs",
     "build": "vite build",
     "preview": "vite preview",
+    "start": "node server/index.mjs",
     "generate:features": "node scripts/generate-feature-pages.mjs",
-    "prebuild": "node scripts/generate-feature-pages.mjs"
+    "generate:locales": "node scripts/generate-locales.mjs",
+    "generate:locales:all": "node scripts/generate-locales.mjs --all",
+    "translate:sections": "node scripts/translate-sections.mjs",
+    "prebuild": "node scripts/generate-locales.mjs && node scripts/generate-feature-pages.mjs"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "express-rate-limit": "^7.5.0",
+    "sql.js": "^1.13.0"
   },
   "devDependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
+    "concurrently": "^9.1.2",
     "vite": "^6.3.5"
   }
 }

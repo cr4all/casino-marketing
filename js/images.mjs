@@ -1,6 +1,7 @@
 /** Local marketing site image paths (served from public/assets/images). */
 export const IMAGES = {
   games: "/assets/images/games.jpg",
+  gatesOfOlympus: "/assets/images/gates-of-olympus.jpg",
   sports: "/assets/images/sports.jpg",
   wallet: "/assets/images/wallet.jpg",
   payments: "/assets/images/payments.jpg",
