@@ -146,8 +146,7 @@ function applyHome() {
     q("p", brandsHeader).textContent = t("home.brands.sub");
   }
   qa(".brand-badge").forEach((el) => {
-    if (el.textContent.includes("Casino")) el.textContent = t("common.badges.casinoSportsbook");
-    else if (el.textContent.includes("Coming")) el.textContent = t("common.badges.comingSoon");
+    if (el.textContent.includes("Coming")) el.textContent = t("common.badges.comingSoon");
   });
   const brandsCta = q(".brands-cta .btn");
   if (brandsCta) brandsCta.textContent = t("common.actions.becomeSuccess");

@@ -28,7 +28,6 @@ const KEEP_AS_IS = [
   /^[\d+]+$/,
   /^GGR\b/,
   /^NGR\b/,
-  /^IBETS24$/,
   /ascendraplatforms\.com/i,
   /@[\w.-]+\.\w+/,
 ];
